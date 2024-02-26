@@ -21,6 +21,7 @@ public class PlayerMovement2 : MonoBehaviour
     private Vector3 moveDirection = Vector3.zero;
     private float rotationX = 0;
     private CharacterController characterController;
+    private float axisx = 0;
 
     private bool canMove = true;
 
@@ -89,12 +90,27 @@ public class PlayerMovement2 : MonoBehaviour
 
         characterController.Move(moveDirection * Time.deltaTime);
 
+
+        if (Input.GetKey(KeyCode.Q))
+            axisx = 0.2f;
+
+        if (Input.GetKey(KeyCode.E))
+            axisx = -0.2f;
+
+
         if (canMove)
         {
-            rotationX += -Input.GetAxis("Mouse Y") * lookSpeed;
-            rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
+            //rotationX += -Input.GetAxis("Mouse Y") * lookSpeed;
+
+            //print(-Input.GetAxis("Mouse Y"));
+
+            //rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
             playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
-            transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
+
+            //transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
+            transform.rotation *= Quaternion.Euler(0, axisx * lookSpeed, 0);
+
+            axisx = 0;
         }
     }
 }

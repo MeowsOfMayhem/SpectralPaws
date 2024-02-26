@@ -5,6 +5,8 @@ using UnityEngine;
 [RequireComponent(typeof(CharacterController))]
 public class PlayerMovement2 : MonoBehaviour
 {
+    public static PlayerMovement2 instance;
+
     public Camera playerCamera;
     public float walkSpeed = 6f;
     public float runSpeed = 12f;
@@ -12,7 +14,7 @@ public class PlayerMovement2 : MonoBehaviour
     public float gravity = 10f;
     public float lookSpeed = 2f;
     public float lookXLimit = 45f;
-    public float defaultHeight = 2f;
+    public float defaultHeight = 1f;
     public float crouchHeight = 1f;
     public float crouchSpeed = 3f;
     public SpriteRenderer theSR;
@@ -21,6 +23,11 @@ public class PlayerMovement2 : MonoBehaviour
     private CharacterController characterController;
 
     private bool canMove = true;
+
+    private void Awake()
+    {
+        instance = this;
+    }
 
     void Start()
     {
@@ -68,7 +75,7 @@ public class PlayerMovement2 : MonoBehaviour
             runSpeed = 12f;
         }
 
-        //print(moveDirection);
+       // print(moveDirection);
 
         // ToDo -- fix flipx
 

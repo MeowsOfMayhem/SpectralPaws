@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(CharacterController))]
@@ -12,16 +10,24 @@ public class PlayerMovement2 : MonoBehaviour
     public float runSpeed = 12f;
     public float jumpPower = 7f;
     public float gravity = 10f;
-    public float lookSpeed = 2f;
+    public float lookSpeedX = 600f; // Camera sensitivity for X-axis
+    public float lookSpeedY = 600f; // Camera sensitivity for Y-axis
     public float lookXLimit = 45f;
     public float defaultHeight = 1f;
     public float crouchHeight = 1f;
     public float crouchSpeed = 3f;
+    public float dashDistance = 5f; // Distance to dash
+    public float dashDuration = 0.2f; // Duration of the dash
+    public float dashCooldown = 2f; // Cooldown between dashes
     public SpriteRenderer theSR;
+    public int playerDamage = 10; // Player's damage value
+
     private Vector3 moveDirection = Vector3.zero;
-    private float rotationX = 0;
     private CharacterController characterController;
-    private float axisx = 0;
+    private float rotationX = 0;
+    private bool isDashing = false;
+    private float dashTimer = 0f;
+    private float dashCooldownTimer = 0f;
 
     private bool canMove = true;
 
@@ -39,6 +45,7 @@ public class PlayerMovement2 : MonoBehaviour
 
     void Update()
     {
+        // Player movement
         Vector3 forward = transform.TransformDirection(Vector3.forward);
         Vector3 right = transform.TransformDirection(Vector3.right);
 
@@ -67,7 +74,6 @@ public class PlayerMovement2 : MonoBehaviour
             characterController.height = crouchHeight;
             walkSpeed = crouchSpeed;
             runSpeed = crouchSpeed;
-
         }
         else
         {
@@ -76,41 +82,65 @@ public class PlayerMovement2 : MonoBehaviour
             runSpeed = 12f;
         }
 
-       // print(moveDirection);
-
-        // ToDo -- fix flipx
-
-        if(!theSR.flipX && moveDirection.x > 0)
+        // Attack
+        if (Input.GetMouseButtonDown(0))
         {
-            theSR.flipX = true;
-        } else if  (theSR.flipX && moveDirection.x < 0)
+            Attack();
+        }
+
+        // Dash
+        if (Input.GetKeyDown(KeyCode.Q) && !isDashing && dashCooldownTimer <= 0) // Changed to check for Q
         {
-            theSR.flipX = false;
+            isDashing = true;
+            dashTimer = dashDuration;
+            dashCooldownTimer = dashCooldown;
+        }
+
+        if (isDashing)
+        {
+            float dashDistanceThisFrame = dashDistance * Time.deltaTime / dashDuration;
+            characterController.Move(transform.forward * dashDistanceThisFrame);
+            dashTimer -= Time.deltaTime;
+            if (dashTimer <= 0)
+            {
+                isDashing = false;
+            }
+        }
+
+        // Cooldown timer
+        if (dashCooldownTimer > 0)
+        {
+            dashCooldownTimer -= Time.deltaTime;
+        }
+
+        // Camera rotation
+        if (canMove)
+        {
+            float mouseX = Input.GetAxis("Mouse X") * lookSpeedX * Time.deltaTime;
+            transform.Rotate(Vector3.up * mouseX);
+
+            rotationX += -Input.GetAxis("Mouse Y") * lookSpeedY * Time.deltaTime;
+            rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
+            playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
         }
 
         characterController.Move(moveDirection * Time.deltaTime);
+    }
 
+    void Attack()
+    {
+        // Implement your attack logic here
+        Debug.Log("Player attacks!");
 
-        if (Input.GetKey(KeyCode.Q))
-            axisx = 0.2f;
-
-        if (Input.GetKey(KeyCode.E))
-            axisx = -0.2f;
-
-
-        if (canMove)
+        // Detect if the attack hits the dummy
+        RaycastHit hit;
+        if (Physics.Raycast(playerCamera.transform.position, playerCamera.transform.forward, out hit))
         {
-            //rotationX += -Input.GetAxis("Mouse Y") * lookSpeed;
-
-            //print(-Input.GetAxis("Mouse Y"));
-
-            //rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
-            playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
-
-            //transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
-            transform.rotation *= Quaternion.Euler(0, axisx * lookSpeed, 0);
-
-            axisx = 0;
+            Dummy dummy = hit.collider.GetComponent<Dummy>();
+            if (dummy != null)
+            {
+                dummy.TakeDamage(playerDamage); // Adjust the damage value as needed
+            }
         }
     }
 }

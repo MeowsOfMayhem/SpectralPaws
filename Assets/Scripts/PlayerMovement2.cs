@@ -10,6 +10,7 @@ public class PlayerMovement2 : MonoBehaviour
     public float runSpeed = 12f;
     public float jumpPower = 7f;
     public float gravity = 10f;
+    public float lookSpeed = 2f;
     public float lookSpeedX = 600f; // Camera sensitivity for X-axis
     public float lookSpeedY = 600f; // Camera sensitivity for Y-axis
     public float lookXLimit = 45f;
@@ -113,16 +114,40 @@ public class PlayerMovement2 : MonoBehaviour
             dashCooldownTimer -= Time.deltaTime;
         }
 
-        // Camera rotation
+
+        if (!theSR.flipX && moveDirection.x > 0)
+        {
+            theSR.flipX = true;
+        }
+        else if (theSR.flipX && moveDirection.x < 0)
+        {
+            theSR.flipX = false;
+        }
+
         if (canMove)
         {
-            float mouseX = Input.GetAxis("Mouse X") * lookSpeedX * Time.deltaTime;
-            transform.Rotate(Vector3.up * mouseX);
+            rotationX += -Input.GetAxis("Mouse Y") * lookSpeed;
 
-            rotationX += -Input.GetAxis("Mouse Y") * lookSpeedY * Time.deltaTime;
+            //print(-Input.GetAxis("Mouse Y"));
+
             rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
             playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
+
+            transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
+            //transform.rotation *= Quaternion.Euler(0, axisx * lookSpeed, 0);
+
+            //axisx = 0;
         }
+            // Camera rotation
+      //      if (canMove)
+       // {
+       //     float mouseX = Input.GetAxis("Mouse X") * lookSpeedX * Time.deltaTime;
+      //      transform.Rotate(Vector3.up * mouseX);
+
+       //     rotationX += -Input.GetAxis("Mouse Y") * lookSpeedY * Time.deltaTime;
+        //    rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
+       //     playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
+       // }
 
         characterController.Move(moveDirection * Time.deltaTime);
     }

@@ -32,6 +32,8 @@ public class PlayerMovement2 : MonoBehaviour
 
     private bool canMove = true;
 
+    RaycastHit hit;
+
     private void Awake()
     {
         instance = this;
@@ -137,17 +139,27 @@ public class PlayerMovement2 : MonoBehaviour
             //transform.rotation *= Quaternion.Euler(0, axisx * lookSpeed, 0);
 
             //axisx = 0;
-        }
             // Camera rotation
-      //      if (canMove)
-       // {
-       //     float mouseX = Input.GetAxis("Mouse X") * lookSpeedX * Time.deltaTime;
-      //      transform.Rotate(Vector3.up * mouseX);
+            //      if (canMove)
+            // {
+            //     float mouseX = Input.GetAxis("Mouse X") * lookSpeedX * Time.deltaTime;
+            //      transform.Rotate(Vector3.up * mouseX);
 
-       //     rotationX += -Input.GetAxis("Mouse Y") * lookSpeedY * Time.deltaTime;
-        //    rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
-       //     playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
-       // }
+            //     rotationX += -Input.GetAxis("Mouse Y") * lookSpeedY * Time.deltaTime;
+            //    rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
+            //     playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
+            // }
+
+        }
+
+        if (Physics.Raycast(theSR.transform.position, theSR.transform.forward, out hit, 20f))
+        {
+            Debug.DrawRay(theSR.transform.position, theSR.transform.forward * hit.distance, Color.red);
+        }
+        else
+        {
+            Debug.DrawRay(theSR.transform.position, theSR.transform.forward * 20f, Color.green);
+        }
 
         characterController.Move(moveDirection * Time.deltaTime);
     }
@@ -159,8 +171,9 @@ public class PlayerMovement2 : MonoBehaviour
 
         // Detect if the attack hits the dummy
         RaycastHit hit;
-        if (Physics.Raycast(playerCamera.transform.position, playerCamera.transform.forward, out hit))
+        if (Physics.Raycast(theSR.transform.position, theSR.transform.forward, out hit))
         {
+            Debug.DrawRay(theSR.transform.position, theSR.transform.forward * hit.distance, Color.red);
             Dummy dummy = hit.collider.GetComponent<Dummy>();
             if (dummy != null)
             {

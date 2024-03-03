@@ -22,6 +22,7 @@ public class PlayerMovement2 : MonoBehaviour
     public float dashCooldown = 2f; // Cooldown between dashes
     public SpriteRenderer theSR;
     public int playerDamage = 10; // Player's damage value
+    public GameObject bulletsplash;
 
     private Vector3 moveDirection = Vector3.zero;
     private CharacterController characterController;
@@ -179,6 +180,9 @@ public class PlayerMovement2 : MonoBehaviour
             {
                 dummy.TakeDamage(playerDamage); // Adjust the damage value as needed
             }
+            GameObject impactDO = Instantiate(bulletsplash, hit.point, Quaternion.LookRotation(hit.normal));
+
+            Destroy(impactDO, 2f);
         }
     }
 }

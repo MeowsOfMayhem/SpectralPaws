@@ -23,6 +23,7 @@ public class PlayerMovement2 : MonoBehaviour
     public SpriteRenderer theSR;
     public int playerDamage = 10; // Player's damage value
     public GameObject bulletsplash;
+    public GameObject crosshair;
 
     private Vector3 moveDirection = Vector3.zero;
     private CharacterController characterController;
@@ -156,10 +157,12 @@ public class PlayerMovement2 : MonoBehaviour
         if (Physics.Raycast(theSR.transform.position, theSR.transform.forward, out hit, 20f))
         {
             Debug.DrawRay(theSR.transform.position, theSR.transform.forward * hit.distance, Color.red);
+            //crosshair.transform.Translate(theSR.transform.forward * (hit.distance - 1f));
         }
         else
         {
             Debug.DrawRay(theSR.transform.position, theSR.transform.forward * 20f, Color.green);
+            //crosshair.transform.Translate(theSR.transform.forward * 10f);
         }
 
         characterController.Move(moveDirection * Time.deltaTime);

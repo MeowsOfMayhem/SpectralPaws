@@ -24,6 +24,7 @@ public class PlayerMovement2 : MonoBehaviour
     public int playerDamage = 10; // Player's damage value
     public GameObject bulletsplash;
     public GameObject crosshair;
+    public GameObject dashParticle; // Reference to the particle system GameObject for dash effects
 
     private Vector3 moveDirection = Vector3.zero;
     private CharacterController characterController;
@@ -99,6 +100,7 @@ public class PlayerMovement2 : MonoBehaviour
             isDashing = true;
             dashTimer = dashDuration;
             dashCooldownTimer = dashCooldown;
+            Dash();
         }
 
         if (isDashing)
@@ -187,5 +189,12 @@ public class PlayerMovement2 : MonoBehaviour
 
             Destroy(impactDO, 2f);
         }
+    }
+
+    void Dash()
+    {
+        GameObject dashPart = Instantiate(dashParticle, theSR.transform.position, Quaternion.LookRotation(hit.normal));
+
+        Destroy(dashPart, 2f);
     }
 }

@@ -30,6 +30,6 @@ public class Dummy : MonoBehaviour
         isDead = true;
         // You can add death animations, effects, or other logic here
         Debug.Log("Dummy died!");
-        Destroy(gameObject); // Destroy the dummy GameObject
+        Destroy(transform.parent.gameObject); // Destroy the dummy GameObject
     }
 }

@@ -24,6 +24,12 @@ public class EnemyControler1 : MonoBehaviour
     public Transform[] patrolPoints;
     private int currentPatrolPoint;
 
+    public int playerDamage = 10; // Player's damage value
+    public float cooldownTime;
+    public bool canShoot;
+    public GameObject projectile;
+    private float nextFireTime;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,18 +41,13 @@ public class EnemyControler1 : MonoBehaviour
         {
             currentPatrolPoint = 0;
         }
+        nextFireTime = Time.time;
+        //cooldownTime = 3.0f;
     }
 
     // Update is called once per frame
     void Update()
     {
-        // print(Vector3.Distance(transform.position, PlayerMovement2.instance.transform.position));
-        //print(transform.position);
-        //print(PlayerMovement2.instance.transform.position);
-        //print(Vector3.Distance(transform.position, PlayerMovement2.instance.transform.position));
-        //print(currentPatrolPoint);
-        //print(Vector3.Distance(transform.position, patrolPoints[currentPatrolPoint].position));
-       // print(PlayerMovement2.instance.transform.position);
 
         moveDirecton = Vector3.zero;
 
@@ -54,7 +55,17 @@ public class EnemyControler1 : MonoBehaviour
         {
            // print("wlazlo!");
             moveDirecton = PlayerMovement2.instance.transform.position - transform.position;
-           // print(moveDirecton);
+
+            if (canShoot)
+            {
+                //isFireBreath = true;
+                if (Time.time > nextFireTime)
+                {
+                    nextFireTime = Time.time + cooldownTime;
+                    Attack();
+                }
+            }
+            // print(moveDirecton);
         } else
         {
             if (shouldWonder)
@@ -66,6 +77,7 @@ public class EnemyControler1 : MonoBehaviour
                     // move the enemy
 
                     moveDirecton = wanderDirection;
+                    //Attack();
 
                     if (wanderCounter <= 0)
                     {
@@ -87,7 +99,7 @@ public class EnemyControler1 : MonoBehaviour
             if(shouldPatrol)
             {
                 moveDirecton = patrolPoints[currentPatrolPoint].position - transform.position;
-                print(Vector3.Distance(transform.position, patrolPoints[currentPatrolPoint].position));
+                //print(Vector3.Distance(transform.position, patrolPoints[currentPatrolPoint].position));
 
                 if (Vector3.Distance(transform.position, patrolPoints[currentPatrolPoint].position) < 0.5f)
                     {
@@ -109,5 +121,18 @@ public class EnemyControler1 : MonoBehaviour
         moveDirecton.Normalize();
 
         theRB.velocity = moveDirecton * moveSpeed;
+
+        //Debug.DrawRay(theRB.transform.position, theRB.transform.forward * 10, Color.red);
+    }
+
+    void Attack()
+    {
+        // Implement your attack logic here
+        Debug.Log("Enemy attacks!");
+
+        GameObject impactDO = Instantiate(projectile, transform.position, Quaternion.identity);
+        //impactDO.transform.LookAt(PlayerMovement2.instance.transform.position);
+        Destroy(impactDO, 3f);
+
     }
 }

@@ -131,6 +131,7 @@ public class EnemyControler1 : MonoBehaviour
         Debug.Log("Enemy attacks!");
 
         GameObject impactDO = Instantiate(projectile, transform.position, Quaternion.identity);
+        SFX.instance.PlaySFX(1);
         //impactDO.transform.LookAt(PlayerMovement2.instance.transform.position);
         Destroy(impactDO, 3f);
 

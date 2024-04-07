@@ -32,7 +32,7 @@ public class PlayerMovement2 : MonoBehaviour
     private bool isDashing = false;
     private float dashTimer = 0f;
     private float dashCooldownTimer = 0f;
-
+    public GameObject UI;
     private bool canMove = true;
 
     RaycastHit hit;
@@ -60,6 +60,11 @@ public class PlayerMovement2 : MonoBehaviour
         float curSpeedY = canMove ? (isRunning ? runSpeed : walkSpeed) * Input.GetAxis("Horizontal") : 0;
         float movementDirectionY = moveDirection.y;
         moveDirection = (forward * curSpeedX) + (right * curSpeedY);
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            PauseUnpause();
+        }
 
         if (Input.GetButton("Jump") && canMove && characterController.isGrounded)
         {
@@ -142,6 +147,8 @@ public class PlayerMovement2 : MonoBehaviour
             transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
             //transform.rotation *= Quaternion.Euler(0, axisx * lookSpeed, 0);
 
+            SFX.instance.PlaySFX(2); // footsteps
+
             //axisx = 0;
             // Camera rotation
             //      if (canMove)
@@ -189,6 +196,22 @@ public class PlayerMovement2 : MonoBehaviour
 
             Destroy(impactDO, 2f);
         }
+
+        SFX.instance.PlaySFX(0);
+    }
+    
+    void PauseUnpause()
+    {
+        if(UI.activeSelf == false)
+        {
+            UI.SetActive(true);
+            Time.timeScale = 0f;
+        }
+        else
+        {
+            UI.SetActive(false);
+            Time.timeScale = 1f;
+        }
     }
 
     void Dash()
@@ -196,5 +219,6 @@ public class PlayerMovement2 : MonoBehaviour
         GameObject dashPart = Instantiate(dashParticle, theSR.transform.position, Quaternion.LookRotation(hit.normal));
 
         Destroy(dashPart, 2f);
+        SFX.instance.PlaySFX(1); // dash
     }
 }

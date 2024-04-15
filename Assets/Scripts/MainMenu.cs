@@ -7,7 +7,12 @@ public class MainMenu : MonoBehaviour
 {
     public string firstLevelName;
 
-public void StartGame()
+    private void Start()
+    {
+        Cursor.visible = true;
+    }
+
+    public void StartGame()
     {
         SceneManager.LoadScene(firstLevelName);
     }

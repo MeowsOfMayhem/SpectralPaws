@@ -51,6 +51,7 @@ public class Kula : MonoBehaviour
         {
             // Increase score by 1
             print("Hit!");
+            PlayerMovement2.instance.playerHealth -= 1;
 
             GameObject impactDO = Instantiate(bulletsplash, transform.position, Quaternion.identity);
 

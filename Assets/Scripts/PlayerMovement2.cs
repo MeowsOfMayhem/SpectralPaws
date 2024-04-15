@@ -1,4 +1,7 @@
 using UnityEngine;
+using System.Collections;
+using TMPro;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(CharacterController))]
 public class PlayerMovement2 : MonoBehaviour
@@ -25,6 +28,7 @@ public class PlayerMovement2 : MonoBehaviour
     public GameObject bulletsplash;
     public GameObject crosshair;
     public GameObject dashParticle; // Reference to the particle system GameObject for dash effects
+    public int playerHealth = 10;
 
     private Vector3 moveDirection = Vector3.zero;
     private CharacterController characterController;
@@ -34,6 +38,7 @@ public class PlayerMovement2 : MonoBehaviour
     private float dashCooldownTimer = 0f;
     public GameObject UI;
     private bool canMove = true;
+    private TextMeshProUGUI textMeshPro;
 
     RaycastHit hit;
 
@@ -205,13 +210,41 @@ public class PlayerMovement2 : MonoBehaviour
         if(UI.activeSelf == false)
         {
             UI.SetActive(true);
+            textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
+            textMeshPro.text = "Pause!";
             Time.timeScale = 0f;
         }
         else
         {
             UI.SetActive(false);
+            textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
+            textMeshPro.text = "Pause!";
             Time.timeScale = 1f;
         }
+    }
+
+    IEnumerator Wait()
+    {
+        Debug.Log("Wait... start");
+        yield return new WaitForSecondsRealtime(5);
+        Debug.Log("Wait... end");
+        Time.timeScale = 1f;
+        UI.SetActive(false);
+        SceneManager.LoadScene("MainMenu");
+
+    }
+
+    public void EndGame()
+    {
+            UI.SetActive(true);
+            textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
+            textMeshPro.text = "End Game!";
+            Time.timeScale = 0f;
+            StartCoroutine(Wait());
+
+        //UI.SetActive(false);
+        //Time.timeScale = 1f;
+        //SceneManager.LoadScene(nextScene);
     }
 
     void Dash()

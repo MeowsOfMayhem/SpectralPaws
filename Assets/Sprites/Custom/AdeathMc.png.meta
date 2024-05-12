@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,18 +95,898 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AdeathMc_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 914
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e562f3ff77c940989b55ba1dcd83d
+      internalID: 21260251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 913
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228fc60a37058844be7e83de40e4499
+      internalID: -66910874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 910
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164704f895362e34a94529d4b40596c5
+      internalID: -541491859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 916
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02ff6354269ca48a97eb28c3fca2fa
+      internalID: -1018258299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 910
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701fc57684c269c43b8602c4c99c0243
+      internalID: 2108855016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 913
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff0a659f42d6842aa7e23751d14e19
+      internalID: -205678235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 910
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef283d87176654ca71ebf36386329d
+      internalID: -1608874659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 910
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c9ac86c6468c42b0dffc716de19f8
+      internalID: 1756706791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 792
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b5e7a4cb2a604d84f28ac98d01236
+      internalID: 1983092912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 792
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a554871b1383122419ea3951601944dd
+      internalID: -1720898984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 792
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305678b70d21448bc471dd206ac67f
+      internalID: 1502862915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 792
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6d9c376cd87a46bc7c418f664050a
+      internalID: 1801582185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 792
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752407194df1b54da46a4833eca2b57
+      internalID: 483345878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 792
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617846c87f6e984f95e69a44eec73c6
+      internalID: -961961372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_14
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 792
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4433b163d69cfc45a8ce92dc76183f2
+      internalID: 1358416919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 795
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a642bc74cf12a446aceb0a458e212b0
+      internalID: 394927301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 674
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2742285ec97531449744338be8aa7da
+      internalID: 1856932050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 674
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251ce848fb5a0624597ae788861cd099
+      internalID: 1865247452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 677
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153c9eae56fc494885f32f81e575041
+      internalID: 965301016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 674
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be9f994c1e23e45b6a7ee87908cd56
+      internalID: 452543142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 674
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5d130436dfe2a4fb2ed4ba76ffa473
+      internalID: 1675991860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 677
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4913f0539a6be924392c4a4aaf5fa867
+      internalID: -507957400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_22
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 674
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1969b8ad742f8143949e175fa109f7b
+      internalID: -1613291308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 674
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f1fd5bace531a4ea7e40abb1aa8e76
+      internalID: -2036485638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 556
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6607950ca2184abc13e09a8b5ee7c
+      internalID: 365899866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 556
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9e4eb4c9694c48a0d0b6c2a719d21
+      internalID: -375088328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 556
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb6effbde66de1469c0cc37fd00c464
+      internalID: 646566353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 556
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0712131f10b31144ab946aaea19490c0
+      internalID: -597804159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 438
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f57efd7029dc348b0e55a336b496b8
+      internalID: -236770190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 440
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65281dd93eaf98843befe4876327cbe0
+      internalID: -1560400492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 438
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dcbff42c9e6ba459bd36d250127d6c
+      internalID: -314534985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 320
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5b52684140f8409f8ef0323b3e726
+      internalID: -583935160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 320
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fc90e60c297264092ec6ff3c07752a
+      internalID: 487422594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 320
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b3d34d93e26d4d8ae0a8b12c5941c
+      internalID: 1482877732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 202
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4cc2cf51a36564b8b9abbf8dc28a76
+      internalID: 1568846491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 205
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6cd243ff658f4ca1bd9397dddae34
+      internalID: -285566057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 205
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b89a7d8528c8ef499b8a2785a8506c7
+      internalID: -1709497242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 87
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e01e13ff95c64c8e5f700bbb6dd0d
+      internalID: -444344042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 87
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b303f81da97d4381e1fed777dace5
+      internalID: 1024276372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMc_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 84
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44040deec514924fad251196d7ec3f3
+      internalID: -1590970920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 20d46c3be1bfc0140a0be77711cf0e14
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdeathMc_0: 21260251
+      AdeathMc_1: -66910874
+      AdeathMc_10: 1502862915
+      AdeathMc_11: 1801582185
+      AdeathMc_12: 483345878
+      AdeathMc_13: -961961372
+      AdeathMc_14: 1358416919
+      AdeathMc_15: 394927301
+      AdeathMc_16: 1856932050
+      AdeathMc_17: 1865247452
+      AdeathMc_18: 965301016
+      AdeathMc_19: 452543142
+      AdeathMc_2: -541491859
+      AdeathMc_20: 1675991860
+      AdeathMc_21: -507957400
+      AdeathMc_22: -1613291308
+      AdeathMc_23: -2036485638
+      AdeathMc_24: 365899866
+      AdeathMc_25: -375088328
+      AdeathMc_26: 646566353
+      AdeathMc_27: -597804159
+      AdeathMc_28: -236770190
+      AdeathMc_29: -1560400492
+      AdeathMc_3: -1018258299
+      AdeathMc_30: -314534985
+      AdeathMc_31: -583935160
+      AdeathMc_32: 487422594
+      AdeathMc_33: 1482877732
+      AdeathMc_34: 1568846491
+      AdeathMc_35: -285566057
+      AdeathMc_36: -1709497242
+      AdeathMc_37: -444344042
+      AdeathMc_38: 1024276372
+      AdeathMc_39: -1590970920
+      AdeathMc_4: 2108855016
+      AdeathMc_5: -205678235
+      AdeathMc_6: -1608874659
+      AdeathMc_7: 1756706791
+      AdeathMc_8: 1983092912
+      AdeathMc_9: -1720898984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

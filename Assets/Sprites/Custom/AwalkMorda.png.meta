@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,18 +95,458 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AwalkMorda_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 693
+        width: 234
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26b2190dcd2dc6439704dd327c8a1e5
+      internalID: 642163502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 658
+        width: 195
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced8edb9a0ad22646aa644d3ef84f519
+      internalID: 1608822022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 661
+        width: 195
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad8d2d71cdec1a4a9830c841a1d200e
+      internalID: 1104980843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 672
+        width: 200
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a5f72f0d0390e4894d6202ae3b4ea4
+      internalID: 2065111029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_4
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 672
+        width: 195
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe05df7bc9671084581e9cdaf62dc70a
+      internalID: 1678308817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_5
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 678
+        width: 198
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57444a05a7060584ca012ec09be80cbf
+      internalID: -1880632194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_6
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 677
+        width: 195
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a370913316704b820051f5fe28713
+      internalID: 1829256370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 681
+        width: 192
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1582d73e0da4479d354c3328a73e9
+      internalID: 1815534450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 359
+        width: 226
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f7a91f675346409274cbf25ffdfb8
+      internalID: -321023835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 356
+        width: 217
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8fe483038e8fa4aae8713617285e53
+      internalID: -1036235496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 292
+        width: 195
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fefd0d6d9d0d741a818da321406dfb
+      internalID: -56052307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 297
+        width: 195
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe207b44bf4f2145802d8a3f97f480f
+      internalID: -1813808893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_12
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 309
+        width: 195
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13c069180edbd4e9d6d79c01727d76
+      internalID: -1352826828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 311
+        width: 196
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bc6a68117312448bb4bb5f73341a1
+      internalID: -1798826755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_14
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 313
+        width: 197
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e04249d9199e44829138f22c57ade
+      internalID: -656863734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_15
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 311
+        width: 195
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08baf7ea8ad0ead4a9a0b97a90ff8bdd
+      internalID: -1343491741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_16
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 312
+        width: 195
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f334af79f9711e4ab5711e2ad8f1460
+      internalID: -501753172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_17
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 313
+        width: 195
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81059d258b3a19d478abf8f6b9ec2761
+      internalID: -823878080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 226
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc1b2724c054f4d961599936d027cc
+      internalID: 21295193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 217
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05651b2d9a0090d4fafd1a6e4154daec
+      internalID: 1299665110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0e64ac8f68710a546a745b231334bc42
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AwalkMorda_0: 642163502
+      AwalkMorda_1: 1608822022
+      AwalkMorda_10: -56052307
+      AwalkMorda_11: -1813808893
+      AwalkMorda_12: -1352826828
+      AwalkMorda_13: -1798826755
+      AwalkMorda_14: -656863734
+      AwalkMorda_15: -1343491741
+      AwalkMorda_16: -501753172
+      AwalkMorda_17: -823878080
+      AwalkMorda_18: 21295193
+      AwalkMorda_19: 1299665110
+      AwalkMorda_2: 1104980843
+      AwalkMorda_3: 2065111029
+      AwalkMorda_4: 1678308817
+      AwalkMorda_5: -1880632194
+      AwalkMorda_6: 1829256370
+      AwalkMorda_7: 1815534450
+      AwalkMorda_8: -321023835
+      AwalkMorda_9: -1036235496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

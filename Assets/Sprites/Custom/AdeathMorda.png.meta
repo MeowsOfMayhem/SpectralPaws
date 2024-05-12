@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,18 +95,678 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AdeathMorda_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 195
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f3b079347d37458b8c8e4a8c20ff5
+      internalID: 1082373644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 688
+        width: 187
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa3a351a1337b41b386cb34adafd14
+      internalID: 624393833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 740
+        width: 168
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61adfe3ad7eb347ba569d4b2ad1341
+      internalID: -607712055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 820
+        width: 219
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8866599933e4b54ca7c9384d4440d8a
+      internalID: 1519563137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 821
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09764c5c563d36949833b2e74b64cdbe
+      internalID: -1226897428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_5
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 824
+        width: 221
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff72505edfc2ee48b304559b51701e8
+      internalID: 1560020710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_6
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 625
+        width: 207
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe739bf40e63e4b99fb744b7d6700b
+      internalID: 1758978192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_7
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 806
+        width: 196
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e937561250dae8e4ebb857ccba73f857
+      internalID: -1944883346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 602
+        width: 207
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9823b75d0b2ac41aef08ab724026b4
+      internalID: -105994148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_9
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 807
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d15e9359cd7acb4fa0f1faed2bf25ef
+      internalID: 455702406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 195
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d6e1f564de3142b0d74d96f15d2b0
+      internalID: 1986390622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 370
+        width: 177
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd85a010d7ed289458b6bb2637d71d33
+      internalID: 918965838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 417
+        width: 178
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc04c4b99415e345a4203389e40b3e2
+      internalID: 1246701662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 456
+        width: 168
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8c333db754aa8438d6fd49a678c370
+      internalID: -768095035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 416
+        width: 207
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1a737ac972cc4ab9777fdf0598472
+      internalID: 1258974841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 616
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a8a8b7bbc82024ba4c3b07d991aaab
+      internalID: -648401882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 418
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbf225f01dbe0f4ea8d711f4e25f785
+      internalID: 824889451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 200
+        width: 176
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09138eb40ca656843af7b1db7421badd
+      internalID: -1289002864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_18
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 397
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d43c9be438f65438ab518ef2cea0db
+      internalID: 128286332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 184
+        width: 187
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb12dbc107051842b4bb4c81313faf8
+      internalID: 805292210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_20
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 407
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fab01aeec9547244a532cf0060797cf
+      internalID: -131749062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_21
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 178
+        width: 207
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a0109aba1266440b3932732505e9ec
+      internalID: -705630222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_22
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 388
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e47c871840ac584a8afc125c4c4ed20
+      internalID: -1961112925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_23
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 175
+        width: 172
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b6bfead0582c4d99532acad12558d
+      internalID: -214967176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_24
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 202
+        width: 190
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5053a70748e5d849b161c23e9d8dbd2
+      internalID: -729753792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 237
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae85908266034b40a2c9c4ae1293690
+      internalID: -1615916481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 72
+        width: 169
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895abd9618271840853d0b823f12b5b
+      internalID: 583301010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_27
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 179
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084d55e46b7c3a4d938cdfdd8793b3d
+      internalID: -2014483421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_28
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 185
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ffedfeab86f3340b2cf39600de23ad
+      internalID: -311132525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeathMorda_29
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 177
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ff16e303145944d95a20428b21ae92
+      internalID: -1184462303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fb58c5336c1954e458060f9476339dd2
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdeathMorda_0: 1082373644
+      AdeathMorda_1: 624393833
+      AdeathMorda_10: 1986390622
+      AdeathMorda_11: 918965838
+      AdeathMorda_12: 1246701662
+      AdeathMorda_13: -768095035
+      AdeathMorda_14: 1258974841
+      AdeathMorda_15: -648401882
+      AdeathMorda_16: 824889451
+      AdeathMorda_17: -1289002864
+      AdeathMorda_18: 128286332
+      AdeathMorda_19: 805292210
+      AdeathMorda_2: -607712055
+      AdeathMorda_20: -131749062
+      AdeathMorda_21: -705630222
+      AdeathMorda_22: -1961112925
+      AdeathMorda_23: -214967176
+      AdeathMorda_24: -729753792
+      AdeathMorda_25: -1615916481
+      AdeathMorda_26: 583301010
+      AdeathMorda_27: -2014483421
+      AdeathMorda_28: -311132525
+      AdeathMorda_29: -1184462303
+      AdeathMorda_3: 1519563137
+      AdeathMorda_4: -1226897428
+      AdeathMorda_5: 1560020710
+      AdeathMorda_6: 1758978192
+      AdeathMorda_7: -1944883346
+      AdeathMorda_8: -105994148
+      AdeathMorda_9: 455702406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

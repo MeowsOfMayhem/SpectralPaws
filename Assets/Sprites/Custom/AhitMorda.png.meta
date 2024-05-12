@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,18 +95,260 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AhitMorda_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 195
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff593d1ba054c4c957222906a0c00f
+      internalID: 1925725116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 658
+        width: 194
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aaeee2236705f419ee69890d40b5a1
+      internalID: 324585414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 658
+        width: 189
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12935699ebf6264b9c41f6b131c8939
+      internalID: 171337040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 664
+        width: 189
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76fbacaaa82ea24aacc2e2fab97d02a
+      internalID: -195014716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 673
+        width: 182
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1c7541535eaf4da124903cf0cdde8
+      internalID: 1975758446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 195
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f31596e23eeb41bfda5d8c52ec4fa
+      internalID: 297561752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 291
+        width: 192
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd59089295a06b4aac5853d114d68ea
+      internalID: -924235537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 291
+        width: 191
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590175d0776ece045b0879f607ec9494
+      internalID: 427172143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_8
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 350
+        width: 194
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f990e616898fd4442937de3de981b752
+      internalID: -362665241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 27
+        width: 194
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee94d6661336942a6637c6d28e8b76
+      internalID: 1645977289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AhitMorda_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 12
+        width: 179
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d170b1b91fb48648936bce5c44b4364
+      internalID: -944985540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6f1173c607b9e8a439a18a6b3f595f97
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AhitMorda_0: 1925725116
+      AhitMorda_1: 324585414
+      AhitMorda_10: -944985540
+      AhitMorda_2: 171337040
+      AhitMorda_3: -195014716
+      AhitMorda_4: 1975758446
+      AhitMorda_5: 297561752
+      AhitMorda_6: -924235537
+      AhitMorda_7: 427172143
+      AhitMorda_8: -362665241
+      AhitMorda_9: 1645977289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

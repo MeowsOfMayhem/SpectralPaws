@@ -1,0 +1,7572 @@
+fileFormatVersion: 2
+guid: b7576d833ebcffb4eb23bb853041a064
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AghostAttack_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c525a2384b024478a4ba4b8ae07446
+      internalID: 1957199333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1971
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93859ed67902a8241b53447e992501ee
+      internalID: -1515733594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1967
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120b9796e0816944a7057a45a36fe7a
+      internalID: 463868928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7a2b8afa36fe4f9ccae95a267b9e8
+      internalID: -5276420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84260bd20ebb60a47a305482039dc351
+      internalID: 212971635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1971
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e513384dfae3c064baef23c99a430f3a
+      internalID: 748030927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1965
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9cc3c906f7e54cbc3bb5d408dc6d0
+      internalID: 888925590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1965
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd58ff7fdc7e70545bd8a3e2ffc3bad6
+      internalID: 170504034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61359f48047d9c4a9587e310ef803a2
+      internalID: -1002518195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1973
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39cf011dfa4bf498a43d4b400801b2
+      internalID: 883546156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061e84eaf433a9e42be7250621c71635
+      internalID: -214727921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1973
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3937289ba7a6d4bb92a5e57a8b2ce4
+      internalID: -85684053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_12
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1885
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3159ead9f0301a4896f34ce34f5f03c
+      internalID: -498428837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceda94863e02934691feb3be9d35870
+      internalID: 1603981120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099f76830c0bfe47886c4f636ff67e0
+      internalID: 1809305218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1967
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd74de73ce73a84dbe6570e9ae9aed5
+      internalID: 1322793004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1969
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce3f5204d5d7e409ac77900443550d
+      internalID: 278318815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea174dadf5ace459000574a9c16025
+      internalID: 1078094789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0649f9aec3b76542adf41e4ecd73d19
+      internalID: 825480892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_19
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077a211af4a733499fede88dd3cf5e2
+      internalID: 135514320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1973
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450c03886ef0cb40a4d6a07ef345d32
+      internalID: -2039665009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb08f7767d7164498b3dd7034d4e46
+      internalID: 1551072370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120c9464fa10d4b4393ec0b538314f23
+      internalID: 764358262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1965
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096fc6036391b0846ad75ee675dacedd
+      internalID: 678058175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_24
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1965
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204e2736149022d479bd2f6f317f6916
+      internalID: 943623675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_25
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46a2b627b309394cbea7f6df37fd3e5
+      internalID: 1755883778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823bd210fa927c64ea4697b5f9b51cc3
+      internalID: 1912110670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1882
+        width: 112
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e409d085f7c98f241bd7f63989102410
+      internalID: -393490068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_28
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1965
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ac0702234c9843ac325099e04e560
+      internalID: 1440179470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_29
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1967
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4828b3853c2c56d49bcf7e776166dd67
+      internalID: -646112356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_30
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1963
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5926bb7d0d1ad4daebafaf2fbc574a
+      internalID: 1905945594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_31
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1963
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206b828c2ed1094c8025c848f4e8f4c
+      internalID: 914113201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_32
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1969
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d0a76cf0628544ba1788aa1200502
+      internalID: 1580389573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_33
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1971
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4370e40740866834181aff765eda708f
+      internalID: 1507324488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_34
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1885
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9bf85707ae2f4e8abe3d03b962a1e
+      internalID: -51664919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_35
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df178f3de2e31844a48917ae033094f
+      internalID: -1850287354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_36
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26d9219f63c83848bc67115fca7037a
+      internalID: 1975705228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_37
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1883
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2118662c336784ebd96bb0d079092c
+      internalID: -1283888299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_38
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7175ae110a3eaba448266dede77d6b76
+      internalID: -595085071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_39
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17814c8389f7303408a5b017cc20af0b
+      internalID: -128246367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_40
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 1889
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a49201150e6d94686192f6c7fabfcd
+      internalID: 648005260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_41
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb6a7837332f494e9631911ef4f2394
+      internalID: 1040927375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_42
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5646520a8e51949479587962742cb978
+      internalID: -1196972931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_43
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e46ceeb8f7bbf42b97c6a77313e04a
+      internalID: 2106810519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_44
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c988836512bc4d8eff063ca423e86
+      internalID: -822497513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_45
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1969
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810c35fe9e9f9043823f43c7a5eea6b
+      internalID: -541008927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_46
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79706bd5c5d88974eac0ce23cf199189
+      internalID: 1359815837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_47
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1971
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e252dc46245f45ba57c737c8f4fb0
+      internalID: 59105171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_48
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 1971
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79606701f1cfa4d87a3ed3407b1305
+      internalID: -836636067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_49
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62cee8015ed85e41ba027fe5d32cc2c
+      internalID: 364088190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_50
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de8c6bdcdf63b4495d1e3262ed811a
+      internalID: 1592525266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_51
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cee697c66395443ac90c5b3ef36f0e
+      internalID: 1926048256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_52
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 1973
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97baed8577c58404e84d1e07878a8633
+      internalID: -279278932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1691
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a0c6d8cc295448804d2a20b4de039
+      internalID: 789543177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_54
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1775
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7194f6d594ec1f419665c36493173d0
+      internalID: -326809098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1775
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bae541d99b9694f90378b0944e205b
+      internalID: -377117146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_56
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1691
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbea1cafe7a4604294c1d9304ba3e75
+      internalID: -1086718952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1775
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876b8b524fa8e04ab92c536c9042a4f
+      internalID: 867268719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_58
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1775
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555874dfaf07954db532c04342349b2
+      internalID: 219789455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_59
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1756
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206bde9d0f272fa47988ce5445ae2073
+      internalID: -979812315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_60
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1691
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f63365f8391654699aa3bd90e1e257
+      internalID: -2030319527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_61
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1771
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf274691cbac5649b917def3a749e30
+      internalID: 1542733015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_62
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1771
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9608e37c9e11457419411f53c2fb6ffa
+      internalID: -1746899883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_63
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1691
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc526f0821fdb246af0cf5e9ced9d57
+      internalID: -2060517418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_64
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1781
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437b34e1b9083a4a8ba6a6a9f72dfbe
+      internalID: -1473708066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_65
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1781
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5b5ec1a980024faccd271001c1aed
+      internalID: 48730922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_66
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1777
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450e0bb7a1f17de41be667772cf9db8c
+      internalID: 140178249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_67
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1777
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7881e269ae2eaf43988be34ce1db75f
+      internalID: 155037884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_68
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1779
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e2d118370eb914cb158972a8c34433
+      internalID: -2008792616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_69
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1779
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b0feacfffd4784b8b336061c2e74d1
+      internalID: -2014357148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_70
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1779
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec960fea7297f4c4ab7c14cb4b3b99a6
+      internalID: -234636593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_71
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1781
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c989798dd229ea54d9558b85932d4043
+      internalID: -524982359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_72
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1694
+        width: 109
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c23a1ead8f3d04094b4bc2768d2657
+      internalID: -2012510403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_73
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1777
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a86c911a3f3af418df97fd023cea7c
+      internalID: 416258917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_74
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1779
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59594ab720a6964fac2d77143c0de15
+      internalID: 1855622834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_75
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1773
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64a2e1e2c09744d923c8978c893cb1
+      internalID: -604683376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_76
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1773
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52023e7b3ce9074cabb1095c01866e1
+      internalID: -1692131351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_77
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1693
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c4c0f253c37845b2ae569c912ca23
+      internalID: -1686946098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_78
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1775
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d256c4dfd8d9540a63359cd779be18
+      internalID: 1999032522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_79
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1777
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a277d2f2dc52ee46aed2ba802fb0fce
+      internalID: -537373897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_80
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1691
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e83b84aae39034dbe7a8800947038a
+      internalID: -1739011443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_81
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1777
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd2ad4e64828549a4ec70d297ecaac
+      internalID: -995452130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_82
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1777
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7a72a05c29e714c81526a804a68dd3
+      internalID: -370375352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_83
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1581
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6a0bbf4e4e3041bd057dec92e5844
+      internalID: 1553828232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_84
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1583
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33bb6ae3140354aa7b63666cf6d753
+      internalID: 1922952815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1497
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1647506472a0b48ae0fdfed91b5580
+      internalID: 1648051339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1500
+        width: 110
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b35796163a0f4d908ab4a0fb1f58f
+      internalID: 464752782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_87
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1585
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55a0a88a5bb8a4aabc88247ea9377d
+      internalID: 1966562155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_88
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1585
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b313cdcdb1b9c343ba889a6e6fcddad
+      internalID: 1365983155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_89
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1583
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2554e9945a26246844fda6d2735a99
+      internalID: 1396500642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_90
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1583
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c747c7c08fd1f34aa059a2e46c188b4
+      internalID: 538695711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_91
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1585
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e772053ba2be47b366691a2c39bf4
+      internalID: 1169056310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_92
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1587
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0ae2145fa27e14db3885cd9f3950c5
+      internalID: 1018940165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_93
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1581
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99904c21a107438419f9fa7424b489d3
+      internalID: 1095003544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_94
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1583
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18916cc813279e4f9725a4f4dabfefc
+      internalID: -108742549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_95
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1497
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f748f89261b44aa39cc9cf13bea39
+      internalID: 369748937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_96
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1581
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393bdcab921a15478db621f065ce162
+      internalID: 1389586239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_97
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1581
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871272b338ed6bd41b31d290c2eef378
+      internalID: 1120276794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_98
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1579
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4399c9029eeac14c891d8cc60646b6b
+      internalID: -1189377484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_99
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1579
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450045d286cdce4bb4f4af2074aab3e
+      internalID: -455836838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_100
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1585
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc16a053017f44bbcd7cf5444bc48b
+      internalID: -1061573863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_101
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1585
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b478998361a1e84ca144c37271f2e49
+      internalID: -2060218515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_102
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1497
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12981b860dac944d9a1bd6955924cbe
+      internalID: -1311799187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_103
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1587
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea81eb87cd6dfd469c274c422405b04
+      internalID: -1052384059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_104
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1587
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44355f2b06d9041458afe77d20257bb9
+      internalID: -251793393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_105
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1583
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadefb6eb5d766d40b9888b3cbb543fa
+      internalID: -43795079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_106
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1583
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff07592023861c4a8860c0989faf969
+      internalID: -467936974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_107
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1497
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c304f6099c78578478cd73ebf7d4e266
+      internalID: -84930255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_108
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1581
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ec204e58fbd748b16820586121e61
+      internalID: 287614581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_109
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1583
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61efdbfc319174c479ab1b89f060fc4b
+      internalID: -1216220247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_110
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1585
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aeed9f5f4a6a446b2e88a47127eba6
+      internalID: -1352048122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_111
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1587
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e7be8ee86eed4f97bd807f39c5e9d
+      internalID: -1175524797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_112
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1577
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b91ed40880cc4cb445741acd94831
+      internalID: 1052799253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_113
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1577
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3fdd166e559742bbc61b55008ae01
+      internalID: 533639390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_114
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1585
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a81189c48e49c47a7b65aed26c0c91
+      internalID: 1319648539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_115
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1587
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1734f741af163f4c92498699616f4fd
+      internalID: 1092856573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_116
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1385
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4448e86bf01d74588f0e5efc482e28
+      internalID: 170620365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_117
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1385
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c0837219e8d94cbe388e8075c7ccc
+      internalID: 1802350652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_118
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1309
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b01b1407576df44911037c2207d078
+      internalID: -399367094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_119
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1305
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf3308478073e440be9c0778d9e5373
+      internalID: 1920811832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_120
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1303
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a64720cd70b094790b460855b42804
+      internalID: -348194519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_121
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1305
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95199f0ca021d5e40a163a81087ad43f
+      internalID: 2092438151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_122
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1385
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0103329eecfc495409be572559a33268
+      internalID: 1320052363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_123
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1385
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b1cdfb90175184199e7b0a6db67a65
+      internalID: 1388451707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_124
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1393
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e0c7c6de1b0547b64b8b2cac1a87e
+      internalID: 147486563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_125
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1395
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2553fe113fbd4994fa9cf016f62c1d58
+      internalID: -628261555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_126
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1387
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050850de5310d34db038a441e03fd6e
+      internalID: -1472750192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_127
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1389
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677264a72f724b94fb3e22f52a2760a3
+      internalID: 1133780965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_128
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1391
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8d50ce505dbc41a44802e48818b85
+      internalID: -740028107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_129
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1391
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9ff550e3082041a514fd38062de37
+      internalID: -416431861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_130
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1395
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da43eebb3a0244d834555c0d34e579
+      internalID: 1164482529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_131
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1395
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e556c09db6f2a4686e437b0e1c14ab
+      internalID: 1339036236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_132
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1393
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba44bf1734bf347a82b896e703b7bd
+      internalID: -1925144386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_133
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1393
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651b77d7392627489c09986ed2d3b17
+      internalID: -1243740622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_134
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1305
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9527ea62314cc439a28be6d9996916
+      internalID: -2130733068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_135
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1393
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243f76175fd6334b9d8f9ce2829466e
+      internalID: 723353358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_136
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1395
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98935f9ab06bf2c458926d642a97ecc3
+      internalID: -336872795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_137
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1387
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9905f2cb4d980e4494b45101b541a1b
+      internalID: -1993149129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_138
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1389
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a103adab5cb64f822d17211d66c9f
+      internalID: 1879674719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_139
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1391
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7702eda8a80a9244aa45c6c6f36a8e4d
+      internalID: 1368621892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_140
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1393
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e3cfd9214ca34588cbf106b1f3591
+      internalID: -186264025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_141
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1305
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1246c2357fbd84d956844afa915da8
+      internalID: 392362881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_142
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1307
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def9d1b7f8dccd459d73ff7c6f172be
+      internalID: -1534810378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_143
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1387
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2a65a9bfd2ff4ba8a2b0446ece28b
+      internalID: 1218395382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_144
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1389
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b2086e976b46f49b734cff63920abf
+      internalID: 1270849019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_145
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1385
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a693e7915805524f909d5b146fec9d5
+      internalID: -1274285557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_146
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1385
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cb3bb37f6b9824c933a20a473e8fed
+      internalID: 754818536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_147
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1113
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f42e0100ed2f49b228a1d83127515
+      internalID: 859765656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_148
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1197
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e47b5552aec7449f5f79e80e9e527
+      internalID: -113260103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_149
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1197
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e637e24e6b6c36478a9b93aa68dfaa3
+      internalID: 1888136286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_150
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1201
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a327ada78a6f6374fafc649e750e6d21
+      internalID: -132106802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_151
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1201
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac438406f7ffce4c8590771adc568f6
+      internalID: -1027955994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_152
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1195
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18dc3d5243d7b742affb1bf2c4a5e79
+      internalID: 1294386854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_153
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1195
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca52200417cd14cadf9ad02e10f4c9
+      internalID: -368335560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_154
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1191
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1196f24e6475bc540a9f32d9b18ac9df
+      internalID: 1404466408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_155
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1191
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360b5d7052f46784dae4d71e183c5b8e
+      internalID: -1094334806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_156
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1110
+        width: 110
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28792cfbe77b108488a5dabb721320d0
+      internalID: 87368779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_157
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1111
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40961cb6fcdd043b13f5386c3bbd99
+      internalID: -1100154111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_158
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1193
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b4149c74e7934ba31c85b7270224d
+      internalID: -1700027816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_159
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1193
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6b100a853ab3c4b9d27f19ad647f81
+      internalID: 890977412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_160
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1197
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aad01ed29f9c342ac946d1d17943db
+      internalID: -1916570657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_161
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1199
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6414982ef763742a4c5448eb1b3702
+      internalID: 287919480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_162
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1199
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19dc8dabb4bcbb41804f9ecff59f939
+      internalID: 582568763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_163
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1199
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7bce0ff75830648bcef6cb6f962fa2
+      internalID: 1482052305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_164
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1191
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2a0c84fab3a4459b0ff64d1876b13
+      internalID: 1280090423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_165
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1191
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e38d61117710547b2bc17fdc3d3bf6
+      internalID: -4449676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_166
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1111
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f9b59b3358ee47b92c1a7b38ba767
+      internalID: 748161316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_167
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1197
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcd6a96b563a344697e1cf29cbe98e3
+      internalID: 206185194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_168
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1199
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8c4cdecdcc9f4b9bd0760fa960437
+      internalID: 273400883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_169
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1110
+        width: 112
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ba9c519bf2b0849a07fba880df7d58
+      internalID: -951487052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_170
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1111
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d84cc687c5c7641bb2b795c0b64fca
+      internalID: -2119005285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_171
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1197
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac171617778dc174f923cec1cab3dc6b
+      internalID: 1870226554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_172
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1199
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d632969ed18a46bbbad33974aeb49
+      internalID: 168238594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_173
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1112
+        width: 110
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9eae0e51a44fc4e93828bef9f0ded4
+      internalID: 916775651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_174
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1199
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9527fe4dc3cdb1a44afacf0c3a134296
+      internalID: -466485266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_175
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1201
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb2ebe6048039f40b482526f7a7d78c
+      internalID: 1416277283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_176
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1197
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8374cfe3e74638244b9f6479e8fc559f
+      internalID: -843936100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_177
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1197
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7d2e4f4f26e6459b72eb93381f5f4
+      internalID: -591389795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_178
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1009
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366f9b17264d274f965ceb7ee018dac
+      internalID: 1580020272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1009
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb662b4b6c0d147928e5525f516a90
+      internalID: -1934679441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_180
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1005
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605fa66896e9ea48be49ff76a02d5ba
+      internalID: -1673336899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_181
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1005
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465590c7fd3e20e488dff0390d3a5238
+      internalID: 1901055435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_182
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 919
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac7684c62226ca4ab886ecbe01b661c
+      internalID: 519392114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_183
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 919
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f83f2d65c61ba24d86b3015ed640dc9
+      internalID: -1548158574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_184
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1001
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5077787abc01941b91317a72252ff5
+      internalID: 142675004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_185
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1001
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3814c11051d9cf24aa1ae615221e491c
+      internalID: 1456895362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_186
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 999
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9efbbaef4276de4d866bf01deb28b43
+      internalID: -268089024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_187
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 999
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447752d46feaee44bf7b9cf4f0dd820
+      internalID: -446766532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_188
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1007
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82adf49d1c3d8c242b85698dc0326dde
+      internalID: 1041660887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_189
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1009
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf495280640e0e4f8623162e69ebeef
+      internalID: -1406660460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_190
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1005
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd802983b701249851494d14d16c85
+      internalID: -1920507024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_191
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1005
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a34c6dec8052fd41923701ee0d82784
+      internalID: 692740554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_192
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1007
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0233eca028ec64394b5a33d72fccaf
+      internalID: 311475123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_193
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1009
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6840f62b151295d49922401c3ffe54bb
+      internalID: -124807567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_194
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 918
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62883dcce6d618b4ba6820dfbefd82ad
+      internalID: 25270852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_195
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 919
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ac445f41187b47ad9945c05505251
+      internalID: -1807224996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_196
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1003
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03843a9ba2f49d042bc84efe40bf7f82
+      internalID: -1232223580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_197
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1003
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b62272d9646a05468d46856e37d4623
+      internalID: -1000960078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_198
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 921
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09d9750a376b749bf14bf42d39381f
+      internalID: -463898185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_199
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1007
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3bd32b85598b24c9c063fcd8b77e88
+      internalID: -492656904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_200
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1009
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beff5457a1a5804186c7b8f0de1b798
+      internalID: 1966528877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_201
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 999
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0eae9d3d172c438d7a74eea89f557
+      internalID: 1796774195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_202
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1001
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d5ffa3b595fa84999ac4b6af90ad02
+      internalID: -1785580628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_203
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 997
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d1280274fdb044b11a45fc6d6e14b
+      internalID: 118154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_204
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 997
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4031d39a209d842bbfbe753838dd71
+      internalID: -1114152901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_205
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 923
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6fad4792b15844a2f3330c96f8334
+      internalID: 593804972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_206
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1007
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d577ae87a0c574491359762f77a5ff
+      internalID: 750577559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_207
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1009
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b7a6998b71bf4b84097284a5360de
+      internalID: -247777286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_208
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1005
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774d4569654cec41990ae7fc629a851
+      internalID: -1385787765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_209
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1007
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f92418cabde8a4f8089b3ab6cc90d8
+      internalID: -1867229529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_210
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 809
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5b31be95911b4cab8dccef5fd0937
+      internalID: -2046199402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_211
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 809
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38422e06ec5bf408bb15c64065be1b
+      internalID: -1364426993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_212
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 813
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32107e84b20c69c4b9eb26bb9e03f784
+      internalID: 210347730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_213
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 815
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add53bfe2199f444dbd85bed8212b27d
+      internalID: 1594671409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_214
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 805
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cebf50d77130c47bea8456cd9edd12
+      internalID: -1028954187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_215
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 805
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd4e3c8379d6c46856a35c229065c4
+      internalID: -1224282195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_216
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 725
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9831a7266745ab649934d0e60b858f72
+      internalID: -1720845162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_217
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 727
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d38f89fdf4a5804cb0870673807b580
+      internalID: 640498438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_218
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 805
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6d3a12661a9843a4420f89b50da15
+      internalID: -1637380556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_219
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 807
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3311eb8e0bbfa4cbcd9dd23e95eb09
+      internalID: -355894152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_220
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 731
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbaef44f2dbcb4499b5d0ce4d77497
+      internalID: 1190198350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_221
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 813
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb74d2a08881c4da1c8d8d90574e27
+      internalID: 1766503849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_222
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 813
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a7008492107c40a6d31780ff11d4a
+      internalID: 1717654322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_223
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 811
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98742f90f3c900f4db83585e8bffdbea
+      internalID: -242975157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_224
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 813
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b4e45ecaeb2a44a930936917ebf52b
+      internalID: 402699044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_225
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 729
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06468842f3b3fbd4f889bfb1baefcc28
+      internalID: 1718896647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_226
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 811
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bac052c0dc72c4ca84c5feace0cde4
+      internalID: 345914284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_227
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 813
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c79312c1408b64fb570f3c1166be4f
+      internalID: -1448048014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_228
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 807
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab6106e649ad24883007a4e407e424
+      internalID: -1735851498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_229
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 809
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dbf339251131c419f55f79ffbde72d
+      internalID: 1328897930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_230
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 811
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d3362985f28c4e95b0e6f50decdf7
+      internalID: 2128808859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_231
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 813
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a2188ee462ea42bfa0ff8d10d2e31
+      internalID: 1259567149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_232
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 809
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe073ddfe824285408757b6f2f7e01d8
+      internalID: 2082987207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_233
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 809
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d751d800122f142b1865a363542798
+      internalID: 1202598354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_234
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 811
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b852184774429a44c9df83dbf5287efb
+      internalID: -836638597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_235
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 813
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c16a47716d00f45926d8d103fe6d6f
+      internalID: 453403632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_236
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 813
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1076860fe1c843b024e0a3200a1dc
+      internalID: 240804269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_237
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 815
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da1810d37af3a41b73f28806984c24
+      internalID: -1513133511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_238
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 725
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c139d1dd110860449a36642deef2b28
+      internalID: -1105874305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_239
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 807
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7956c23498be03b41a3f069f08cf36eb
+      internalID: 2015560927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_240
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 807
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dec0abe4b0ae9947b96c79d5b6155cd
+      internalID: 1142781156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_241
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 809
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a319da7213da40045be0092f518afab3
+      internalID: -744962881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_242
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 809
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a87abfc907053e4d85e466677fa4a17
+      internalID: 829411411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_243
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 619
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f436d77881829419d45240f08e65fe
+      internalID: 1415648394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_244
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 621
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865eff760f31c5439241a97a3aa2f5b
+      internalID: 466006469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_245
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3dc6981de094540ba7e84b713a316b
+      internalID: 54088540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_246
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f0573c42325b46b4589e6204dc185
+      internalID: -83544504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_247
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 611
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f554a670bd716a4cb80911ce87f40ac
+      internalID: 1035498419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_248
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 613
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695162ad14b43fe43b71afa11dfd47c6
+      internalID: 1823352625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_249
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 613
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c118b8b05aec42a049c2b772b6317
+      internalID: 1112363681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_250
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 613
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d125325e012ea3d44ab3ad32765170dd
+      internalID: -834230566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_251
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 613
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c623547e972e45459006ce1409a40dd
+      internalID: -1663040704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_252
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 615
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e18ddfbd2801140b56166a649e2181
+      internalID: 1159708284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_253
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 531
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa06d38d1ad104549bae87aa7839aa10
+      internalID: -1034283520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_254
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 617
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff539bb04a6bdcd449f158677ee7afe6
+      internalID: 1342334356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_255
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 619
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64f3023bfc3a04ba743026e8b5e48e
+      internalID: -1026636213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_256
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 537
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa4c2fbf16c8244b48f021c1f5118c
+      internalID: -1660798899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_257
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 611
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f15ac87c267b45b7a8f999f3f26c5
+      internalID: -1845039866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_258
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 613
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa674fa469be454e896164c93878e31
+      internalID: 2130472981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_259
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9206fedc8048c954b88f5ac9fa9c84cd
+      internalID: 136433893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_260
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e0763a624ca6409c5e41a69ca447f
+      internalID: -187945025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_261
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 619
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6269d44f2f6404785fc089be61ac97
+      internalID: -491841774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_262
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 621
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfa43ae3e2866459a6c77169103481
+      internalID: -1723541143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_263
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7184311fdad9dfe4ea31d18a6e38b396
+      internalID: 1667349638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_264
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b6617fd07830409c764bf29155549
+      internalID: 1703105343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_265
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 532
+        width: 112
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d318f3c420ba0e740a7b110fa576d53a
+      internalID: -1164377815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_266
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 615
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a419074b4bf65448f7b64335e6f614
+      internalID: 1774228133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_267
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 617
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a3140f230aff44b33d6c2f80c81e1
+      internalID: -254442058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_268
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 533
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636349227fbc4864fa3aa0f184036e0e
+      internalID: 1768996506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_269
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 615
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d60edb1197cd94195b26d1e0d3b788
+      internalID: 838649156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_270
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 615
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341bd50adecce654aad0e6aea8c5ba5a
+      internalID: -1521562494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_271
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 621
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdbef21c4d9bd046a040615856f04ca
+      internalID: -219493770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_272
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b1f63d4b878504bbf7e0f81aa9913e
+      internalID: -1152095455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_273
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16531443a4e69ab4b84a0bb9f8e43011
+      internalID: -2132661313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_274
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 623
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f364c54b310d554993ce76c7e573a1f
+      internalID: 750023457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_275
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 619
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3fd6c5b96363343b7665fb851fbd47
+      internalID: 1715257193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_276
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 621
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a575a19867f947bccbfe9ba7733ce
+      internalID: 2144673568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_277
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 339
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0b0e31bcecb64187299ee2d56c490
+      internalID: 1622744981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_278
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 339
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ae4708dd1b974bafabd83c9fe992d
+      internalID: -126174794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_279
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 419
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b068a7cbcb5e684db7f6af24f21a5bd
+      internalID: 1692686888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_280
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 421
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29256293b50f08e4883851c94d499439
+      internalID: 1149742501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_281
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 421
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5330f639535142a4baf8b458a4e6b489
+      internalID: 1089139161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_282
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 421
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d44d4a08796f45b72c98f350ecb58
+      internalID: 371548766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_283
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 419
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628754df925e57c4292f94c00af89d72
+      internalID: 6994261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_284
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 419
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d11c4cb82836474bbc832f1b2841366
+      internalID: 15568775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_285
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 341
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6156c44ab9a04aa178e595fa86ed0
+      internalID: 1134042690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_286
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 341
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183062d4f6bd2de48a88d0485c77b4a1
+      internalID: -858791441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_287
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 342
+        width: 109
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e42acf432f4f448e5ce09518d2066
+      internalID: -627665582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_288
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 339
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb025e49001253542a82d04ae1ddb508
+      internalID: 543439032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_289
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 421
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace538e551e7c941a8327123e733a3d
+      internalID: -1721251992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_290
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 423
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f303b725671414896f8f9e2aefd903
+      internalID: 549518236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_291
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 427
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efe1705886662945bfcc8ce3459b662
+      internalID: 1017686777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_292
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 427
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b760f96634f2c41bad6f8404070ede
+      internalID: -617465336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_293
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 427
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6807184362e64aa879993c64fb67d
+      internalID: 1162579311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_294
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 429
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9680ef78f7e7e1b4e9289040b53f9a1d
+      internalID: 1844363607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_295
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 419
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10091a8cab78104baa732de4a983730
+      internalID: -320741171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_296
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 419
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a9b05525a90e542acf552b3e36e180
+      internalID: 705900680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_297
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 339
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900cacd391b23274d90c2c3a1ad23bd6
+      internalID: -167569204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_298
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 429
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe7a2fb1aa3484394f2af954131c19
+      internalID: -145176364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_299
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 429
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d124111bb881498068b225fa0f8b4
+      internalID: -236262894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_300
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 421
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af03de5cd737f488661f20f796a8b2
+      internalID: 480484425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_301
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 421
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d26c5f8b09248c41b63c6c5ad09474d
+      internalID: -2029286205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_302
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 427
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d7da3d3e4c2c943b3979db993a7399
+      internalID: -25606997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_303
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 427
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31abc74c95c36a4c8f0c2b08b1327a0
+      internalID: 992236599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_304
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 339
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21729829b37cf042b54e01ae21a8e95
+      internalID: 851160206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_305
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 423
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036e1e027dd0d042ba1b7d7722d7a9f
+      internalID: 877322303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_306
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 425
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8999291501509ed46918f95e1bda94a1
+      internalID: 466878263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_307
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 149
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c743bbf7994064fb4cd5ef00163924
+      internalID: -1275970117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_308
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 231
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718b9e232607814389e1cb948eca277
+      internalID: -2091584955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_309
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 233
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a05bf36fc112748913b485b26a10a2
+      internalID: 50984552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_310
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 145
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb50eb80bd89f74aba894bcb5551609
+      internalID: 1676050981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_311
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c126e1d1577175e48b3a35260ebddfe5
+      internalID: -1010375879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_312
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c3dc8bed1a894ab6ad6d340fefca4
+      internalID: -1203473428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_313
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 227
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904612b1451f92b4bb5ab8edec8b421f
+      internalID: -899160368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_314
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 229
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366f6dfb5e058e4083a5dad43ee84ae
+      internalID: -119603379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_315
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 233
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5d833528cb4ca44ace02c182ef1ee0
+      internalID: -327864214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_316
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 233
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a75f9a1006e98428f61569c80b01c9
+      internalID: 142161686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_317
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 229
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab05963cc97cdc4c8655622b61d2d80
+      internalID: 428748135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_318
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 229
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa2027bc1de92140940dcc2e3618a1a
+      internalID: 1119866752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_319
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 229
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c715ddf55fcf84dab4051a1d7de0ce
+      internalID: -965836307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_320
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 229
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e248d631d406643855e6cc5f6ff8f5
+      internalID: -1456394293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_321
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 145
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a3193eb246de04688b19db5369fdb6
+      internalID: 2063684660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_322
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61162746292190549b019ac6af5f8b92
+      internalID: 838839323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_323
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 237
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6479d7223d6074f8400bdee515fd8e
+      internalID: -903212217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_324
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 233
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7655c3f373756c4c877bf2ffaf03e9c
+      internalID: -1281579783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_325
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 235
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542b9c5ab2364b43bff7f348497e668
+      internalID: 422104418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_326
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 149
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1403eb73b7b36ad439363634319811ca
+      internalID: -1636639910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_327
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 231
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a85b55b98d3994b9d01318358e782d
+      internalID: -400218264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_328
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 233
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2965650cc9e7c3a4abdea8cae3a9ce75
+      internalID: 979222474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_329
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfe9836c6cb56f43b1f19e3f9de87c3
+      internalID: 1088822124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_330
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d29f08c9b94e3b4dadc9aaa57cf13e0
+      internalID: -435676592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_331
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 145
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df1ebe1862468040b0dea33a3d33350
+      internalID: 1671501990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_332
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 148
+        width: 110
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc3eb3b3d4e5a4fb531262ed64947f
+      internalID: 268244402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_333
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 235
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d79f4c071d07249ad1e9b312882c66
+      internalID: 883068487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_334
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c259ba885c3b2774894d113b7974f19d
+      internalID: 1414463118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_335
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 231
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c911581446934384b7661724227ad
+      internalID: 953346998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_336
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 233
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6bd75335c0c7944bbe0367fe1afaa8
+      internalID: 1275637458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_337
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873dc03674ac29241940e03022698477
+      internalID: 1225186552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostAttack_338
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 235
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addfdfd77c02dbf4db7e83210f9eb947
+      internalID: -733775348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b36af69fb7a6dd9469ea963fbc051ea1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AghostAttack_0: 1957199333
+      AghostAttack_1: -1515733594
+      AghostAttack_10: -214727921
+      AghostAttack_100: -1061573863
+      AghostAttack_101: -2060218515
+      AghostAttack_102: -1311799187
+      AghostAttack_103: -1052384059
+      AghostAttack_104: -251793393
+      AghostAttack_105: -43795079
+      AghostAttack_106: -467936974
+      AghostAttack_107: -84930255
+      AghostAttack_108: 287614581
+      AghostAttack_109: -1216220247
+      AghostAttack_11: -85684053
+      AghostAttack_110: -1352048122
+      AghostAttack_111: -1175524797
+      AghostAttack_112: 1052799253
+      AghostAttack_113: 533639390
+      AghostAttack_114: 1319648539
+      AghostAttack_115: 1092856573
+      AghostAttack_116: 170620365
+      AghostAttack_117: 1802350652
+      AghostAttack_118: -399367094
+      AghostAttack_119: 1920811832
+      AghostAttack_12: -498428837
+      AghostAttack_120: -348194519
+      AghostAttack_121: 2092438151
+      AghostAttack_122: 1320052363
+      AghostAttack_123: 1388451707
+      AghostAttack_124: 147486563
+      AghostAttack_125: -628261555
+      AghostAttack_126: -1472750192
+      AghostAttack_127: 1133780965
+      AghostAttack_128: -740028107
+      AghostAttack_129: -416431861
+      AghostAttack_13: 1603981120
+      AghostAttack_130: 1164482529
+      AghostAttack_131: 1339036236
+      AghostAttack_132: -1925144386
+      AghostAttack_133: -1243740622
+      AghostAttack_134: -2130733068
+      AghostAttack_135: 723353358
+      AghostAttack_136: -336872795
+      AghostAttack_137: -1993149129
+      AghostAttack_138: 1879674719
+      AghostAttack_139: 1368621892
+      AghostAttack_14: 1809305218
+      AghostAttack_140: -186264025
+      AghostAttack_141: 392362881
+      AghostAttack_142: -1534810378
+      AghostAttack_143: 1218395382
+      AghostAttack_144: 1270849019
+      AghostAttack_145: -1274285557
+      AghostAttack_146: 754818536
+      AghostAttack_147: 859765656
+      AghostAttack_148: -113260103
+      AghostAttack_149: 1888136286
+      AghostAttack_15: 1322793004
+      AghostAttack_150: -132106802
+      AghostAttack_151: -1027955994
+      AghostAttack_152: 1294386854
+      AghostAttack_153: -368335560
+      AghostAttack_154: 1404466408
+      AghostAttack_155: -1094334806
+      AghostAttack_156: 87368779
+      AghostAttack_157: -1100154111
+      AghostAttack_158: -1700027816
+      AghostAttack_159: 890977412
+      AghostAttack_16: 278318815
+      AghostAttack_160: -1916570657
+      AghostAttack_161: 287919480
+      AghostAttack_162: 582568763
+      AghostAttack_163: 1482052305
+      AghostAttack_164: 1280090423
+      AghostAttack_165: -4449676
+      AghostAttack_166: 748161316
+      AghostAttack_167: 206185194
+      AghostAttack_168: 273400883
+      AghostAttack_169: -951487052
+      AghostAttack_17: 1078094789
+      AghostAttack_170: -2119005285
+      AghostAttack_171: 1870226554
+      AghostAttack_172: 168238594
+      AghostAttack_173: 916775651
+      AghostAttack_174: -466485266
+      AghostAttack_175: 1416277283
+      AghostAttack_176: -843936100
+      AghostAttack_177: -591389795
+      AghostAttack_178: 1580020272
+      AghostAttack_179: -1934679441
+      AghostAttack_18: 825480892
+      AghostAttack_180: -1673336899
+      AghostAttack_181: 1901055435
+      AghostAttack_182: 519392114
+      AghostAttack_183: -1548158574
+      AghostAttack_184: 142675004
+      AghostAttack_185: 1456895362
+      AghostAttack_186: -268089024
+      AghostAttack_187: -446766532
+      AghostAttack_188: 1041660887
+      AghostAttack_189: -1406660460
+      AghostAttack_19: 135514320
+      AghostAttack_190: -1920507024
+      AghostAttack_191: 692740554
+      AghostAttack_192: 311475123
+      AghostAttack_193: -124807567
+      AghostAttack_194: 25270852
+      AghostAttack_195: -1807224996
+      AghostAttack_196: -1232223580
+      AghostAttack_197: -1000960078
+      AghostAttack_198: -463898185
+      AghostAttack_199: -492656904
+      AghostAttack_2: 463868928
+      AghostAttack_20: -2039665009
+      AghostAttack_200: 1966528877
+      AghostAttack_201: 1796774195
+      AghostAttack_202: -1785580628
+      AghostAttack_203: 118154
+      AghostAttack_204: -1114152901
+      AghostAttack_205: 593804972
+      AghostAttack_206: 750577559
+      AghostAttack_207: -247777286
+      AghostAttack_208: -1385787765
+      AghostAttack_209: -1867229529
+      AghostAttack_21: 1551072370
+      AghostAttack_210: -2046199402
+      AghostAttack_211: -1364426993
+      AghostAttack_212: 210347730
+      AghostAttack_213: 1594671409
+      AghostAttack_214: -1028954187
+      AghostAttack_215: -1224282195
+      AghostAttack_216: -1720845162
+      AghostAttack_217: 640498438
+      AghostAttack_218: -1637380556
+      AghostAttack_219: -355894152
+      AghostAttack_22: 764358262
+      AghostAttack_220: 1190198350
+      AghostAttack_221: 1766503849
+      AghostAttack_222: 1717654322
+      AghostAttack_223: -242975157
+      AghostAttack_224: 402699044
+      AghostAttack_225: 1718896647
+      AghostAttack_226: 345914284
+      AghostAttack_227: -1448048014
+      AghostAttack_228: -1735851498
+      AghostAttack_229: 1328897930
+      AghostAttack_23: 678058175
+      AghostAttack_230: 2128808859
+      AghostAttack_231: 1259567149
+      AghostAttack_232: 2082987207
+      AghostAttack_233: 1202598354
+      AghostAttack_234: -836638597
+      AghostAttack_235: 453403632
+      AghostAttack_236: 240804269
+      AghostAttack_237: -1513133511
+      AghostAttack_238: -1105874305
+      AghostAttack_239: 2015560927
+      AghostAttack_24: 943623675
+      AghostAttack_240: 1142781156
+      AghostAttack_241: -744962881
+      AghostAttack_242: 829411411
+      AghostAttack_243: 1415648394
+      AghostAttack_244: 466006469
+      AghostAttack_245: 54088540
+      AghostAttack_246: -83544504
+      AghostAttack_247: 1035498419
+      AghostAttack_248: 1823352625
+      AghostAttack_249: 1112363681
+      AghostAttack_25: 1755883778
+      AghostAttack_250: -834230566
+      AghostAttack_251: -1663040704
+      AghostAttack_252: 1159708284
+      AghostAttack_253: -1034283520
+      AghostAttack_254: 1342334356
+      AghostAttack_255: -1026636213
+      AghostAttack_256: -1660798899
+      AghostAttack_257: -1845039866
+      AghostAttack_258: 2130472981
+      AghostAttack_259: 136433893
+      AghostAttack_26: 1912110670
+      AghostAttack_260: -187945025
+      AghostAttack_261: -491841774
+      AghostAttack_262: -1723541143
+      AghostAttack_263: 1667349638
+      AghostAttack_264: 1703105343
+      AghostAttack_265: -1164377815
+      AghostAttack_266: 1774228133
+      AghostAttack_267: -254442058
+      AghostAttack_268: 1768996506
+      AghostAttack_269: 838649156
+      AghostAttack_27: -393490068
+      AghostAttack_270: -1521562494
+      AghostAttack_271: -219493770
+      AghostAttack_272: -1152095455
+      AghostAttack_273: -2132661313
+      AghostAttack_274: 750023457
+      AghostAttack_275: 1715257193
+      AghostAttack_276: 2144673568
+      AghostAttack_277: 1622744981
+      AghostAttack_278: -126174794
+      AghostAttack_279: 1692686888
+      AghostAttack_28: 1440179470
+      AghostAttack_280: 1149742501
+      AghostAttack_281: 1089139161
+      AghostAttack_282: 371548766
+      AghostAttack_283: 6994261
+      AghostAttack_284: 15568775
+      AghostAttack_285: 1134042690
+      AghostAttack_286: -858791441
+      AghostAttack_287: -627665582
+      AghostAttack_288: 543439032
+      AghostAttack_289: -1721251992
+      AghostAttack_29: -646112356
+      AghostAttack_290: 549518236
+      AghostAttack_291: 1017686777
+      AghostAttack_292: -617465336
+      AghostAttack_293: 1162579311
+      AghostAttack_294: 1844363607
+      AghostAttack_295: -320741171
+      AghostAttack_296: 705900680
+      AghostAttack_297: -167569204
+      AghostAttack_298: -145176364
+      AghostAttack_299: -236262894
+      AghostAttack_3: -5276420
+      AghostAttack_30: 1905945594
+      AghostAttack_300: 480484425
+      AghostAttack_301: -2029286205
+      AghostAttack_302: -25606997
+      AghostAttack_303: 992236599
+      AghostAttack_304: 851160206
+      AghostAttack_305: 877322303
+      AghostAttack_306: 466878263
+      AghostAttack_307: -1275970117
+      AghostAttack_308: -2091584955
+      AghostAttack_309: 50984552
+      AghostAttack_31: 914113201
+      AghostAttack_310: 1676050981
+      AghostAttack_311: -1010375879
+      AghostAttack_312: -1203473428
+      AghostAttack_313: -899160368
+      AghostAttack_314: -119603379
+      AghostAttack_315: -327864214
+      AghostAttack_316: 142161686
+      AghostAttack_317: 428748135
+      AghostAttack_318: 1119866752
+      AghostAttack_319: -965836307
+      AghostAttack_32: 1580389573
+      AghostAttack_320: -1456394293
+      AghostAttack_321: 2063684660
+      AghostAttack_322: 838839323
+      AghostAttack_323: -903212217
+      AghostAttack_324: -1281579783
+      AghostAttack_325: 422104418
+      AghostAttack_326: -1636639910
+      AghostAttack_327: -400218264
+      AghostAttack_328: 979222474
+      AghostAttack_329: 1088822124
+      AghostAttack_33: 1507324488
+      AghostAttack_330: -435676592
+      AghostAttack_331: 1671501990
+      AghostAttack_332: 268244402
+      AghostAttack_333: 883068487
+      AghostAttack_334: 1414463118
+      AghostAttack_335: 953346998
+      AghostAttack_336: 1275637458
+      AghostAttack_337: 1225186552
+      AghostAttack_338: -733775348
+      AghostAttack_34: -51664919
+      AghostAttack_35: -1850287354
+      AghostAttack_36: 1975705228
+      AghostAttack_37: -1283888299
+      AghostAttack_38: -595085071
+      AghostAttack_39: -128246367
+      AghostAttack_4: 212971635
+      AghostAttack_40: 648005260
+      AghostAttack_41: 1040927375
+      AghostAttack_42: -1196972931
+      AghostAttack_43: 2106810519
+      AghostAttack_44: -822497513
+      AghostAttack_45: -541008927
+      AghostAttack_46: 1359815837
+      AghostAttack_47: 59105171
+      AghostAttack_48: -836636067
+      AghostAttack_49: 364088190
+      AghostAttack_5: 748030927
+      AghostAttack_50: 1592525266
+      AghostAttack_51: 1926048256
+      AghostAttack_52: -279278932
+      AghostAttack_53: 789543177
+      AghostAttack_54: -326809098
+      AghostAttack_55: -377117146
+      AghostAttack_56: -1086718952
+      AghostAttack_57: 867268719
+      AghostAttack_58: 219789455
+      AghostAttack_59: -979812315
+      AghostAttack_6: 888925590
+      AghostAttack_60: -2030319527
+      AghostAttack_61: 1542733015
+      AghostAttack_62: -1746899883
+      AghostAttack_63: -2060517418
+      AghostAttack_64: -1473708066
+      AghostAttack_65: 48730922
+      AghostAttack_66: 140178249
+      AghostAttack_67: 155037884
+      AghostAttack_68: -2008792616
+      AghostAttack_69: -2014357148
+      AghostAttack_7: 170504034
+      AghostAttack_70: -234636593
+      AghostAttack_71: -524982359
+      AghostAttack_72: -2012510403
+      AghostAttack_73: 416258917
+      AghostAttack_74: 1855622834
+      AghostAttack_75: -604683376
+      AghostAttack_76: -1692131351
+      AghostAttack_77: -1686946098
+      AghostAttack_78: 1999032522
+      AghostAttack_79: -537373897
+      AghostAttack_8: -1002518195
+      AghostAttack_80: -1739011443
+      AghostAttack_81: -995452130
+      AghostAttack_82: -370375352
+      AghostAttack_83: 1553828232
+      AghostAttack_84: 1922952815
+      AghostAttack_85: 1648051339
+      AghostAttack_86: 464752782
+      AghostAttack_87: 1966562155
+      AghostAttack_88: 1365983155
+      AghostAttack_89: 1396500642
+      AghostAttack_9: 883546156
+      AghostAttack_90: 538695711
+      AghostAttack_91: 1169056310
+      AghostAttack_92: 1018940165
+      AghostAttack_93: 1095003544
+      AghostAttack_94: -108742549
+      AghostAttack_95: 369748937
+      AghostAttack_96: 1389586239
+      AghostAttack_97: 1120276794
+      AghostAttack_98: -1189377484
+      AghostAttack_99: -455836838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

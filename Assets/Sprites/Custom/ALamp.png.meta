@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: 403e63a08248d45449af302354e106bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALamp_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1572
+        width: 108
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1539ffa628d594ea66444baddbf7de
+      internalID: 1475891818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1572
+        width: 105
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538675613eb0964ab80bc52f3b72bf3
+      internalID: 1089074873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1572
+        width: 106
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80737f5def5146498ed35d17e7c3a95
+      internalID: -135840189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1572
+        width: 103
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece99a577db53794f9587c9acfa0ed1a
+      internalID: -270666378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1572
+        width: 102
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176386c5229147f47be361bfecaeded9
+      internalID: -733361510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1572
+        width: 101
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8099e8a1e98ef1499affe8dac85f769
+      internalID: 1521877708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1572
+        width: 102
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31358eec86508324b9539d54211d6124
+      internalID: 1536506874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1572
+        width: 99
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc52b399db68c614dae84cc7739f579b
+      internalID: 2120813624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1572
+        width: 99
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e22dc922166d4dbd3d10f5933df7e
+      internalID: -1415582593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1572
+        width: 96
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5844ec9ff22701745a774145b3b5baa5
+      internalID: 359072556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_10
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1572
+        width: 85
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a455464f1aeb1ec48bc00e3b7eb0233e
+      internalID: -1723773868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1572
+        width: 95
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0682e0a70b2f6c44ac69bd19308f8ff
+      internalID: -976869275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_12
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1572
+        width: 95
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7483c09374ebc8b4b9400b170fcabf6c
+      internalID: 835888059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_13
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1572
+        width: 93
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3c129147378094bafff138f6e13908
+      internalID: -2091752484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_14
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1572
+        width: 92
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a60fe7df22c31488e4a4a900c1fa53
+      internalID: 1311137855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_15
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1572
+        width: 91
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff33c7ba5de184a8e82e8a206b8d74
+      internalID: 264761386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1095
+        width: 107
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e1bebea71137449ab3365bdf9f005c
+      internalID: -1787210944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1095
+        width: 105
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bef32ecb8638a4ab9c2aae0ad755c6
+      internalID: -1993214487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1095
+        width: 106
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b053169e3e1e45f4880fb5389611b63e
+      internalID: 1300608653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1095
+        width: 104
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5536d1b145ce81b4791a0cb625521d8f
+      internalID: -248700532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1095
+        width: 102
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44762fa946c3a4c8ed81c1843301a3
+      internalID: -970407817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1095
+        width: 102
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f97bb88f5e88fe45992f5744d12cab1
+      internalID: 1626361033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1095
+        width: 101
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad4a9bffb2150c4d8910bae05e092cd
+      internalID: -1544568323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1095
+        width: 100
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b8cded734786c4f80c8a624ba77039
+      internalID: -286629251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1095
+        width: 96
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0531158f119f42818ae73110e5481
+      internalID: 885906519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_25
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1095
+        width: 97
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8f51c3f94be614fb95bfb42a4460a6
+      internalID: 681329447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_26
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1095
+        width: 95
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769df8b67480e8442852c1ed65a6d634
+      internalID: -1239885408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_27
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1095
+        width: 93
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b3d2ad7a264c74b9c69db171cf3dca
+      internalID: -284984912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_28
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1095
+        width: 94
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d997d1dfa7e9df4e84b7f7a1060c490
+      internalID: 1232812989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_29
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1095
+        width: 92
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bbdb86bb74d34ba267a6f62bd01c4
+      internalID: -577046335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_30
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1095
+        width: 93
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b07016428dda84593e6dad482a73ca
+      internalID: -1829982380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_31
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1095
+        width: 92
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5093de2dde01ad49a9c1b254ac7f65f
+      internalID: -766833830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 107
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a2fd85a35e0841845e9257c77df7e
+      internalID: 271009746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 618
+        width: 105
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21a64954ecc994f984f38c5d72c7b1
+      internalID: 1339177446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_34
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 618
+        width: 105
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3efc1bda8434c43bb05f1534219e73
+      internalID: -1539070037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 618
+        width: 104
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbedd73d165e9be4fae884921d85cb60
+      internalID: 1843645380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 618
+        width: 103
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f914615e99c3a41aacade23d38e081
+      internalID: -642699069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 618
+        width: 103
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc02c2d70f73fea4092704a34882a2f1
+      internalID: -1832936107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 618
+        width: 101
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184589bc59806514999138525a3bbd80
+      internalID: 1121661576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_39
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 618
+        width: 98
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df61f5a249e8848b06989f4036ecff
+      internalID: -1213374178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_40
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 618
+        width: 98
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae476ffe5927c1c4185e9cbe9bc183ea
+      internalID: 395321403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_41
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 618
+        width: 95
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c05e6df94f2e5b4eb5b1fa7c288393f
+      internalID: -1054291241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_42
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 618
+        width: 95
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaee88f40d0c7f4cbc4ef2fb98c69f6
+      internalID: -1396750307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_43
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 618
+        width: 94
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ef7ba82a26b7245a7ae251e162b2fb
+      internalID: -1352463031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_44
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 618
+        width: 94
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e9b6350bd0c7d40a8a48e50093cf60
+      internalID: 1120234009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_45
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 618
+        width: 94
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0a8f893f9d6a47958490eac9e34d1
+      internalID: -644236542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_46
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 618
+        width: 92
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de007aedf7b5efc4eb356b77666652bc
+      internalID: 1508283814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_47
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 618
+        width: 91
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404c4deee82ab2046a3371c1c2eb26da
+      internalID: -490026520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 107
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d9c9e150d89f2469d21247cd278872
+      internalID: 719432463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 141
+        width: 107
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d15039e485144285988805afe79ed
+      internalID: -785741909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 141
+        width: 105
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f11238d21f20743bc1628cef22a4cc
+      internalID: -885254065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_51
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 141
+        width: 103
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf5d8823f13ff44ba3d747f30f831e
+      internalID: -1271683460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_52
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 141
+        width: 103
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e994993da8469f40be27bc4414ff3e0
+      internalID: -1953241564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_53
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 141
+        width: 102
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be96127af33664fb6657000e1f4741
+      internalID: 281112753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_54
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 141
+        width: 101
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1af6af99990bb4fa001176167a563d
+      internalID: -575370562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_55
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 141
+        width: 97
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e79dc2e0592d44cbd230836aac79f2
+      internalID: 2129045117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_56
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 141
+        width: 98
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf5eeb60f21e2458c2cbf744e43681
+      internalID: -1637358720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_57
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 141
+        width: 96
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79dac854a5638d4e90cc69330b9f106
+      internalID: 943328536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_58
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 141
+        width: 95
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c898d46f8e5414b96285fb48239652
+      internalID: 377016380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_59
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 141
+        width: 94
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06945124eca0e31438c868f065d83ee9
+      internalID: -400455417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_60
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 141
+        width: 94
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c18f595caba74fb3347337272019f
+      internalID: -1182501029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_61
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 141
+        width: 92
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7370ebc934c3947a218438c47761d6
+      internalID: -213177009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_62
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 141
+        width: 92
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca673625fd3b0bf4c91da483a9335342
+      internalID: -991859387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALamp_63
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 141
+        width: 92
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf596114243ce0d40b3ae0ab45b59604
+      internalID: -1313880959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e30578183bc2f904f8166165394e5a52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ALamp_0: 1475891818
+      ALamp_1: 1089074873
+      ALamp_10: -1723773868
+      ALamp_11: -976869275
+      ALamp_12: 835888059
+      ALamp_13: -2091752484
+      ALamp_14: 1311137855
+      ALamp_15: 264761386
+      ALamp_16: -1787210944
+      ALamp_17: -1993214487
+      ALamp_18: 1300608653
+      ALamp_19: -248700532
+      ALamp_2: -135840189
+      ALamp_20: -970407817
+      ALamp_21: 1626361033
+      ALamp_22: -1544568323
+      ALamp_23: -286629251
+      ALamp_24: 885906519
+      ALamp_25: 681329447
+      ALamp_26: -1239885408
+      ALamp_27: -284984912
+      ALamp_28: 1232812989
+      ALamp_29: -577046335
+      ALamp_3: -270666378
+      ALamp_30: -1829982380
+      ALamp_31: -766833830
+      ALamp_32: 271009746
+      ALamp_33: 1339177446
+      ALamp_34: -1539070037
+      ALamp_35: 1843645380
+      ALamp_36: -642699069
+      ALamp_37: -1832936107
+      ALamp_38: 1121661576
+      ALamp_39: -1213374178
+      ALamp_4: -733361510
+      ALamp_40: 395321403
+      ALamp_41: -1054291241
+      ALamp_42: -1396750307
+      ALamp_43: -1352463031
+      ALamp_44: 1120234009
+      ALamp_45: -644236542
+      ALamp_46: 1508283814
+      ALamp_47: -490026520
+      ALamp_48: 719432463
+      ALamp_49: -785741909
+      ALamp_5: 1521877708
+      ALamp_50: -885254065
+      ALamp_51: -1271683460
+      ALamp_52: -1953241564
+      ALamp_53: 281112753
+      ALamp_54: -575370562
+      ALamp_55: 2129045117
+      ALamp_56: -1637358720
+      ALamp_57: 943328536
+      ALamp_58: 377016380
+      ALamp_59: -400455417
+      ALamp_6: 1536506874
+      ALamp_60: -1182501029
+      ALamp_61: -213177009
+      ALamp_62: -991859387
+      ALamp_63: -1313880959
+      ALamp_7: 2120813624
+      ALamp_8: -1415582593
+      ALamp_9: 359072556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

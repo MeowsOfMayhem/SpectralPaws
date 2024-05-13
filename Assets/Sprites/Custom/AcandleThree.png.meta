@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: e62ad6745ffd53d459463972b57542b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcandleThree_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7396e55b8e7a4e479295ea1acb7a5aa
+      internalID: -1543683117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160615d79c8c7c42a6ccb386a849c9e
+      internalID: -366220937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cb1f9f27cd7114f8abf8c42f3a47c4
+      internalID: -1694749405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25cb38c7c33f0445880658070d2fe4d
+      internalID: -1595659437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd06ac74cffe04bb0022c2e3d24914
+      internalID: -1995410017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 811
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c977729f0643418a6884ffd8cb08c
+      internalID: -1423163042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e07e646c5887544bc2bbefec930673
+      internalID: 1267225172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efdc4069daac0a468dd57c7d79d15e4
+      internalID: -1924118097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_8
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 810
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff5cca304b145419b914b35d587460
+      internalID: 770782278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 810
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc871b32cb4b17b479145dafbd9a9c3f
+      internalID: 1748015312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_10
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 810
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39612abb5e75bf4a827eaae98b3a454
+      internalID: 1790205412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_11
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 810
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be7155b155b8014b8ffc7adc1d763a5
+      internalID: 1465891031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_12
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 810
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807227305ac037949acfde891ae4a08e
+      internalID: 1704238561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_13
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 811
+        width: 112
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f16e6c68d71144b407f25aa7d363d
+      internalID: 1965903175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 811
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2d02124bbb2624bba2158ebb15a8ca
+      internalID: 1609282518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_15
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 811
+        width: 109
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a2cb2768a6e7448aa70b90ea7aeed
+      internalID: -336611410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52ebe5d4f33a374e832837a54ad4589
+      internalID: 752003496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98367a741e1965f49859a6f4183a012e
+      internalID: -2131509848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7013a5131d4af748832ac8d8aa7f993
+      internalID: 844169228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f122fdf70fad274686a9c183ad884e6
+      internalID: 1165856967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 595
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0b9f52c828bdf4c85b478f4eaa6f6d
+      internalID: 382195539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3622bff15252ef844a68c8275d2bf841
+      internalID: 1115249363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6d157e40bd7b44b52241925ea770c
+      internalID: -697516081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e26f64b6545bd43b7092e9fd2cc767
+      internalID: -444335855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_24
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6fbb6278143d4d8d0bbbcb453070d
+      internalID: -643637455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_25
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a225bb15628c947a4375c8bbacb2f0
+      internalID: 1099288477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_26
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 595
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5d112cb68a2c4cb400c987cc5f8c6
+      internalID: 231298151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_27
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 595
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c5d485713d45447abc762fd9eea354
+      internalID: 282022806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_28
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 595
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a9248224ff0eb478e794565d805ca3
+      internalID: 1623958869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_29
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 595
+        width: 112
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd3a5affe022145abca1f1e1c94d56
+      internalID: 1794489732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_30
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 595
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e94402300eae4bbd5b887c8880638
+      internalID: 1945717993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_31
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 596
+        width: 109
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abf332713ab384a9eced9f67d72696
+      internalID: 1329403065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_32
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 607
+        width: 103
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e29709ce787c54fb94f4c92519c012
+      internalID: 1804737411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d855f07991fad448afde41ea10b12c
+      internalID: -1265901328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b60293f700d4442bf82adbfb2f65ea
+      internalID: 480320872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9b289f04529544b0dc7ba8b4945d8
+      internalID: 184927329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c9a2bdc79f0740ad2e49e5c118873
+      internalID: 863297179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_37
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b9799a3f6a3c448bcb20a64294a1dd
+      internalID: 1506617741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_38
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ff4185a6058a47913158da9a987cc
+      internalID: 1540169368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_39
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495230250fb2d5941ac9d1db4bd95418
+      internalID: -1182820683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_40
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a6d0c82fb89245a98c4dfd6a1ff9f
+      internalID: -1386824807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_41
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344178861be42a4da03691168b69b58
+      internalID: 300621584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_42
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 380
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4893514f742a4944cbfab6c8cd4bfcb4
+      internalID: -788147917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_43
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 380
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b47fb3fa674c284b889e83ee4fb204e
+      internalID: 589184075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_44
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 380
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66477b0a9f8674bbaec073285efd6f
+      internalID: -2102261088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_45
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 380
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ab9925a593e2468c519a9ca38f549
+      internalID: 1593580375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_46
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 380
+        width: 112
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9f3100038b0204aa8475f30d5cbe2a
+      internalID: 1340938169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_47
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 380
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac881d86d5860941a0a9bf8fef4d36f
+      internalID: 2028291132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_48
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 392
+        width: 90
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b533e79e767c44649a3336b6a8105e20
+      internalID: 1051778551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 165
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8492a388f2acd2849b1f4841235f0b6d
+      internalID: -1623824056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 165
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62bc6b54157f134182383e88341b49f
+      internalID: 1587029645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_51
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 165
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef700c791deb354aa7fbb8271902f42
+      internalID: -1230903586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_52
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 165
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf3eab90b6a28341baa0829076091ce
+      internalID: -600946617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_53
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 165
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c6d3aa0421ad54292f0086a6d7ead8
+      internalID: 548606902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_54
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 165
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156c51f5c0654542aa0625cfa2447d9
+      internalID: -1796309748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_55
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 165
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9553cf50923134ca475658eb230f9e
+      internalID: -1428414450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_56
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 165
+        width: 114
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da84a740f3eb1f4785ef7430b8d36ab
+      internalID: -1730885087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_57
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 165
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100c3eae798bd448a891f60ac7fde29
+      internalID: 51372135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_58
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 166
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325f8f380700e84cb590cb2433a6f3b
+      internalID: 1119549273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_59
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 165
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1094c0eb904d3bd428e6b7a81402631c
+      internalID: -795706369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_60
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 166
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe6d35408228142a4ff9ccefa1a08d
+      internalID: 1563392420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_61
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 166
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc18f958e62314f4c951c8b8e829665f
+      internalID: -1611934305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_62
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 165
+        width: 113
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f2be24a38ad448968e536222a34ba
+      internalID: 1075529185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcandleThree_63
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 166
+        width: 112
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f3b5d6fa667249b4aed86e8df773c
+      internalID: 432557978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0d2bffe861a576e40b253d39db6d3288
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AcandleThree_0: -1543683117
+      AcandleThree_1: -366220937
+      AcandleThree_10: 1790205412
+      AcandleThree_11: 1465891031
+      AcandleThree_12: 1704238561
+      AcandleThree_13: 1965903175
+      AcandleThree_14: 1609282518
+      AcandleThree_15: -336611410
+      AcandleThree_16: 752003496
+      AcandleThree_17: -2131509848
+      AcandleThree_18: 844169228
+      AcandleThree_19: 1165856967
+      AcandleThree_2: -1694749405
+      AcandleThree_20: 382195539
+      AcandleThree_21: 1115249363
+      AcandleThree_22: -697516081
+      AcandleThree_23: -444335855
+      AcandleThree_24: -643637455
+      AcandleThree_25: 1099288477
+      AcandleThree_26: 231298151
+      AcandleThree_27: 282022806
+      AcandleThree_28: 1623958869
+      AcandleThree_29: 1794489732
+      AcandleThree_3: -1595659437
+      AcandleThree_30: 1945717993
+      AcandleThree_31: 1329403065
+      AcandleThree_32: 1804737411
+      AcandleThree_33: -1265901328
+      AcandleThree_34: 480320872
+      AcandleThree_35: 184927329
+      AcandleThree_36: 863297179
+      AcandleThree_37: 1506617741
+      AcandleThree_38: 1540169368
+      AcandleThree_39: -1182820683
+      AcandleThree_4: -1995410017
+      AcandleThree_40: -1386824807
+      AcandleThree_41: 300621584
+      AcandleThree_42: -788147917
+      AcandleThree_43: 589184075
+      AcandleThree_44: -2102261088
+      AcandleThree_45: 1593580375
+      AcandleThree_46: 1340938169
+      AcandleThree_47: 2028291132
+      AcandleThree_48: 1051778551
+      AcandleThree_49: -1623824056
+      AcandleThree_5: -1423163042
+      AcandleThree_50: 1587029645
+      AcandleThree_51: -1230903586
+      AcandleThree_52: -600946617
+      AcandleThree_53: 548606902
+      AcandleThree_54: -1796309748
+      AcandleThree_55: -1428414450
+      AcandleThree_56: -1730885087
+      AcandleThree_57: 51372135
+      AcandleThree_58: 1119549273
+      AcandleThree_59: -795706369
+      AcandleThree_6: 1267225172
+      AcandleThree_60: 1563392420
+      AcandleThree_61: -1611934305
+      AcandleThree_62: 1075529185
+      AcandleThree_63: 432557978
+      AcandleThree_7: -1924118097
+      AcandleThree_8: 770782278
+      AcandleThree_9: 1748015312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

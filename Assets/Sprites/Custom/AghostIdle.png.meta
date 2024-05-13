@@ -1,0 +1,3634 @@
+fileFormatVersion: 2
+guid: 07b3813b51662f545b69c9b552574025
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AghostIdle_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1887
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4653a87878b24fbd8c15c1e349098
+      internalID: -1692476410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1885
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a046a80e91f4443b275bc7605a3f46
+      internalID: 1352761216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1885
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88644abd63b39b4c8c6d8852cdc44b2
+      internalID: 1804553919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1889
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48942f2581db70d4c82e4ad998a3aa1b
+      internalID: -576383751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1881
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2125e2fd0c5e49f42abb009e8a702a87
+      internalID: 2104614696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_5
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1885
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc97e7897147e4ca52778ff21ba84c
+      internalID: -1609540545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1885
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268488cc652681046bad3513277a9518
+      internalID: 350155760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1883
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9cfa4c1040a754796bc36ff7240321
+      internalID: 108466064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1883
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304b2a79c13adb4bb6146c84e588792
+      internalID: 1214305725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1881
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabefcf1c24499644b0d622d0e94308e
+      internalID: -1973038674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1895
+        width: 112
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e90bed979b274341bce86b7c67cd4f7
+      internalID: 803961256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1893
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25cb5ed3e1755a4b80a0f1817068aec
+      internalID: -851173111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1885
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e685fdfc73ca004aa9cde41d4bd279d
+      internalID: -27977474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1883
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c35dac92d429d49b7af1d4deab1d7e
+      internalID: 1262677180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1887
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c9888807658c843bbc7e64eab099ad
+      internalID: 1999686822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_15
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1895
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde15f17b19ec44581c2b1f2348d5f2
+      internalID: -98339857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1689
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd3198974c7824bbeaa9fc073f6d98
+      internalID: 1281880883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1691
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613f10905877454889d7b106abb1127
+      internalID: -988785744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1689
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19a9a253f56d41489cdaebc4de13ce7
+      internalID: -2047441435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1691
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0be14c69ef7c47bbfb598341d232b
+      internalID: -1193928046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_20
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1697
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5cfa73a9053634bb0e4bdebb225082
+      internalID: -1967516422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_21
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1701
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d3cbf1d1b1d80449d52540a9d24727
+      internalID: 167572304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_22
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1689
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d9d71885ca20488a45d46b25b8044
+      internalID: 612437746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_23
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1691
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a19fae97d92fb64ba4f521a1fed932c
+      internalID: -226495925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_24
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1693
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e144f5cd600540ada156b3d774dc3
+      internalID: -1080962499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_25
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1694
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c66434017e3f4ea2081a769f67e55
+      internalID: 36442272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_26
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1689
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1e5a27b6dfc64fbeefcdc4f39d399
+      internalID: 310385663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1689
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e03948dcabaf064890472870d46ceb4
+      internalID: -1781046454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1691
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f36f4c3d5b39a44acf78c079a81b9c
+      internalID: -1884532649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_29
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1691
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905beef5078c1145895241e5a013380
+      internalID: 665351848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_30
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1705
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba8d937b8721c4395f004c30355973
+      internalID: -544275853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_31
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1691
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e9d40ec6000bc4881f239d7d88aabc
+      internalID: 794710492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1499
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1f34f7a3da36b4ea953733abce5dc6
+      internalID: -1213039628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1503
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0136660a447d438a82b171c46e4e1
+      internalID: 670918285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1505
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed68472c07e92c4dadd808d267ad8e6
+      internalID: 1745194653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1501
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50b55f0cecab3459272bba0c4365f6
+      internalID: -409098507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_36
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1495
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e094cadd478b43833a72064604d57
+      internalID: -1389577989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_37
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1511
+        width: 112
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f80a2baffb5516448d79f22aa04195a
+      internalID: -396309012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_38
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1507
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a330cd1369b9b42bc02cf26adb74ee
+      internalID: 190878128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_39
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1505
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2537e4ddb24804bba1c3f10d57c0eb
+      internalID: -150252691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_40
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1501
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7328f3fbe90936d4a9d1682177d35160
+      internalID: -2087655496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_41
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1497
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491af3b26e13a34a9583d32865d6bd4
+      internalID: 1050700232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_42
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1501
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df910aedf36ae54b9e6114514665509
+      internalID: -2040338221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_43
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1497
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1482d540c12d69946b6e2ef00677ad72
+      internalID: -1035218353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_44
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1499
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c17d1832054764290b24bcc34be202
+      internalID: 302556653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_45
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1511
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26831a93ae574124bb105959e6bb84ad
+      internalID: -2014892159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1501
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ce7314a7b45848b1c70ff21c4cd24
+      internalID: 1823451432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_47
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1507
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca33a3f40f0024045a00d5e7c1bed244
+      internalID: -1027858759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1307
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f2f5129177d80479213027ea25eb84
+      internalID: 656452723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1305
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c772c9cb11473d34bbd4bb47a16bdb7b
+      internalID: 160250240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1305
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1fdb5dbcf8775449b0319226cfaeba
+      internalID: -1862151916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_51
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1305
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9497a98d599059641aceb5593794eb57
+      internalID: -1173861762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_52
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1305
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d5eaaf3b5d5df4d917670449d5398f
+      internalID: 208339199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_53
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1315
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3513fd5fc2a6347a2b7ec280b5ddd9
+      internalID: -179799478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_54
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1313
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035d069e803fcb49a8c80d0dc0c585f
+      internalID: 1297193455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_55
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1307
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f023cd9837ed1664f9cf3356c18a3f41
+      internalID: 5314495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_56
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1305
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e95ae3cbdfa442982fcc555829220
+      internalID: 993557892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_57
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1313
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edbe99cb30d8240a5bad70c1e5c99c
+      internalID: 910621762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_58
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1303
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53a19b460fa964a87b73e6347e9fd9
+      internalID: -588516978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_59
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1307
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf7f136ba8b6c841b80feeb6da7fef6
+      internalID: 2075533476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_60
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1303
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39a3a7270deff4a82c3029f37ea821
+      internalID: 356208446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_61
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1309
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06127c4b527bd7f4faaf571bd2b0609e
+      internalID: -499477637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_62
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1307
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b314ff627f0a55a40981e045dcdc98ad
+      internalID: -984860203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_63
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1307
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e561a25493c149bbc0564c0e0ae0f
+      internalID: 1739659208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1115
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703a7c7864aa964c9e832d7979b8f21
+      internalID: 2132514583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1121
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb715feb930b80946953a65d396be1d5
+      internalID: 1680462674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1115
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c988e8a956eea4389114c877a999a1
+      internalID: 791095974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_67
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1113
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09e0280df09674f89cad61f36c653d
+      internalID: 741701225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_68
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1110
+        width: 112
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d38eabe3bffb6d458450c1f3fdc8e34
+      internalID: -960657792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_69
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1110
+        width: 110
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c0fe64bd6e2a4ca5905906e95b9a3
+      internalID: -1143523223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_70
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1114
+        width: 112
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b255f4b0006a4cba647ae3b062a92
+      internalID: -403341304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_71
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1113
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f99f28b0eb667478345807e90d9412
+      internalID: 1729982364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_72
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1123
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1fcde2186d4fc4686f3f7c68967472
+      internalID: -517650421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_73
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1113
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aca9c416895524baf808831d4f4c1b
+      internalID: 1849609378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_74
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1127
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53743c0e51f4534486514f1d7ca386e
+      internalID: -191282892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_75
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1126
+        width: 110
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a49b5a1eb7e8a4b8fb78e9402af929
+      internalID: -1279349850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_76
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1123
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a12d594bdb7194bb898babf77d7e0b
+      internalID: -1957239150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_77
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1111
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b382943975da17a4fb6533bc98e69f25
+      internalID: 1144585026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_78
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1113
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d59121c0c15646b771d5895db0c18
+      internalID: 1393019100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_79
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1125
+        width: 112
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4bf76e42373cb468bc82260b26793d
+      internalID: -1156982603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 919
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753fc9f958db45541b42cfeb73db7649
+      internalID: 374288204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 917
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd877f18610f14590605bc9d504de0
+      internalID: 802652470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 921
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da7346c92aa0344a91e6502d14e50c
+      internalID: -1111861894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_83
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 917
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5302e1d24afe040b2dc8e0ad022154
+      internalID: -176555679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_84
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 921
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3535531783c114b9fbda5c71aeb816
+      internalID: 574355446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_85
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 929
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca23c7acbdf4ab439e8ad1a514175b8
+      internalID: -1324142580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_86
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 921
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e21fe478610654c965303d5502cac2
+      internalID: -994667997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_87
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 929
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f413880abcb874ca50befde1650a8c
+      internalID: 356308602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_88
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 923
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc7d0661cbf174ead2c57f2ac7ec01
+      internalID: -2002134621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_89
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 933
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96363f66e092684c86a123384362925
+      internalID: -1133705199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_90
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 919
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ccbd00a56e484c917624efb6bb3d0
+      internalID: 1546426190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_91
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 925
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ee9e9fb4511bb42a1c2fb61dbf9b56
+      internalID: 430884984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_92
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 919
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902d5a8435270d49876cebec711d3d1
+      internalID: -1355111419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_93
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 923
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9ec5f8d0c47a4baf49086719a4949
+      internalID: -409610537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_94
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 919
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632871ed6a9feed4b90a771658d26972
+      internalID: 523590722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_95
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 917
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f32ff9bfc06e644bbd2c18598b1d15
+      internalID: -1273420439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_96
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 725
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b89b8117771c41975de2772938d60
+      internalID: 1620797849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 731
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3392432ad4c24cba9fa9dd07a3b42
+      internalID: 2101213654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 733
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede144f49fd3a04f92a130602d0a107
+      internalID: -597710561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_99
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 729
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b06def70f869947b5e8877d5d532e0
+      internalID: 570193064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_100
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 725
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0653cad38c1654cb0ae41707fab6be
+      internalID: -1139487661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_101
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 725
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ffbba559c292b4cac1d4d5f1464db8
+      internalID: -1342661042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_102
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 729
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a8c0ba5ff1404e95c3b2a9cadfedf
+      internalID: 1469421035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_103
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 726
+        width: 110
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ad5908f8d1eb4d99e440d50e6d8d8
+      internalID: -1083092452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_104
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 727
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca1e1a8490b0674ebc4280353b95179
+      internalID: -1962835009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_105
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 727
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcacc99201701cd4b9a054837281fa3f
+      internalID: 450391681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_106
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 725
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd139d99454db1489ac7f9137503150
+      internalID: -708785403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_107
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 739
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8445eddfeae6254abcb54347d819142
+      internalID: -2083521467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_108
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 731
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331e74b94e4bd7d458303968cd4dcd40
+      internalID: 439669494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_109
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 731
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96eb9eb7320a324e93394034cc8344b
+      internalID: -524158903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_110
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 741
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c82086d326ef254d8efe67b98a71b06
+      internalID: 324431614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_111
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 727
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83002788cb12c9d4d925734f31eb1e1e
+      internalID: -1732966810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_112
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 537
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d5565f0a432a4ca026b651882f676
+      internalID: -923839357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 531
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe5fb725f1f634c9e338832de196fd
+      internalID: 374052916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_114
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 531
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d290d0044d5ed242a17683ff56982ca
+      internalID: -2018976017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_115
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 533
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c1debd0e823214da456475cf4dffe8
+      internalID: -1099927125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_116
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 543
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749cce13a794f8e4c871a2ea70c18a38
+      internalID: 474014698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_117
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 539
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a02d70a0f6e6a44abb4d1f6e8c1df2
+      internalID: 73169624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_118
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 537
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672cce1d1c584d4ea715cd023bb9e6a
+      internalID: 438773333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_119
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 541
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7cc2ebdae717c4d9c90af7f98f91f9
+      internalID: -802334847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_120
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 545
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92222b3b0aab9d145b085c0bfa112c20
+      internalID: 898605083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_121
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 533
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5895dd178efed3e488ab083d2826e17e
+      internalID: 1600592379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_122
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 545
+        width: 112
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee7aaff68998e46a28a2a2e2dfab69
+      internalID: -368445007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_123
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 531
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1001e0542c0ca914f8ece04e473e75bb
+      internalID: 1247884520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_124
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 545
+        width: 112
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0737d56cf3b42648b97881a64e3031a
+      internalID: 1909093236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_125
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 539
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702691589195fc343a68f958348be370
+      internalID: -1488291098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_126
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 547
+        width: 112
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72bd07fc2b9ef34aa61296f5c7299e1
+      internalID: -1258256243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_127
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 534
+        width: 110
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807569c23ad906e4c8b4b48f972ea564
+      internalID: 1798123678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_128
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 349
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516b1e0e65651b4ab730eba906b0705
+      internalID: 926598292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 343
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7479f2b899e4a49bb616ee05dfb643
+      internalID: -307160250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_130
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 337
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f2549ed491b14aa1963a1f710583e
+      internalID: -1200730278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_131
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 339
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d610f8cebb3ca948a93a4ed6c6fa614
+      internalID: 2119182509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_132
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 339
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d573750e1bb248a901f425ee6e63f
+      internalID: -2030169612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_133
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 347
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6ed9ebff379c40b76fe2837918f8b
+      internalID: -1758268846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_134
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 345
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3977aa8ac87ea544b69773a94d75639
+      internalID: -731722699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_135
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 339
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551e9d1ba8a48e498a19b8c09c6bbf8
+      internalID: 1594930287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_136
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 347
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287e7b1c4eef454080f4d92204b7912
+      internalID: 380294940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_137
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 342
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce024a2bb47d941b4487f88fc4e800
+      internalID: 465078009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_138
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 345
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb699f6076549c0499b68148a74aa623
+      internalID: 87168343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_139
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 341
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2862016fbcdc3a42865027a5043ef02
+      internalID: -1427871917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_140
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 355
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98e447e42ac9724e8a12c25a346af24
+      internalID: 568677790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_141
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 341
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02fb0fd9208ab24e8d2d4c8f3c1f7b6
+      internalID: -494410301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_142
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 345
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aef52806ab9a24f838d7ee2a58d68c
+      internalID: -846394134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_143
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 337
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37e091721c9a84d8e42c6911defe09
+      internalID: 1016132371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_144
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 147
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69134d9550137d746838f3c2b23ec71a
+      internalID: 9009326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_145
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 147
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587a749f318d194096170f90ce62526
+      internalID: -1221805254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_146
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 147
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991235a59928064fbd6fe01446d7606
+      internalID: -1485968148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_147
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 151
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96857e2cecb0b484b852b194cff5302f
+      internalID: 570955448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_148
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 147
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4470e18c4640b843a58d75ed5cb25ae
+      internalID: 311279498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_149
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 147
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494495e3b721a0e4ca023a874c50a056
+      internalID: 1010568727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_150
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 145
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06b8d7780fd3c42abeed0cee8786ae
+      internalID: 383231116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_151
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 157
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585f7f318af3a54d87347e18737dbb6
+      internalID: 1110189068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_152
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 147
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d17569f28824a47817398ea11c90d3
+      internalID: -58743286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_153
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 145
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89374c61563dd04b9c4c54001e9d09a
+      internalID: -779916631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_154
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 157
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5243965b93e5b448859fe7e8e736d60
+      internalID: -2049670430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_155
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 151
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7edd5e78c7734ab1f7d837464b144
+      internalID: 578151242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_156
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 145
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea0585e2168434eba31b55e2e981bd
+      internalID: 1888726935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_157
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 149
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8d03fbe9940c47b297c8840e0525e
+      internalID: -1484088833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_158
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 147
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b5e847592cc5944907a09d5b8e7073
+      internalID: -1294702459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AghostIdle_159
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 148
+        width: 110
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41528bd1001f2144aaa9646d88e1d3a
+      internalID: 1043466919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b17d4d4aba4bb464c833944e4dd66502
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AghostIdle_0: -1692476410
+      AghostIdle_1: 1352761216
+      AghostIdle_10: 803961256
+      AghostIdle_100: -1139487661
+      AghostIdle_101: -1342661042
+      AghostIdle_102: 1469421035
+      AghostIdle_103: -1083092452
+      AghostIdle_104: -1962835009
+      AghostIdle_105: 450391681
+      AghostIdle_106: -708785403
+      AghostIdle_107: -2083521467
+      AghostIdle_108: 439669494
+      AghostIdle_109: -524158903
+      AghostIdle_11: -851173111
+      AghostIdle_110: 324431614
+      AghostIdle_111: -1732966810
+      AghostIdle_112: -923839357
+      AghostIdle_113: 374052916
+      AghostIdle_114: -2018976017
+      AghostIdle_115: -1099927125
+      AghostIdle_116: 474014698
+      AghostIdle_117: 73169624
+      AghostIdle_118: 438773333
+      AghostIdle_119: -802334847
+      AghostIdle_12: -27977474
+      AghostIdle_120: 898605083
+      AghostIdle_121: 1600592379
+      AghostIdle_122: -368445007
+      AghostIdle_123: 1247884520
+      AghostIdle_124: 1909093236
+      AghostIdle_125: -1488291098
+      AghostIdle_126: -1258256243
+      AghostIdle_127: 1798123678
+      AghostIdle_128: 926598292
+      AghostIdle_129: -307160250
+      AghostIdle_13: 1262677180
+      AghostIdle_130: -1200730278
+      AghostIdle_131: 2119182509
+      AghostIdle_132: -2030169612
+      AghostIdle_133: -1758268846
+      AghostIdle_134: -731722699
+      AghostIdle_135: 1594930287
+      AghostIdle_136: 380294940
+      AghostIdle_137: 465078009
+      AghostIdle_138: 87168343
+      AghostIdle_139: -1427871917
+      AghostIdle_14: 1999686822
+      AghostIdle_140: 568677790
+      AghostIdle_141: -494410301
+      AghostIdle_142: -846394134
+      AghostIdle_143: 1016132371
+      AghostIdle_144: 9009326
+      AghostIdle_145: -1221805254
+      AghostIdle_146: -1485968148
+      AghostIdle_147: 570955448
+      AghostIdle_148: 311279498
+      AghostIdle_149: 1010568727
+      AghostIdle_15: -98339857
+      AghostIdle_150: 383231116
+      AghostIdle_151: 1110189068
+      AghostIdle_152: -58743286
+      AghostIdle_153: -779916631
+      AghostIdle_154: -2049670430
+      AghostIdle_155: 578151242
+      AghostIdle_156: 1888726935
+      AghostIdle_157: -1484088833
+      AghostIdle_158: -1294702459
+      AghostIdle_159: 1043466919
+      AghostIdle_16: 1281880883
+      AghostIdle_17: -988785744
+      AghostIdle_18: -2047441435
+      AghostIdle_19: -1193928046
+      AghostIdle_2: 1804553919
+      AghostIdle_20: -1967516422
+      AghostIdle_21: 167572304
+      AghostIdle_22: 612437746
+      AghostIdle_23: -226495925
+      AghostIdle_24: -1080962499
+      AghostIdle_25: 36442272
+      AghostIdle_26: 310385663
+      AghostIdle_27: -1781046454
+      AghostIdle_28: -1884532649
+      AghostIdle_29: 665351848
+      AghostIdle_3: -576383751
+      AghostIdle_30: -544275853
+      AghostIdle_31: 794710492
+      AghostIdle_32: -1213039628
+      AghostIdle_33: 670918285
+      AghostIdle_34: 1745194653
+      AghostIdle_35: -409098507
+      AghostIdle_36: -1389577989
+      AghostIdle_37: -396309012
+      AghostIdle_38: 190878128
+      AghostIdle_39: -150252691
+      AghostIdle_4: 2104614696
+      AghostIdle_40: -2087655496
+      AghostIdle_41: 1050700232
+      AghostIdle_42: -2040338221
+      AghostIdle_43: -1035218353
+      AghostIdle_44: 302556653
+      AghostIdle_45: -2014892159
+      AghostIdle_46: 1823451432
+      AghostIdle_47: -1027858759
+      AghostIdle_48: 656452723
+      AghostIdle_49: 160250240
+      AghostIdle_5: -1609540545
+      AghostIdle_50: -1862151916
+      AghostIdle_51: -1173861762
+      AghostIdle_52: 208339199
+      AghostIdle_53: -179799478
+      AghostIdle_54: 1297193455
+      AghostIdle_55: 5314495
+      AghostIdle_56: 993557892
+      AghostIdle_57: 910621762
+      AghostIdle_58: -588516978
+      AghostIdle_59: 2075533476
+      AghostIdle_6: 350155760
+      AghostIdle_60: 356208446
+      AghostIdle_61: -499477637
+      AghostIdle_62: -984860203
+      AghostIdle_63: 1739659208
+      AghostIdle_64: 2132514583
+      AghostIdle_65: 1680462674
+      AghostIdle_66: 791095974
+      AghostIdle_67: 741701225
+      AghostIdle_68: -960657792
+      AghostIdle_69: -1143523223
+      AghostIdle_7: 108466064
+      AghostIdle_70: -403341304
+      AghostIdle_71: 1729982364
+      AghostIdle_72: -517650421
+      AghostIdle_73: 1849609378
+      AghostIdle_74: -191282892
+      AghostIdle_75: -1279349850
+      AghostIdle_76: -1957239150
+      AghostIdle_77: 1144585026
+      AghostIdle_78: 1393019100
+      AghostIdle_79: -1156982603
+      AghostIdle_8: 1214305725
+      AghostIdle_80: 374288204
+      AghostIdle_81: 802652470
+      AghostIdle_82: -1111861894
+      AghostIdle_83: -176555679
+      AghostIdle_84: 574355446
+      AghostIdle_85: -1324142580
+      AghostIdle_86: -994667997
+      AghostIdle_87: 356308602
+      AghostIdle_88: -2002134621
+      AghostIdle_89: -1133705199
+      AghostIdle_9: -1973038674
+      AghostIdle_90: 1546426190
+      AghostIdle_91: 430884984
+      AghostIdle_92: -1355111419
+      AghostIdle_93: -409610537
+      AghostIdle_94: 523590722
+      AghostIdle_95: -1273420439
+      AghostIdle_96: 1620797849
+      AghostIdle_97: 2101213654
+      AghostIdle_98: -597710561
+      AghostIdle_99: 570193064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

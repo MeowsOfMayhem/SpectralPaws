@@ -12,11 +12,21 @@ public class RoomGenerator : MonoBehaviour
 
     void Start()
     {
+
+        char[] chars = kod_pokoju.ToCharArray();
+        int i;
+        i = 0;
         var random = new System.Random();
+        Debug.Log(kod_pokoju);
         foreach (GameObject element in drzwi)
         {
-            element.SetActive(random.Next(2) == 1);
-            kod_pokoju += element.activeSelf.ToString();
+            Debug.Log(chars[i]);
+            //element.SetActive(random.Next(2) == 1);
+            if (chars[i] == '1')
+                element.SetActive(true);
+            else
+                element.SetActive(false);
+            i++;
         }
 
         foreach (GameObject element in sprawner)

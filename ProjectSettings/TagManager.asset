@@ -6,6 +6,8 @@ TagManager:
   tags:
   - MusicTrigger
   - Enemy
+  - SpawnPoint
+  - Rooms
   layers:
   - Default
   - TransparentFX

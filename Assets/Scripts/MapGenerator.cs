@@ -30,7 +30,7 @@ public class MapGenerator : MonoBehaviour
                 Debug.Log(zoffset);
             }
             xoffset = xoffset + room_offset;
-            Debug.Log(xoffset);
+            //Debug.Log(xoffset);
         }
     }
 

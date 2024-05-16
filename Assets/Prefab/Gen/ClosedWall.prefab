@@ -117,7 +117,7 @@ GameObject:
   - component: {fileID: 4000799375838142957}
   - component: {fileID: 4907167604845217679}
   - component: {fileID: 6151566123261756176}
-  - component: {fileID: 7186249281523131232}
+  - component: {fileID: 3053421996621071127}
   - component: {fileID: 1410032501311909676}
   m_Layer: 0
   m_Name: ClosedWall
@@ -136,7 +136,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -11.55, y: 0, z: -25}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7523654624551418522}
@@ -218,8 +218,8 @@ MonoBehaviour:
   - {fileID: 4966497973681163669}
   - {fileID: 3064974923229539230}
   kod_pokoju: 0000
---- !u!65 &7186249281523131232
-BoxCollider:
+--- !u!64 &3053421996621071127
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -236,9 +236,10 @@ BoxCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 10, y: 1, z: 10}
-  m_Center: {x: 0, y: 0, z: 0}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!54 &1410032501311909676
 Rigidbody:
   m_ObjectHideFlags: 0

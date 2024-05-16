@@ -17,10 +17,10 @@ public class RoomGenerator : MonoBehaviour
         int i;
         i = 0;
         var random = new System.Random();
-        Debug.Log(kod_pokoju);
+        //Debug.Log(kod_pokoju);
         foreach (GameObject element in drzwi)
         {
-            Debug.Log(chars[i]);
+           // Debug.Log(chars[i]);
             //element.SetActive(random.Next(2) == 1);
             if (chars[i] == '1')
                 element.SetActive(true);

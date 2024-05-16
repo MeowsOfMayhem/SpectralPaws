@@ -1522,7 +1522,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bottomRooms:
-  - {fileID: 1724944007548172120, guid: 3d59c4e7606044146ac3aba376b112f3, type: 3}
+  - {fileID: 1724944007548172120, guid: 673c76f6644ad654ea542bb3db64fb14, type: 3}
   - {fileID: 1724944007548172120, guid: bdc70570d0b16b8469419c7b15796457, type: 3}
   - {fileID: 1724944007548172120, guid: 62a031e8ce1d02d4db43243e17ddaa9b, type: 3}
   - {fileID: 1724944007548172120, guid: fa01247386f1fe047a1202b371e5c742, type: 3}

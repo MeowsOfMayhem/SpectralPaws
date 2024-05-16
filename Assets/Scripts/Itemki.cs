@@ -38,8 +38,8 @@ public class Itemki : MonoBehaviour
 
             SFX.instance.PlaySFX(3);
 
-            if (transform.parent != null)
-                Destroy(transform.parent.gameObject);
+            //if (transform.parent != null)
+            //    Destroy(transform.parent.gameObject);
             if (this != null)
                 Destroy(this.gameObject);
         }

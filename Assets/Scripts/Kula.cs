@@ -62,6 +62,7 @@ public class Kula : MonoBehaviour
             if (this != null)
                 Destroy(this.gameObject);
         }
+
     }
 }
 

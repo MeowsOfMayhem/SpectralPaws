@@ -217,7 +217,7 @@ MonoBehaviour:
   sprawner:
   - {fileID: 4966497973681163669}
   - {fileID: 3064974923229539230}
-  kod_pokoju: 0000
+  kod_pokoju: 1111
 --- !u!64 &3053421996621071127
 MeshCollider:
   m_ObjectHideFlags: 0

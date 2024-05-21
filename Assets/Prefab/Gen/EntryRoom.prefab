@@ -421,8 +421,12 @@ MonoBehaviour:
   - {fileID: 0}
   sprawner:
   - {fileID: 8807569697607161177}
-  - {fileID: 2609855992428625146}
+  - {fileID: 8807569697607161177}
+  - {fileID: 8807569697607161177}
+  - {fileID: 8807569697607161177}
+  sprawner: []
   kod_pokoju: 1111
+  wrogowie: 0
 --- !u!114 &2072124042993551634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -453,7 +457,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8715751471964029524
 Transform:
   m_ObjectHideFlags: 0
@@ -785,7 +789,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2191817467220865828
 Transform:
   m_ObjectHideFlags: 0

@@ -251,6 +251,7 @@ MonoBehaviour:
   - {fileID: 4966497973681163669}
   - {fileID: 3064974923229539230}
   kod_pokoju: 0000
+  wrogowie: 0
 --- !u!1 &1970321832371676305
 GameObject:
   m_ObjectHideFlags: 0
@@ -1471,6 +1472,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 7965898013036189213}
     m_Modifications:
     - target: {fileID: 4566325393585773784, guid: abc76b7c24d8b934caf5d76e7c079d03, type: 3}
+      propertyPath: canShoot
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4566325393585773784, guid: abc76b7c24d8b934caf5d76e7c079d03, type: 3}
       propertyPath: patrolPoints.Array.data[0]
       value: 
       objectReference: {fileID: 659034094047207954}
@@ -1552,6 +1557,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7965898013036189213}
     m_Modifications:
+    - target: {fileID: 431250669091303463, guid: ee4a75700f470c3449d048383ca777ad, type: 3}
+      propertyPath: canShoot
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 431250669091303463, guid: ee4a75700f470c3449d048383ca777ad, type: 3}
+      propertyPath: cooldownTime
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 431250669091303463, guid: ee4a75700f470c3449d048383ca777ad, type: 3}
       propertyPath: patrolPoints.Array.data[0]
       value: 

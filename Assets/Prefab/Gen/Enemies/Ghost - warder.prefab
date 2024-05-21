@@ -100,7 +100,7 @@ MonoBehaviour:
   theRB: {fileID: 9035230948669536171}
   moveSpeed: 3
   shouldChasePlayer: 1
-  rangeToChasePlayer: 5
+  rangeToChasePlayer: 8
   shouldRunAway: 1
   runawayRange: 3
   shouldWonder: 1
@@ -114,7 +114,7 @@ MonoBehaviour:
   playerDamage: 10
   cooldownTime: 2
   canShoot: 1
-  projectile: {fileID: 6265320606276159450, guid: 6e3e00176f4d5694a9aba25565a30f5d, type: 3}
+  projectile: {fileID: 6265320606276159450, guid: 95af30f32e47c0041b258e8d1175fea8, type: 3}
 --- !u!114 &6197024931335342419
 MonoBehaviour:
   m_ObjectHideFlags: 0

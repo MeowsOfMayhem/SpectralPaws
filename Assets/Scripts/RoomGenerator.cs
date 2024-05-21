@@ -33,13 +33,7 @@ public class RoomGenerator : MonoBehaviour
             i++;
         }
 
-        foreach (GameObject element in lockeddoor)
-        {
-            // Debug.Log(chars[i]);
-            //element.SetActive(random.Next(2) == 1);
-                element.SetActive(false);
-        }
-
+        unlockDoor();
 
         foreach (GameObject element in sprawner)
         {
@@ -50,6 +44,31 @@ public class RoomGenerator : MonoBehaviour
         }
     }
 
+    void lockDoor()
+    {
+        Debug.Log("Locking");
+        if (wrogowie > 0)
+            foreach (GameObject element in lockeddoor)
+            {
+                // Debug.Log(chars[i]);
+                //element.SetActive(random.Next(2) == 1);
+                element.SetActive(true);
+            }
+    }
+
+    public void unlockDoor()
+    {
+        Debug.Log("Unlocking");
+        if (wrogowie == 0)
+            foreach (GameObject element in lockeddoor)
+            {
+                // Debug.Log(chars[i]);
+                //element.SetActive(random.Next(2) == 1);
+                element.SetActive(false);
+            }
+    }
+
+
     private void OnTriggerEnter(Collider other)
     {
 
@@ -57,17 +76,9 @@ public class RoomGenerator : MonoBehaviour
         {
             // Increase score by 1
             print("Wszedl");
-            
-            if(wrogowie >0)
-                foreach (GameObject element in lockeddoor)
-                {
-                    // Debug.Log(chars[i]);
-                    //element.SetActive(random.Next(2) == 1);
-                    element.SetActive(true);
-                }
 
-            //MusicManager.instance.PlayMusic(musicId); // dash
-
+            PlayerMovement2.instance.currentRoom = GetComponent<RoomGenerator>();
+            Invoke("lockDoor", 1.5f);
         }
     }
     /*private bool NextBool(this System.Random r, int truePercentage = 50)

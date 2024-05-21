@@ -22,6 +22,11 @@ public class Dummy : MonoBehaviour
             if (currentHealth <= 0)
             {
                 Die();
+                if (PlayerMovement2.instance.currentRoom.wrogowie > 0)
+                    {
+                        PlayerMovement2.instance.currentRoom.wrogowie--;
+                        PlayerMovement2.instance.currentRoom.unlockDoor();
+                    }
             }
         }
     }

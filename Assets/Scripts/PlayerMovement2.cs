@@ -39,7 +39,7 @@ public class PlayerMovement2 : MonoBehaviour
     public GameObject UI;
     private bool canMove = true;
     private TextMeshProUGUI textMeshPro;
-    public GameObject currentRoom;
+    public RoomGenerator currentRoom;
 
     RaycastHit hit;
 

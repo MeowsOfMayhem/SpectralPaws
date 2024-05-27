@@ -81,6 +81,7 @@ public class RoomGenerator : MonoBehaviour
             Invoke("lockDoor", 1.5f);
         }
     }
+
     /*private bool NextBool(this System.Random r, int truePercentage = 50)
     {
         return r.NextDouble() < truePercentage / 100.0;

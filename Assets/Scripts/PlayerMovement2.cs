@@ -53,6 +53,7 @@ public class PlayerMovement2 : MonoBehaviour
         characterController = GetComponent<CharacterController>();
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
+        canMove = true;
     }
 
     void Update()
@@ -214,6 +215,7 @@ public class PlayerMovement2 : MonoBehaviour
             textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
             textMeshPro.text = "Pause!";
             Time.timeScale = 0f;
+            Cursor.visible = true;
         }
         else
         {
@@ -221,18 +223,18 @@ public class PlayerMovement2 : MonoBehaviour
             textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
             textMeshPro.text = "Pause!";
             Time.timeScale = 1f;
+            Cursor.visible = false;
         }
     }
 
     IEnumerator Wait()
     {
         Debug.Log("Wait... start");
-        yield return new WaitForSecondsRealtime(5);
+        yield return new WaitForSecondsRealtime(8);
         Debug.Log("Wait... end");
         Time.timeScale = 1f;
         UI.SetActive(false);
         SceneManager.LoadScene("MainMenu");
-
     }
 
     public void EndGame()
@@ -240,7 +242,9 @@ public class PlayerMovement2 : MonoBehaviour
             UI.SetActive(true);
             textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
             textMeshPro.text = "End Game!";
-            Time.timeScale = 0f;
+            Cursor.visible = true;
+            Time.timeScale = 1f;
+            canMove = false;
             StartCoroutine(Wait());
 
         //UI.SetActive(false);

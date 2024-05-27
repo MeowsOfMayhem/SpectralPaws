@@ -97,27 +97,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AbossWalk_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 3845
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c8cf026bb5a36a4488e7abb80fe7f50
-      internalID: 1047605980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_1
       rect:
         serializedVersion: 2
@@ -126,7 +105,7 @@ TextureImporter:
         width: 742
         height: 372
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,27 +113,6 @@ TextureImporter:
       bones: []
       spriteID: aa5c8d270e284d64ebcc0cf541e5ab57
       internalID: -1043305600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_2
-      rect:
-        serializedVersion: 2
-        x: 859
-        y: 3846
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be71c60760aa6a647983a54c12e96a13
-      internalID: -453307525
       vertices: []
       indices: 
       edges: []
@@ -168,7 +126,7 @@ TextureImporter:
         width: 710
         height: 373
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -176,27 +134,6 @@ TextureImporter:
       bones: []
       spriteID: e57119fa6a8e3a04093ebc2bcfd50e3d
       internalID: -651497140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_4
-      rect:
-        serializedVersion: 2
-        x: 1693
-        y: 3843
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 669d2218316113343914dd86e29f5a23
-      internalID: 1243708588
       vertices: []
       indices: 
       edges: []
@@ -210,7 +147,7 @@ TextureImporter:
         width: 692
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +168,7 @@ TextureImporter:
         width: 596
         height: 393
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -239,27 +176,6 @@ TextureImporter:
       bones: []
       spriteID: 39f6736b46ded2943b74da7b7bd77805
       internalID: -1357871165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_7
-      rect:
-        serializedVersion: 2
-        x: 3241
-        y: 3846
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0577ebfa4483adc4eb2aa25ec3ce9d45
-      internalID: 1857634958
       vertices: []
       indices: 
       edges: []
@@ -273,7 +189,7 @@ TextureImporter:
         width: 714
         height: 372
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -281,69 +197,6 @@ TextureImporter:
       bones: []
       spriteID: 1e13d28f72207564385660994eec4654
       internalID: 33295017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_9
-      rect:
-        serializedVersion: 2
-        x: 2507
-        y: 3825
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1797dbd72d85fe4fb47de1afcfff726
-      internalID: 949604607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_10
-      rect:
-        serializedVersion: 2
-        x: 2643
-        y: 3733
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5a3329487f4a364f9cd0ce1a4a4e739
-      internalID: 2016014933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_11
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 3697
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eef1557a9b0f4624a8117966dc68e671
-      internalID: 1153328536
       vertices: []
       indices: 
       edges: []
@@ -357,7 +210,7 @@ TextureImporter:
         width: 680
         height: 372
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -365,48 +218,6 @@ TextureImporter:
       bones: []
       spriteID: be954a3d54fb159438f377ab68fb2854
       internalID: -1083220437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_13
-      rect:
-        serializedVersion: 2
-        x: 1439
-        y: 3699
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62d1ccf27b8eb4f4e9ca52be1526192f
-      internalID: -1873849586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_14
-      rect:
-        serializedVersion: 2
-        x: 2261
-        y: 3695
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5db4634a479d94b499d1bbfaadd670c2
-      internalID: 452327746
       vertices: []
       indices: 
       edges: []
@@ -420,7 +231,7 @@ TextureImporter:
         width: 667
         height: 398
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -428,27 +239,6 @@ TextureImporter:
       bones: []
       spriteID: d691564ed652b38498a090aeafaa916a
       internalID: -2135950973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_16
-      rect:
-        serializedVersion: 2
-        x: 3779
-        y: 3699
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04ecf9a830d4c304c9788f202c21d8a5
-      internalID: 331491453
       vertices: []
       indices: 
       edges: []
@@ -462,7 +252,7 @@ TextureImporter:
         width: 642
         height: 390
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,7 +273,7 @@ TextureImporter:
         width: 648
         height: 372
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -496,78 +286,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_19
-      rect:
-        serializedVersion: 2
-        x: 3027
-        y: 3679
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbca94d05307a314f897d94f1ca263bf
-      internalID: 1347134860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_20
-      rect:
-        serializedVersion: 2
-        x: 860
-        y: 3451
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61b7ecbc21039c54ebf0986da5988a6e
-      internalID: 2124242400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_21
-      rect:
-        serializedVersion: 2
-        x: 1665
-        y: 3451
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 759fbff38bb481f41b88e57b450edc79
-      internalID: 680177946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_22
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3433
-        width: 5
-        height: 6
+        x: 2671
+        y: 3285
+        width: 552
+        height: 392
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -580,49 +307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_23
-      rect:
-        serializedVersion: 2
-        x: 3241
-        y: 3425
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 919e9316bbbe75141a7eb9c1e357c897
-      internalID: -2136085083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_24
-      rect:
-        serializedVersion: 2
-        x: 3375
-        y: 3333
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64aad7d2dc01b8748aac16dae6bf935c
-      internalID: 2076184301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_25
+      name: AbossWalk_26
       rect:
         serializedVersion: 2
         x: 949
@@ -630,28 +315,7 @@ TextureImporter:
         width: 562
         height: 384
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab023f7286992e2488d6a1a104686180
-      internalID: 1484592210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_26
-      rect:
-        serializedVersion: 2
-        x: 1421
-        y: 3305
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -664,28 +328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_27
-      rect:
-        serializedVersion: 2
-        x: 2205
-        y: 3303
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ad04f3c815fb474bb45b2d35eb6b55e
-      internalID: 1652494695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_28
+      name: AbossWalk_29
       rect:
         serializedVersion: 2
         x: 185
@@ -693,28 +336,7 @@ TextureImporter:
         width: 574
         height: 376
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46447262f5744fe4a893f5ba194f2a01
-      internalID: 856057360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_29
-      rect:
-        serializedVersion: 2
-        x: 539
-        y: 3285
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -727,7 +349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_30
+      name: AbossWalk_31
       rect:
         serializedVersion: 2
         x: 1813
@@ -735,28 +357,7 @@ TextureImporter:
         width: 622
         height: 372
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37d73adae4d698444a8ea4550d477547
-      internalID: 1239733949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_31
-      rect:
-        serializedVersion: 2
-        x: 2620
-        y: 2915
-        width: 547
-        height: 390
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -772,12 +373,12 @@ TextureImporter:
       name: AbossWalk_32
       rect:
         serializedVersion: 2
-        x: 3751
-        y: 3279
-        width: 8
-        height: 8
+        x: 2647
+        y: 2803
+        width: 514
+        height: 402
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -790,36 +391,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_33
-      rect:
-        serializedVersion: 2
-        x: 1665
-        y: 3057
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2cc2a74d67e70d43a38368d8b5e1df0
-      internalID: 2007220905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_34
       rect:
         serializedVersion: 2
-        x: 3325
-        y: 2875
-        width: 771
-        height: 406
+        x: 3363
+        y: 2793
+        width: 733
+        height: 404
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -832,175 +412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_35
-      rect:
-        serializedVersion: 2
-        x: 763
-        y: 3045
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a820f291f4ffbdf44886c94949e93445
-      internalID: -708802787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_36
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 3033
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffbfe19e024f14645b72f58c8ec97115
-      internalID: 1450282226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_37
-      rect:
-        serializedVersion: 2
-        x: 2433
-        y: 3037
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9e5fb33529862b46b54fdf4eb127c10
-      internalID: 758022055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_38
-      rect:
-        serializedVersion: 2
-        x: 3167
-        y: 2999
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f887b5e4bfc7e44bb968bebcfa3c635
-      internalID: 1773897299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_39
-      rect:
-        serializedVersion: 2
-        x: 1806
-        y: 2963
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af474f65d572e22438e8b5b3a7907beb
-      internalID: -2089405222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_40
-      rect:
-        serializedVersion: 2
-        x: 902
-        y: 2953
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 844d7976d2d17ad48a6830df8884020f
-      internalID: -529994787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_41
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 2941
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fb7015a594868748b7f28c8a1db35c8
-      internalID: -1348857381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_42
-      rect:
-        serializedVersion: 2
-        x: 2569
-        y: 2944
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8a12d7de26c41142bd00baded7f91fc
-      internalID: 2044461574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_43
+      name: AbossWalk_44
       rect:
         serializedVersion: 2
         x: 1683
@@ -1008,28 +420,7 @@ TextureImporter:
         width: 536
         height: 404
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 646a9556575879d43b03f5c9c6cf1136
-      internalID: -1850778256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_44
-      rect:
-        serializedVersion: 2
-        x: 2203
-        y: 2909
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1037,27 +428,6 @@ TextureImporter:
       bones: []
       spriteID: 0746eca65072c694dbdc8948cfe87a8a
       internalID: -1747407008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_45
-      rect:
-        serializedVersion: 2
-        x: 3297
-        y: 2906
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 847eb066f4cff6a4a95ab1e3a2d88730
-      internalID: -1316557945
       vertices: []
       indices: 
       edges: []
@@ -1071,7 +441,7 @@ TextureImporter:
         width: 520
         height: 406
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1084,57 +454,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_47
-      rect:
-        serializedVersion: 2
-        x: 1291
-        y: 2899
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d82593d625bcabf49bc139e62b577f77
-      internalID: -909957508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_48
-      rect:
-        serializedVersion: 2
-        x: 533
-        y: 2887
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5193085346f6c3459c25295dad7a4d7
-      internalID: 824495048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_49
       rect:
         serializedVersion: 2
-        x: 2413
-        y: 2489
-        width: 512
-        height: 402
+        x: 189
+        y: 2483
+        width: 520
+        height: 404
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1147,99 +475,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_50
-      rect:
-        serializedVersion: 2
-        x: 2951
-        y: 2889
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a16a668a0d2f3d4f9791113aa5a60c4
-      internalID: 159130731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_51
-      rect:
-        serializedVersion: 2
-        x: 189
-        y: 2483
-        width: 520
-        height: 404
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbae8046a3576d341aecc7fc4d99191b
-      internalID: 379208570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_52
-      rect:
-        serializedVersion: 2
-        x: 3359
-        y: 2438
-        width: 552
-        height: 420
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2d5efa30a8cd6548b43620d8ae69c9a
-      internalID: 98979564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_53
-      rect:
-        serializedVersion: 2
-        x: 3667
-        y: 2851
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0019e420190c04840a7847d25c3a8ee0
-      internalID: -1003674596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_54
       rect:
         serializedVersion: 2
-        x: 1509
-        y: 2629
-        width: 6
-        height: 6
+        x: 201
+        y: 2061
+        width: 506
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1252,99 +496,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_55
-      rect:
-        serializedVersion: 2
-        x: 759
-        y: 2619
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85ef7d0a925db5c4cad46b8ec62aaa5e
-      internalID: -51844463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_56
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2607
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f60aed4e5e1176d4592ee83ba0c8c462
-      internalID: 1535912533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_57
-      rect:
-        serializedVersion: 2
-        x: 2217
-        y: 2611
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30f10d83b90a61845a6bf5cfecd824a0
-      internalID: 144015835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_58
-      rect:
-        serializedVersion: 2
-        x: 3165
-        y: 2573
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bde208770dccb404b9e5dd59cdaa1396
-      internalID: 687967460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_59
       rect:
         serializedVersion: 2
-        x: 1641
-        y: 2535
-        width: 6
-        height: 6
+        x: 903
+        y: 2073
+        width: 512
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1357,70 +517,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_60
-      rect:
-        serializedVersion: 2
-        x: 890
-        y: 2526
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ae01b6c7bc7fbf41b6e131eefb71be8
-      internalID: 1926065009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_61
-      rect:
-        serializedVersion: 2
-        x: 2349
-        y: 2519
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 735efd1c1f84f0945bc0a8bce705fcea
-      internalID: 41985765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_62
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 2514
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7484d4bcc23f454ba87814b93cf8221
-      internalID: -563658292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_63
+      name: AbossWalk_64
       rect:
         serializedVersion: 2
         x: 1665
@@ -1428,28 +525,7 @@ TextureImporter:
         width: 508
         height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 621c06e775435c64299fae7c9a3481d6
-      internalID: 1656543010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_64
-      rect:
-        serializedVersion: 2
-        x: 2011
-        y: 2481
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1462,78 +538,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_65
-      rect:
-        serializedVersion: 2
-        x: 3297
-        y: 2481
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a2cfe2a3867cd4429e2d11743cd612f
-      internalID: 1736914405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_66
-      rect:
-        serializedVersion: 2
-        x: 903
-        y: 2073
-        width: 512
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2900dca57d2548640aac61e514178a50
-      internalID: -416579420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_67
-      rect:
-        serializedVersion: 2
-        x: 1261
-        y: 2471
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6bdbc47673d8e5e4eb77a04813a15d5f
-      internalID: 1459450494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_68
       rect:
         serializedVersion: 2
-        x: 501
-        y: 2459
-        width: 8
-        height: 7
+        x: 2349
+        y: 2079
+        width: 512
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1546,162 +559,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_69
-      rect:
-        serializedVersion: 2
-        x: 2375
-        y: 2065
-        width: 510
-        height: 402
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 14aa38bffb2f9dd4eb150e2bfca30a38
-      internalID: 1318096427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_70
-      rect:
-        serializedVersion: 2
-        x: 2719
-        y: 2465
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12fa728463a29304bac15b75e42f9927
-      internalID: 1255160490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_71
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 2061
-        width: 506
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60ee9d0afb922d4449c0ae9b32274dc7
-      internalID: -1038319434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_72
-      rect:
-        serializedVersion: 2
-        x: 3667
-        y: 2427
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d5c7bbdceab1084bb2ea2d0acf3bdeb
-      internalID: -2027511971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_73
-      rect:
-        serializedVersion: 2
-        x: 1465
-        y: 2205
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4a7f838207d3a84c908474702035b4c
-      internalID: 1300132215
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_74
-      rect:
-        serializedVersion: 2
-        x: 3087
-        y: 2027
-        width: 502
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7aec21ec05546404ebee7993ca3ff168
-      internalID: 927813489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_75
-      rect:
-        serializedVersion: 2
-        x: 705
-        y: 2195
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8191561f6fe8e5f4397f913995bd3732
-      internalID: 451177592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_76
       rect:
         serializedVersion: 2
-        x: 2173
-        y: 2191
-        width: 6
-        height: 6
+        x: 1633
+        y: 1659
+        width: 488
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1714,36 +580,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_77
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2185
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb14b7bdc9d35b249adfc9238b1db911
-      internalID: 834251514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_78
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 2112
-        width: 5
-        height: 5
+        x: 925
+        y: 1649
+        width: 490
+        height: 402
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1756,57 +601,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_79
-      rect:
-        serializedVersion: 2
-        x: 837
-        y: 2103
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eccf0d82861dccd4db445ed26b1e334d
-      internalID: -17928503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_80
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 2098
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e5585011fed8fb40b27d7c20ce9d63e
-      internalID: -537304419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_81
       rect:
         serializedVersion: 2
-        x: 130
-        y: 2091
-        width: 5
-        height: 6
+        x: 215
+        y: 1638
+        width: 492
+        height: 401
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1819,36 +622,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_82
-      rect:
-        serializedVersion: 2
-        x: 1966
-        y: 2057
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a462f5d9986e1874e938b4d6789f316f
-      internalID: -38311782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_83
       rect:
         serializedVersion: 2
-        x: 3011
-        y: 2060
-        width: 5
-        height: 5
+        x: 2343
+        y: 1645
+        width: 486
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1861,100 +643,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_84
-      rect:
-        serializedVersion: 2
-        x: 925
-        y: 1649
-        width: 490
-        height: 402
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2a81ba2d1ba30f4a84c13987bd773e3
-      internalID: 1502315841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_85
-      rect:
-        serializedVersion: 2
-        x: 1207
-        y: 2049
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8260833f110226743b5d271bbf28a763
-      internalID: -850951419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_86
-      rect:
-        serializedVersion: 2
-        x: 1633
-        y: 1659
-        width: 488
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15efb84e6ee0d6b4da152d1ef3a4b6be
-      internalID: -1873742891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_87
-      rect:
-        serializedVersion: 2
-        x: 2675
-        y: 2043
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3d4d188956361f46b901a6824b42a46
-      internalID: -1268098311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_88
       rect:
         serializedVersion: 2
-        x: 215
-        y: 1638
-        width: 492
-        height: 401
+        x: 3462
+        y: 1242
+        width: 633
+        height: 529
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 106, w: 125}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1966,141 +664,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_89
-      rect:
-        serializedVersion: 2
-        x: 501
-        y: 2037
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6f00531dfcb0064c95eb60367fc1372
-      internalID: -861894485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_90
-      rect:
-        serializedVersion: 2
-        x: 2343
-        y: 1645
-        width: 486
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fdcab3210c25c61419570df128a1b509
-      internalID: 306632492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_91
-      rect:
-        serializedVersion: 2
-        x: 3381
-        y: 2005
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6b832c0d1d869e46861a02ba7a72fb2
-      internalID: -1632797941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_92
-      rect:
-        serializedVersion: 2
-        x: 1413
-        y: 1783
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84c7832a531c76348b721aa0ff8cb961
-      internalID: -36729422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_93
-      rect:
-        serializedVersion: 2
-        x: 705
-        y: 1775
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4733a2ab52ceb9d42a77d6f59cf56c66
-      internalID: 264591210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_94
-      rect:
-        serializedVersion: 2
-        x: 2119
-        y: 1769
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95360a5d28568d3499ced282061cbdb9
-      internalID: -831917894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_95
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1763
-        width: 5
-        height: 8
+        x: 929
+        y: 1229
+        width: 486
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2113,36 +685,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_96
-      rect:
-        serializedVersion: 2
-        x: 1544
-        y: 1691
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 790bf545039832b41bd06bbc92e2d54f
-      internalID: -379314753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_97
       rect:
         serializedVersion: 2
-        x: 837
-        y: 1682
-        width: 6
-        height: 5
+        x: 1619
+        y: 1237
+        width: 503
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2155,36 +706,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_98
-      rect:
-        serializedVersion: 2
-        x: 2251
-        y: 1677
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b13d5acfd57c3da41b909551d3646ed6
-      internalID: -486838894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_99
       rect:
         serializedVersion: 2
-        x: 131
-        y: 1671
-        width: 5
-        height: 5
+        x: 2917
+        y: 1237
+        width: 472
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2200,12 +730,12 @@ TextureImporter:
       name: AbossWalk_100
       rect:
         serializedVersion: 2
-        x: 1915
-        y: 1637
-        width: 8
-        height: 8
+        x: 211
+        y: 1217
+        width: 496
+        height: 402
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2218,400 +748,22 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossWalk_101
-      rect:
-        serializedVersion: 2
-        x: 929
-        y: 1229
-        width: 486
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2e49c6904eb1ce439483c30556c33a1
-      internalID: 263456252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_102
-      rect:
-        serializedVersion: 2
-        x: 1207
-        y: 1627
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e79812ca7f42b243b7c99b194004823
-      internalID: 1404137003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_103
-      rect:
-        serializedVersion: 2
-        x: 1619
-        y: 1237
-        width: 503
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3b735f3f27545c4ea48ac9dae20632c
-      internalID: 1716780208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_104
-      rect:
-        serializedVersion: 2
-        x: 2621
-        y: 1623
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0cd23c44c113dca4fb9a97b6713b47a6
-      internalID: -2106865696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_105
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 1217
-        width: 496
-        height: 402
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71cdb845f31f8f2468d2c14de10bf74c
-      internalID: 146522372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_106
-      rect:
-        serializedVersion: 2
-        x: 501
-        y: 1617
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38c94672de1b7d841826b058dde9787f
-      internalID: -668479046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_107
-      rect:
-        serializedVersion: 2
-        x: 2341
-        y: 1213
-        width: 527
-        height: 424
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 10}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0108037371c1fa64ea8441c756876d99
-      internalID: -1114633644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_108
-      rect:
-        serializedVersion: 2
-        x: 1413
-        y: 1363
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94fb71a1e16edcf439380c72f9995c42
-      internalID: 1286203795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_109
-      rect:
-        serializedVersion: 2
-        x: 707
-        y: 1353
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba16f57bd47ee1640b73304424840c6c
-      internalID: -1321856640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_110
-      rect:
-        serializedVersion: 2
-        x: 2119
-        y: 1349
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67e695a29e7d30649ba1e04c3994652d
-      internalID: 859216505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_111
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1343
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 266fbaae5ab2ab54bbe735630df2bb82
-      internalID: -468374248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_112
-      rect:
-        serializedVersion: 2
-        x: 1544
-        y: 1270
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8831420e9f28f7a4da6b73a8c9222b29
-      internalID: 1575675308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_113
-      rect:
-        serializedVersion: 2
-        x: 838
-        y: 1261
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38da7d348e623864e89360a9f6356873
-      internalID: 1350662086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AbossWalk_114
       rect:
         serializedVersion: 2
-        x: 2252
-        y: 1256
-        width: 5
-        height: 5
+        x: 2328
+        y: 1201
+        width: 527
+        height: 427
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 17, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: f33e4006fd64e214ca40727026749533
       internalID: 1490034930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_115
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 1249
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12a9290ab5d8f3f4a93409773c63d595
-      internalID: 661218007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_116
-      rect:
-        serializedVersion: 2
-        x: 1915
-        y: 1215
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c506427e4bd8904d942628ef5dbbd83
-      internalID: 716502445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_117
-      rect:
-        serializedVersion: 2
-        x: 1207
-        y: 1207
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c4d6c0976eaa01428f9853ece41b161
-      internalID: -1495194854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_118
-      rect:
-        serializedVersion: 2
-        x: 2621
-        y: 1201
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43b411347922f7d498a40e79ab43caf7
-      internalID: 2092473276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossWalk_119
-      rect:
-        serializedVersion: 2
-        x: 501
-        y: 1195
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 601404988587f484194466cb34787a61
-      internalID: -1596854656
       vertices: []
       indices: 
       edges: []
@@ -2647,10 +799,6 @@ TextureImporter:
       AbossWalk_113: 1350662086
       AbossWalk_114: 1490034930
       AbossWalk_115: 661218007
-      AbossWalk_116: 716502445
-      AbossWalk_117: -1495194854
-      AbossWalk_118: 2092473276
-      AbossWalk_119: -1596854656
       AbossWalk_12: -1083220437
       AbossWalk_13: -1873849586
       AbossWalk_14: 452327746

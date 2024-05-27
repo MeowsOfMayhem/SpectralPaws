@@ -230,7 +230,7 @@ public class PlayerMovement2 : MonoBehaviour
     IEnumerator Wait()
     {
         Debug.Log("Wait... start");
-        yield return new WaitForSecondsRealtime(8);
+        yield return new WaitForSecondsRealtime(5);
         Debug.Log("Wait... end");
         Time.timeScale = 1f;
         UI.SetActive(false);
@@ -246,6 +246,21 @@ public class PlayerMovement2 : MonoBehaviour
             Time.timeScale = 1f;
             canMove = false;
             StartCoroutine(Wait());
+
+        //UI.SetActive(false);
+        //Time.timeScale = 1f;
+        //SceneManager.LoadScene(nextScene);
+    }
+
+    public void WonGame()
+    {
+        UI.SetActive(true);
+        textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
+        textMeshPro.text = "Won Game!";
+        Cursor.visible = true;
+        Time.timeScale = 1f;
+        canMove = false;
+        StartCoroutine(Wait());
 
         //UI.SetActive(false);
         //Time.timeScale = 1f;

@@ -28,6 +28,8 @@ public class RoomTemplates : MonoBehaviour
 				if (i == rooms.Count - 1)
 				{
 					Instantiate(boss, rooms[i].transform.position, Quaternion.identity);
+					var rg = rooms[i].GetComponent<RoomGenerator>();
+					rg.boss = 1;
 					spawnedBoss = true;
 				}
 			}

@@ -11,6 +11,7 @@ public class RoomGenerator : MonoBehaviour
     public GameObject[] lockeddoor;
     public string kod_pokoju;
     public int wrogowie;
+    public int boss;
     private int spawn;
 
     void Start()
@@ -42,6 +43,7 @@ public class RoomGenerator : MonoBehaviour
             if (element.tag == "Enemy" && spawn == 1)
                 wrogowie++;
         }
+
     }
 
     void lockDoor()
@@ -81,7 +83,6 @@ public class RoomGenerator : MonoBehaviour
             Invoke("lockDoor", 1.5f);
         }
     }
-
     /*private bool NextBool(this System.Random r, int truePercentage = 50)
     {
         return r.NextDouble() < truePercentage / 100.0;

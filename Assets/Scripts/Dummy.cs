@@ -17,16 +17,31 @@ public class Dummy : MonoBehaviour
         if (!isDead)
         {
             currentHealth -= damage;
-
+            
+            print(transform.parent.gameObject.tag);
+            
             // Check if the dummy is dead
             if (currentHealth <= 0)
             {
                 Die();
-                if (PlayerMovement2.instance.currentRoom.wrogowie > 0)
+
+                if(transform.parent.gameObject.tag =="Boss")
+                {
+                    if (PlayerMovement2.instance.currentRoom.boss > 0)
+                    {
+                        PlayerMovement2.instance.currentRoom.boss--;
+                        PlayerMovement2.instance.WonGame();
+                    }
+                }
+
+                if (transform.parent.gameObject.tag == "Enemy")
+                {
+                    if (PlayerMovement2.instance.currentRoom.wrogowie > 0)
                     {
                         PlayerMovement2.instance.currentRoom.wrogowie--;
                         PlayerMovement2.instance.currentRoom.unlockDoor();
                     }
+                }
             }
         }
     }

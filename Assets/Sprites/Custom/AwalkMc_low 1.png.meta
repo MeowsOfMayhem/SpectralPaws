@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: ee2cec3c276591740ac043399ba4e0d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AwalkMc_low 1_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 400
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5852d4b8d0c54a835f7c3516284d3
+      internalID: -1317581361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 400
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32382a2452f90da498adfbdadafda394
+      internalID: 929840890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 400
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd03b4c68aefee4394b25bad0570147
+      internalID: 488352244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 402
+        width: 82
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b448e5cbe23f914eb2e0c4537deea15
+      internalID: 175397877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 402
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa65841f18ca8c4b9c9474cd1ae9671
+      internalID: -119959369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_5
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 402
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7632f49c7773a2418269e905ac47700
+      internalID: 1023154501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_6
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 401
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18bd2025a0137f4ea4f8eac6d732e58
+      internalID: 1788184268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 402
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286f1b23c055b14da506f8137b09c95
+      internalID: 1302371209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 233
+        width: 84
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8e9a646c73d441aca70f2b0d7d515
+      internalID: 1808465027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 233
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5770f3e253794d9cbed54b5eb402f
+      internalID: 482668449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 233
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bfae01fa0cb05419f0ba499d69ae59
+      internalID: -872383078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 233
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5aff678bb85b40b23840158c0b708
+      internalID: -40540753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 233
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817886c4271a0c94198ef6c201d6e309
+      internalID: -1994758489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 233
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51edc1eed99c0ce40887d7032c60c86e
+      internalID: -1313451346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_14
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 234
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8a83dd7ddbc044b833e0702984eff
+      internalID: -2042568195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 232
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689d6804f6e17b4a9d656e14b1e6f22
+      internalID: -55332736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1fa24fd6a5c24097ddfa74f1d07e7
+      internalID: -1097717972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fed5d3222d39944a7328f8098ff155
+      internalID: 551456897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 56
+        width: 83
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbaa515fdfb7794a8ce1e33f624e5ea
+      internalID: -1727509715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_low 1_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 56
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d285ddab11514285fa1bfabbd8ee0
+      internalID: 1773569376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AwalkMc_low 1_0: -1317581361
+      AwalkMc_low 1_1: 929840890
+      AwalkMc_low 1_10: -872383078
+      AwalkMc_low 1_11: -40540753
+      AwalkMc_low 1_12: -1994758489
+      AwalkMc_low 1_13: -1313451346
+      AwalkMc_low 1_14: -2042568195
+      AwalkMc_low 1_15: -55332736
+      AwalkMc_low 1_16: -1097717972
+      AwalkMc_low 1_17: 551456897
+      AwalkMc_low 1_18: -1727509715
+      AwalkMc_low 1_19: 1773569376
+      AwalkMc_low 1_2: 488352244
+      AwalkMc_low 1_3: 175397877
+      AwalkMc_low 1_4: -119959369
+      AwalkMc_low 1_5: 1023154501
+      AwalkMc_low 1_6: 1788184268
+      AwalkMc_low 1_7: 1302371209
+      AwalkMc_low 1_8: 1808465027
+      AwalkMc_low 1_9: 482668449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,18 +95,854 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AmcDash_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 914
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34a6c42d7c024479cd51bd5c26ef2d
+      internalID: 91761629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 914
+        width: 113
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd54cf89362634ba9a796c11662b4e
+      internalID: 2096098942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 914
+        width: 113
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd2c3d0c165c04795406afa2ca2f9b
+      internalID: 1726506574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 915
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997033bf2c0777a489b68c3ec6b10a9a
+      internalID: 843223819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 914
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfecaf8d23459814c93ad1753b6e0529
+      internalID: 22815105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_5
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 914
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e716a315a616458a4bda12b126faf
+      internalID: -2127200575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 914
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192ae7b18db7be48b31707c606773aa
+      internalID: 193742761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 915
+        width: 111
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b23a8ef9b8e2b41891fd57c5ffe6ed
+      internalID: -127837432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 798
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484036116f74c1428e13a2428dd4827
+      internalID: -1994551644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 798
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b346f5cc76b8342b88f4102a9f9e1e
+      internalID: 948523940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 798
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90079f1329c10874c80906c010cf4412
+      internalID: -1886552758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 798
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b7920f59518f64590da5f0a2428f42
+      internalID: -652747009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 798
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b46bfa5849b74fa46081a554c34a3
+      internalID: 612544679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 798
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb09a4a81ff5d4da52bb1cf400b1ee
+      internalID: 100589112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 798
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b521214ad3a564e8b4918c6307ea3f
+      internalID: -1325011800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 798
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6ef99561033c41b6f53381f84d0b9
+      internalID: 81702409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 682
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67988bf80d169d245be0485d5d2ceb3b
+      internalID: -1216480814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 683
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373bf649f12af44990fbc24c167cf98
+      internalID: 1273360119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 682
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11211560b0092546b5234fffe312b8f
+      internalID: 103933063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 682
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf0e5439247dc40ba87312fcb3e523
+      internalID: 117897495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_20
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 682
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77d347fdfee1c04391e668c62a19e8c
+      internalID: 499743303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 682
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548fadfb649fac49a6fabf5d681cc90
+      internalID: 642116908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 683
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b40c754f36e2f4cad99a80837a8691
+      internalID: -886853002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 682
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee446f57835ac439d6abbb916327b1
+      internalID: 1073718080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 566
+        width: 113
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d35d6a94dbb24ca181ca334666d7d
+      internalID: 1454918357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 566
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe421ca2fe2d1f488db717946ad56e7
+      internalID: -763964814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 566
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e46dcb24e057f4d8d6aa3f09a0947f
+      internalID: -250599170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d96b8942de86024dad529450ae29a68
+      internalID: 425269806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9764d586f12fb4e8e5b7d9e190fce4
+      internalID: 1136234767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 450
+        width: 113
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d498b114010bc4d8dde37e1b46bf40
+      internalID: -1759660943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 334
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20ba101534f2943932e123c5f14603
+      internalID: -856987909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 335
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1808ef050fbf1034fa5614cf3fe10005
+      internalID: 254325133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 334
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27856224bc7dfac499507f98a7da07bf
+      internalID: -1679560322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 219
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc46b108b62e974c83bf07704c6cc1d
+      internalID: 656150042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 219
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406394ac552c1244890e05fdce97555b
+      internalID: 1537791517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 218
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b03c5ee66f2324685893bbccfb5bf9
+      internalID: -1731936765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_36
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 102
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c7d1670fb13e438fa9a066639d181
+      internalID: -383928106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcDash_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bf8f7c0b372db45ad0c6319343f416
+      internalID: -1774298486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a637390e21f0f848b55332709e79dfa
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AmcDash_0: 91761629
+      AmcDash_1: 2096098942
+      AmcDash_10: -1886552758
+      AmcDash_11: -652747009
+      AmcDash_12: 612544679
+      AmcDash_13: 100589112
+      AmcDash_14: -1325011800
+      AmcDash_15: 81702409
+      AmcDash_16: -1216480814
+      AmcDash_17: 1273360119
+      AmcDash_18: 103933063
+      AmcDash_19: 117897495
+      AmcDash_2: 1726506574
+      AmcDash_20: 499743303
+      AmcDash_21: 642116908
+      AmcDash_22: -886853002
+      AmcDash_23: 1073718080
+      AmcDash_24: 1454918357
+      AmcDash_25: -763964814
+      AmcDash_26: -250599170
+      AmcDash_27: 425269806
+      AmcDash_28: 1136234767
+      AmcDash_29: -1759660943
+      AmcDash_3: 843223819
+      AmcDash_30: -856987909
+      AmcDash_31: 254325133
+      AmcDash_32: -1679560322
+      AmcDash_33: 656150042
+      AmcDash_34: 1537791517
+      AmcDash_35: -1731936765
+      AmcDash_36: -383928106
+      AmcDash_37: -1774298486
+      AmcDash_4: 22815105
+      AmcDash_5: -2127200575
+      AmcDash_6: 193742761
+      AmcDash_7: -127837432
+      AmcDash_8: -1994551644
+      AmcDash_9: 948523940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

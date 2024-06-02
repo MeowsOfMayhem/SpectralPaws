@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f8b75731161a97c419daadf035f3d85b
+guid: 270ef7cd34266924c9afa7e414a7ba01
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AbossHit_1
+      name: AdamageMc_0
       rect:
         serializedVersion: 2
-        x: 84
-        y: 2336
-        width: 569
-        height: 403
+        x: 201
+        y: 780
+        width: 229
+        height: 364
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a3ec26d170964f4ba39f0103ad63bc8
-      internalID: -2096238960
+      spriteID: 7518805757831df4e9b356ed330fe675
+      internalID: -1040970101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_2
+      name: AdamageMc_1
       rect:
         serializedVersion: 2
-        x: 714
-        y: 2335
-        width: 576
-        height: 393
+        x: 509
+        y: 780
+        width: 229
+        height: 364
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 533cd5d6fb925d34c917ba7ad0b4306b
-      internalID: 1029508015
+      spriteID: f1ee779e4f36c724b80937db3f64bfd1
+      internalID: 1455930627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_3
+      name: AdamageMc_2
       rect:
         serializedVersion: 2
-        x: 1374
-        y: 2335
-        width: 582
-        height: 380
+        x: 812
+        y: 780
+        width: 229
+        height: 365
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8e0e064cefd0eb41821908cb6c9deb9
-      internalID: -1949810624
+      spriteID: 8ab01e2599ca50442a0f6fca0ab8da51
+      internalID: -1697697837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_7
+      name: AdamageMc_3
       rect:
         serializedVersion: 2
-        x: 51
-        y: 1903
-        width: 587
-        height: 371
+        x: 1116
+        y: 780
+        width: 230
+        height: 365
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f922048c80edcba4390778efaaddc540
-      internalID: 585459702
+      spriteID: 8244b21b08db8564ea2a74bba467cdd0
+      internalID: 1056129476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_8
+      name: AdamageMc_4
       rect:
         serializedVersion: 2
-        x: 715
-        y: 1879
-        width: 589
-        height: 298
+        x: 1421
+        y: 780
+        width: 230
+        height: 365
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c28e795923e9d94ea0ab54f03508516
-      internalID: 464781418
+      spriteID: e9b1c83d659757141b85a05d0e9025b1
+      internalID: 64715597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_9
+      name: AdamageMc_5
       rect:
         serializedVersion: 2
-        x: 1395
-        y: 1871
-        width: 579
-        height: 250
+        x: 1742
+        y: 780
+        width: 230
+        height: 358
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75a0a89aecfa4b5488928bbe9ef725dd
-      internalID: -1817109060
+      spriteID: 65900dbeac30d024a9fec6a40460213d
+      internalID: -998389306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_13
+      name: AdamageMc_6
       rect:
         serializedVersion: 2
-        x: 59
-        y: 1456
-        width: 576
-        height: 281
+        x: 2051
+        y: 780
+        width: 229
+        height: 351
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d82e51cf25ef902478ece2e3f7204082
-      internalID: -781291481
+      spriteID: a43c7a48cb534dd4c9e66a8746c7e279
+      internalID: 647814358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_15
+      name: AdamageMc_7
       rect:
         serializedVersion: 2
-        x: 729
-        y: 1454
-        width: 566
-        height: 312
+        x: 2367
+        y: 780
+        width: 228
+        height: 333
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13e964b6b280d5f4c9862ce453e9952e
-      internalID: -929587089
+      spriteID: 4a6b35707032b044ea67cc3d22039929
+      internalID: 1318156263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_17
+      name: AdamageMc_11
       rect:
         serializedVersion: 2
-        x: 1405
-        y: 1453
-        width: 560
-        height: 325
+        x: 2672
+        y: 780
+        width: 233
+        height: 321
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a9b76d512965a146bf6d36893cf1e46
-      internalID: -2111559013
+      spriteID: 03243980d94f158499969eb7e7ee194c
+      internalID: 1153685678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_21
+      name: AdamageMc_12
       rect:
         serializedVersion: 2
-        x: 14
-        y: 894
-        width: 576
-        height: 344
+        x: 2960
+        y: 780
+        width: 243
+        height: 303
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cc7cb3113e8cf54a9eb5fe20334a501
-      internalID: -1415013277
+      spriteID: a97eb7e57a88d964cbc7472dcdcde123
+      internalID: 2026250037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_22
+      name: AdamageMc_15
       rect:
         serializedVersion: 2
-        x: 701
-        y: 896
-        width: 550
-        height: 399
+        x: 515
+        y: 369
+        width: 230
+        height: 338
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 364f864cf766f634194d7e75277d5eb6
-      internalID: 540003207
+      spriteID: b3079ba3e3ea1664e8a525367e24f34d
+      internalID: -245942272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_24
+      name: AdamageMc_17
       rect:
         serializedVersion: 2
-        x: 1419
-        y: 899
-        width: 546
-        height: 455
+        x: 830
+        y: 369
+        width: 230
+        height: 352
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +342,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1aa6457c736a85e45ac7b8c1d7e5fb1a
-      internalID: -407213578
+      spriteID: 27d6fb6ad238c4842a12e0e22ebe321c
+      internalID: -826377817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_30
+      name: AdamageMc_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 372
-        width: 578
-        height: 431
+        x: 1140
+        y: 369
+        width: 229
+        height: 358
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa4ade6ebe7d3be428d6ff53a412c579
-      internalID: 1067065896
+      spriteID: 13e34a1950dff094ba78b4f6fbc155f4
+      internalID: -1497288024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_31
+      name: AdamageMc_19
       rect:
         serializedVersion: 2
-        x: 649
-        y: 373
-        width: 577
-        height: 407
+        x: 1443
+        y: 369
+        width: 229
+        height: 364
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +384,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 430fa93eb5061994d98e217e7dd6c173
-      internalID: -162826815
+      spriteID: c1f09bdec5da8b34e84b67aa3a766f28
+      internalID: 238759237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossHit_33
+      name: AdamageMc_20
       rect:
         serializedVersion: 2
-        x: 1390
-        y: 373
-        width: 560
-        height: 403
+        x: 1761
+        y: 369
+        width: 229
+        height: 364
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,8 +405,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e110084a088d1b4da740f1be60b9e55
-      internalID: 2018303297
+      spriteID: 2fe54ba3da343ff4fbdd45af23d7fc94
+      internalID: -2007477114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdamageMc_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 369
+        width: 228
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e38df593890340ab2ffc7969c4611
+      internalID: 304461777
       vertices: []
       indices: 
       edges: []
@@ -414,7 +435,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1532b27f88ce96243b4823f08a947857
+    spriteID: 980102a917cdec148a3706880394a0e5
     internalID: 0
     vertices: []
     indices: 
@@ -422,44 +443,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AbossHit_0: 1085435318
-      AbossHit_1: -2096238960
-      AbossHit_10: -2063303222
-      AbossHit_11: 2096501279
-      AbossHit_12: -1492838095
-      AbossHit_13: -781291481
-      AbossHit_14: 2103393109
-      AbossHit_15: -929587089
-      AbossHit_16: -1532310521
-      AbossHit_17: -2111559013
-      AbossHit_18: -1618220735
-      AbossHit_19: -1518406983
-      AbossHit_2: 1029508015
-      AbossHit_20: 788619510
-      AbossHit_21: -1415013277
-      AbossHit_22: 540003207
-      AbossHit_23: -997164114
-      AbossHit_24: -407213578
-      AbossHit_25: -1259883684
-      AbossHit_26: -861364156
-      AbossHit_27: 957936021
-      AbossHit_28: -2024322001
-      AbossHit_29: -824542491
-      AbossHit_3: -1949810624
-      AbossHit_30: 1067065896
-      AbossHit_31: -162826815
-      AbossHit_32: -1973361127
-      AbossHit_33: 2018303297
-      AbossHit_34: 290694215
-      AbossHit_35: -27010135
-      AbossHit_36: 2062898057
-      AbossHit_37: -1632738213
-      AbossHit_4: -2002209476
-      AbossHit_5: 1237702232
-      AbossHit_6: 1335145486
-      AbossHit_7: 585459702
-      AbossHit_8: 464781418
-      AbossHit_9: -1817109060
+      AdamageMc_0: -1040970101
+      AdamageMc_1: 1455930627
+      AdamageMc_10: 1906583525
+      AdamageMc_11: 1153685678
+      AdamageMc_12: 2026250037
+      AdamageMc_13: -1805674718
+      AdamageMc_14: 1347452270
+      AdamageMc_15: -245942272
+      AdamageMc_16: 996120870
+      AdamageMc_17: -826377817
+      AdamageMc_18: -1497288024
+      AdamageMc_19: 238759237
+      AdamageMc_2: -1697697837
+      AdamageMc_20: -2007477114
+      AdamageMc_21: 304461777
+      AdamageMc_22: -920156145
+      AdamageMc_3: 1056129476
+      AdamageMc_4: 64715597
+      AdamageMc_5: -998389306
+      AdamageMc_6: 647814358
+      AdamageMc_7: 1318156263
+      AdamageMc_8: 1685902676
+      AdamageMc_9: 1277378708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b1b27ed687a3dd84d85c4fef77c11095
+guid: d99b87609c53c28418bc16f75f377f88
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AbossAttack_0
+      name: AAtakMorda_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 937
-        width: 149
-        height: 86
+        x: 54
+        y: 1817
+        width: 197
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a48f7b3a36e2ee64f9fdf3aa2c778295
-      internalID: 1403863112
+      spriteID: 9b41f0af7a0845049950257b01ec4104
+      internalID: 739361143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_1
+      name: AAtakMorda_1
       rect:
         serializedVersion: 2
-        x: 183
-        y: 938
-        width: 114
-        height: 85
+        x: 345
+        y: 1817
+        width: 197
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e25abf5379b0b7549ae7aa2b0f493b54
-      internalID: -887920284
+      spriteID: 9ebf5d8477591544f866c3b5b07d8ad1
+      internalID: -999205318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_2
+      name: AAtakMorda_2
       rect:
         serializedVersion: 2
-        x: 330
-        y: 938
-        width: 114
-        height: 85
+        x: 624
+        y: 1817
+        width: 197
+        height: 377
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84e14fc892988334a92edebbf1d652b0
-      internalID: 1553007924
+      spriteID: d9ac6400811c194439c88a4d54f273c6
+      internalID: -569071453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_3
+      name: AAtakMorda_3
       rect:
         serializedVersion: 2
-        x: 476
-        y: 939
-        width: 114
-        height: 84
+        x: 905
+        y: 1819
+        width: 194
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d3a2c7cc65e41a4593e97abcca420a0
-      internalID: 84398737
+      spriteID: 177720b2751681b439c266adb6c120bb
+      internalID: 1986266326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_4
+      name: AAtakMorda_4
       rect:
         serializedVersion: 2
-        x: 625
-        y: 941
-        width: 113
-        height: 82
+        x: 1184
+        y: 1819
+        width: 193
+        height: 405
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c5c022f549c63849a76a650af9cf20a
-      internalID: 1334641343
+      spriteID: c484aca4c80f90e4bbcd756a0f36faa9
+      internalID: -1199116833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_5
+      name: AAtakMorda_5
       rect:
         serializedVersion: 2
-        x: 769
-        y: 939
-        width: 115
-        height: 84
+        x: 1447
+        y: 1819
+        width: 190
+        height: 386
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 951046c3496d4b4408ee24b2669f9d4d
-      internalID: -1780806049
+      spriteID: b0b6e892631cc904a95a828f039f6e70
+      internalID: -1425116605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_6
+      name: AAtakMorda_6
       rect:
         serializedVersion: 2
-        x: 911
-        y: 937
-        width: 112
-        height: 86
+        x: 1695
+        y: 1817
+        width: 188
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efa4910d07d769645957f0eb27e936b4
-      internalID: -1543711107
+      spriteID: 7721885fa360d2242844af5cd250c133
+      internalID: 1255161950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_7
+      name: AAtakMorda_7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 850
-        width: 143
-        height: 83
+        x: 71
+        y: 1385
+        width: 188
+        height: 344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c007afec843f334c9255056ad17d508
-      internalID: 273975794
+      spriteID: 7bd1dbb838cb42a4ca8c92a5cf9bb91c
+      internalID: -872415032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_8
+      name: AAtakMorda_8
       rect:
         serializedVersion: 2
-        x: 171
-        y: 850
-        width: 126
-        height: 83
+        x: 363
+        y: 1385
+        width: 187
+        height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1486b7b948b3a424a9f014b23e8b44ae
-      internalID: 319471232
+      spriteID: f1a20fb792cad744482a7dee774fb70b
+      internalID: 63626121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_9
+      name: AAtakMorda_9
       rect:
         serializedVersion: 2
-        x: 326
-        y: 849
-        width: 115
-        height: 85
+        x: 645
+        y: 1385
+        width: 181
+        height: 307
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cec0c63b8b355cf41b05f4df625b0a7d
-      internalID: -48114265
+      spriteID: d648d207b41a0a1438c20ba2053f74a8
+      internalID: 1952916949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_10
+      name: AAtakMorda_10
       rect:
         serializedVersion: 2
-        x: 470
-        y: 849
-        width: 120
-        height: 85
+        x: 917
+        y: 1385
+        width: 174
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18fee7dbb08d7dd43b0a157077b91532
-      internalID: 2021790510
+      spriteID: 8804d202cb782424797d0ddc7222bb5d
+      internalID: 2076678416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_11
+      name: AAtakMorda_11
       rect:
         serializedVersion: 2
-        x: 621
-        y: 849
-        width: 115
-        height: 88
+        x: 1186
+        y: 1385
+        width: 190
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +342,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aac7e2feaff9c244a925f0bd30d88c84
-      internalID: 1693913465
+      spriteID: eea918872f7787f49b6a66dd1ea5693e
+      internalID: -1686612440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_12
+      name: AAtakMorda_12
       rect:
         serializedVersion: 2
-        x: 766
-        y: 849
-        width: 115
-        height: 86
+        x: 1436
+        y: 1385
+        width: 230
+        height: 231
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df569d3f87d2f7246a80c24f7da28777
-      internalID: 1590349912
+      spriteID: dc4e8b11d755a0a4f9833fc98909fe3b
+      internalID: 1342195271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_13
+      name: AAtakMorda_13
       rect:
         serializedVersion: 2
-        x: 911
-        y: 849
-        width: 112
-        height: 83
+        x: 1700
+        y: 1385
+        width: 200
+        height: 264
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +384,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c95c5ccc36908a4295bce9e9453067f
-      internalID: -175966094
+      spriteID: d4e6df84a963fcd46b75ff51a71c5f2b
+      internalID: 21591831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_14
+      name: AAtakMorda_14
       rect:
         serializedVersion: 2
-        x: 1
-        y: 768
-        width: 150
-        height: 78
+        x: 90
+        y: 1021
+        width: 177
+        height: 298
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 787fea0aa7872c545b3922712ebba83e
-      internalID: 1084511322
+      spriteID: 097ebd52fb2a82142b2d85c31c8348b5
+      internalID: 1021667996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_15
+      name: AAtakMorda_15
       rect:
         serializedVersion: 2
-        x: 177
-        y: 764
-        width: 115
-        height: 82
+        x: 368
+        y: 1021
+        width: 178
+        height: 296
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,20 +426,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76e85ae790847334b967ce74d0fd7d31
-      internalID: -904937264
+      spriteID: dc5da7cb93027774b9a22407c5c18d08
+      internalID: -61044909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_16
+      name: AAtakMorda_16
       rect:
         serializedVersion: 2
-        x: 319
-        y: 764
-        width: 122
-        height: 81
+        x: 645
+        y: 1021
+        width: 181
+        height: 282
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,83 +447,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acbdca792a9b7e24aaea5ca7e6352748
-      internalID: 640169004
+      spriteID: fdb5265eefd4400438ae689a3cecf61a
+      internalID: -220884991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_17
-      rect:
-        serializedVersion: 2
-        x: 477
-        y: 764
-        width: 112
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b20e6696ae176d4cbfe627a59cf290e
-      internalID: -645730498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_18
-      rect:
-        serializedVersion: 2
-        x: 617
-        y: 760
-        width: 115
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed70a75a2ca159c41aff5431754b34b4
-      internalID: 693408454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_19
-      rect:
-        serializedVersion: 2
-        x: 760
-        y: 760
-        width: 121
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72159324d9e4abb43be419ee103a1e46
-      internalID: -594224392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_20
+      name: AAtakMorda_17
       rect:
         serializedVersion: 2
         x: 910
-        y: 758
-        width: 112
-        height: 87
+        y: 1020
+        width: 181
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,20 +468,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 065468a77f9cbaa489e2a585bcaef8d6
-      internalID: -887564580
+      spriteID: d01f316124b56134084d0f8868646473
+      internalID: 445466021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_21
+      name: AAtakMorda_18
       rect:
         serializedVersion: 2
-        x: 1
-        y: 677
-        width: 142
-        height: 88
+        x: 1191
+        y: 1020
+        width: 183
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +489,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c9070257d2ac5343bf0ddae3bbdb135
-      internalID: 1980647777
+      spriteID: c3b47d8edf4535b48a2a6aa25ae714f1
+      internalID: 1185348916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_22
+      name: AAtakMorda_19
       rect:
         serializedVersion: 2
-        x: 179
-        y: 686
-        width: 113
-        height: 74
+        x: 1461
+        y: 1020
+        width: 185
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +510,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 001ebfb531000ea4fb2c33b7f2cf363b
-      internalID: -688474617
+      spriteID: c1ab38adccbbbcc46b4d81f288eb50b6
+      internalID: -1646998506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_23
+      name: AAtakMorda_20
       rect:
         serializedVersion: 2
-        x: 319
-        y: 682
-        width: 115
-        height: 78
+        x: 1708
+        y: 1020
+        width: 187
+        height: 296
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,20 +531,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2915fb314f6ec34595f25cb1c92f6eb
-      internalID: -776329566
+      spriteID: ad1ad5a9936359041ab6f6f0a5dd1207
+      internalID: -1206526740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_24
+      name: AAtakMorda_21
       rect:
         serializedVersion: 2
-        x: 462
-        y: 684
-        width: 115
-        height: 76
+        x: 90
+        y: 638
+        width: 190
+        height: 299
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +552,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daa4db03e3ff00c42a106e43b3ca8726
-      internalID: 1563807662
+      spriteID: 372dbdabf43c21849b4bed1e116552a7
+      internalID: 1052979740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_25
+      name: AAtakMorda_22
       rect:
         serializedVersion: 2
-        x: 606
-        y: 678
-        width: 115
-        height: 78
+        x: 358
+        y: 638
+        width: 192
+        height: 303
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,20 +573,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63ba2a4e94729ac4d953bb2a21fb5712
-      internalID: -1735850356
+      spriteID: ec1c6d31504bf924597232ca40285648
+      internalID: -1103497250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_26
+      name: AAtakMorda_23
       rect:
         serializedVersion: 2
-        x: 756
-        y: 686
-        width: 114
-        height: 70
+        x: 650
+        y: 638
+        width: 193
+        height: 314
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,20 +594,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7e7b23a1cb079c4291578580ad283cc
-      internalID: 589998276
+      spriteID: c2cd2ebf88a9496408610478d2c234ad
+      internalID: 502697337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_27
+      name: AAtakMorda_24
       rect:
         serializedVersion: 2
-        x: 899
-        y: 683
-        width: 113
-        height: 71
+        x: 903
+        y: 638
+        width: 195
+        height: 325
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,20 +615,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15a9708de3a874648bce9722b7bdf2d6
-      internalID: -1892386168
+      spriteID: 94510b42a06be5e4381dfac62b0c20cb
+      internalID: -592359742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_28
+      name: AAtakMorda_25
       rect:
         serializedVersion: 2
-        x: 170
-        y: 601
-        width: 116
-        height: 82
+        x: 1185
+        y: 638
+        width: 193
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,20 +636,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d6a2e8af6b6b1f47a50d7ecf5e2937a
-      internalID: -765594456
+      spriteID: b8f4d2272949a3f42b2b1c699b1e0acf
+      internalID: 1418569206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_29
+      name: AAtakMorda_26
       rect:
         serializedVersion: 2
-        x: 316
-        y: 611
-        width: 118
-        height: 67
+        x: 1457
+        y: 638
+        width: 193
+        height: 340
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,20 +657,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de664a6613dcbae4eb268dbe41346736
-      internalID: 2016584890
+      spriteID: 5be96bc55dd8a0042b6398da6eefc2cf
+      internalID: -720721016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_30
+      name: AAtakMorda_27
       rect:
         serializedVersion: 2
-        x: 464
-        y: 607
-        width: 113
-        height: 69
+        x: 1705
+        y: 638
+        width: 194
+        height: 346
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,20 +678,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c80931f69d2ba8c499a4cc38414310a6
-      internalID: 746652460
+      spriteID: 290f7abea4e906c4a9e656b1df49d0f7
+      internalID: -660655089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_31
+      name: AAtakMorda_28
       rect:
         serializedVersion: 2
-        x: 613
-        y: 542
-        width: 112
-        height: 93
+        x: 91
+        y: 235
+        width: 195
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,20 +699,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 302ee02f26338db4697ebda97595eec8
-      internalID: -2132105732
+      spriteID: bd1fd1296d91e714db5b6b611b149581
+      internalID: -699709351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AbossAttack_32
+      name: AAtakMorda_29
       rect:
         serializedVersion: 2
-        x: 750
-        y: 612
-        width: 117
-        height: 71
+        x: 354
+        y: 235
+        width: 196
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,155 +720,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79a3d193ecc8c70468731c0e9ada201c
-      internalID: -1340744878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_33
-      rect:
-        serializedVersion: 2
-        x: 902
-        y: 613
-        width: 111
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4a67482b74a6104bad098cf344c2c68
-      internalID: -731642368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_34
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 538
-        width: 146
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdb98df87df5b904da614a0814bc884a
-      internalID: 903780139
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_35
-      rect:
-        serializedVersion: 2
-        x: 317
-        y: 543
-        width: 113
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09ea34f0ee2f53a4ab467bf7117b12f4
-      internalID: 2094021501
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_36
-      rect:
-        serializedVersion: 2
-        x: 761
-        y: 548
-        width: 116
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75a89d25130b37247be7d799a83f6516
-      internalID: 2116726891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_37
-      rect:
-        serializedVersion: 2
-        x: 911
-        y: 545
-        width: 112
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1ce73fb7ec2b08438b0d9c3197b9c0f
-      internalID: -429677689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_38
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 468
-        width: 148
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d81c5074fdd5dd4abf804bd295b2f31
-      internalID: -578944463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AbossAttack_39
-      rect:
-        serializedVersion: 2
-        x: 727
-        y: 482
-        width: 148
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8384d916477023a49a0a20c070fb0f46
-      internalID: -185049962
+      spriteID: 2e65166ad629f424aad37961331bec43
+      internalID: 1343472830
       vertices: []
       indices: 
       edges: []
@@ -939,7 +729,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 944afeab478e2da42af17359cc9018db
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -947,46 +737,36 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AbossAttack_0: 1403863112
-      AbossAttack_1: -887920284
-      AbossAttack_10: 2021790510
-      AbossAttack_11: 1693913465
-      AbossAttack_12: 1590349912
-      AbossAttack_13: -175966094
-      AbossAttack_14: 1084511322
-      AbossAttack_15: -904937264
-      AbossAttack_16: 640169004
-      AbossAttack_17: -645730498
-      AbossAttack_18: 693408454
-      AbossAttack_19: -594224392
-      AbossAttack_2: 1553007924
-      AbossAttack_20: -887564580
-      AbossAttack_21: 1980647777
-      AbossAttack_22: -688474617
-      AbossAttack_23: -776329566
-      AbossAttack_24: 1563807662
-      AbossAttack_25: -1735850356
-      AbossAttack_26: 589998276
-      AbossAttack_27: -1892386168
-      AbossAttack_28: -765594456
-      AbossAttack_29: 2016584890
-      AbossAttack_3: 84398737
-      AbossAttack_30: 746652460
-      AbossAttack_31: -2132105732
-      AbossAttack_32: -1340744878
-      AbossAttack_33: -731642368
-      AbossAttack_34: 903780139
-      AbossAttack_35: 2094021501
-      AbossAttack_36: 2116726891
-      AbossAttack_37: -429677689
-      AbossAttack_38: -578944463
-      AbossAttack_39: -185049962
-      AbossAttack_4: 1334641343
-      AbossAttack_5: -1780806049
-      AbossAttack_6: -1543711107
-      AbossAttack_7: 273975794
-      AbossAttack_8: 319471232
-      AbossAttack_9: -48114265
+      AAtakMorda_0: 739361143
+      AAtakMorda_1: -999205318
+      AAtakMorda_10: 2076678416
+      AAtakMorda_11: -1686612440
+      AAtakMorda_12: 1342195271
+      AAtakMorda_13: 21591831
+      AAtakMorda_14: 1021667996
+      AAtakMorda_15: -61044909
+      AAtakMorda_16: -220884991
+      AAtakMorda_17: 445466021
+      AAtakMorda_18: 1185348916
+      AAtakMorda_19: -1646998506
+      AAtakMorda_2: -569071453
+      AAtakMorda_20: -1206526740
+      AAtakMorda_21: 1052979740
+      AAtakMorda_22: -1103497250
+      AAtakMorda_23: 502697337
+      AAtakMorda_24: -592359742
+      AAtakMorda_25: 1418569206
+      AAtakMorda_26: -720721016
+      AAtakMorda_27: -660655089
+      AAtakMorda_28: -699709351
+      AAtakMorda_29: 1343472830
+      AAtakMorda_3: 1986266326
+      AAtakMorda_4: -1199116833
+      AAtakMorda_5: -1425116605
+      AAtakMorda_6: 1255161950
+      AAtakMorda_7: -872415032
+      AAtakMorda_8: 63626121
+      AAtakMorda_9: 1952916949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -100,10 +100,10 @@ TextureImporter:
       name: AwalkMorda_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 693
-        width: 234
-        height: 330
+        x: 110
+        y: 1113
+        width: 198
+        height: 368
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,10 +121,10 @@ TextureImporter:
       name: AwalkMorda_1
       rect:
         serializedVersion: 2
-        x: 449
-        y: 658
-        width: 195
-        height: 365
+        x: 365
+        y: 1113
+        width: 197
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,10 +142,10 @@ TextureImporter:
       name: AwalkMorda_2
       rect:
         serializedVersion: 2
-        x: 646
-        y: 661
-        width: 195
-        height: 362
+        x: 623
+        y: 1114
+        width: 197
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,10 +163,10 @@ TextureImporter:
       name: AwalkMorda_3
       rect:
         serializedVersion: 2
-        x: 843
-        y: 672
-        width: 200
-        height: 351
+        x: 862
+        y: 1116
+        width: 197
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: AwalkMorda_4
       rect:
         serializedVersion: 2
-        x: 1046
-        y: 672
-        width: 195
-        height: 351
+        x: 1101
+        y: 1117
+        width: 199
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +205,10 @@ TextureImporter:
       name: AwalkMorda_5
       rect:
         serializedVersion: 2
-        x: 1243
-        y: 678
+        x: 1361
+        y: 1117
         width: 198
-        height: 345
+        height: 362
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: AwalkMorda_6
       rect:
         serializedVersion: 2
-        x: 1443
-        y: 677
-        width: 195
-        height: 346
+        x: 1607
+        y: 1118
+        width: 199
+        height: 363
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: AwalkMorda_7
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 681
-        width: 192
-        height: 341
+        x: 1863
+        y: 1117
+        width: 197
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: AwalkMorda_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 359
-        width: 226
-        height: 332
+        x: 99
+        y: 692
+        width: 197
+        height: 359
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: AwalkMorda_9
       rect:
         serializedVersion: 2
-        x: 230
-        y: 356
-        width: 217
-        height: 335
+        x: 365
+        y: 692
+        width: 197
+        height: 353
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: AwalkMorda_10
       rect:
         serializedVersion: 2
-        x: 449
-        y: 292
-        width: 195
-        height: 364
+        x: 623
+        y: 692
+        width: 197
+        height: 349
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,10 +331,10 @@ TextureImporter:
       name: AwalkMorda_11
       rect:
         serializedVersion: 2
-        x: 646
-        y: 297
+        x: 864
+        y: 701
         width: 195
-        height: 362
+        height: 343
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: AwalkMorda_12
       rect:
         serializedVersion: 2
-        x: 843
-        y: 309
-        width: 195
-        height: 361
+        x: 1102
+        y: 714
+        width: 220
+        height: 337
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,10 +373,10 @@ TextureImporter:
       name: AwalkMorda_13
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 311
-        width: 196
-        height: 359
+        x: 1346
+        y: 733
+        width: 228
+        height: 334
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: AwalkMorda_14
       rect:
         serializedVersion: 2
-        x: 1238
-        y: 313
-        width: 197
-        height: 357
+        x: 1607
+        y: 733
+        width: 237
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: AwalkMorda_15
       rect:
         serializedVersion: 2
-        x: 1437
-        y: 311
-        width: 195
-        height: 359
+        x: 1863
+        y: 715
+        width: 228
+        height: 335
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: AwalkMorda_16
       rect:
         serializedVersion: 2
-        x: 1634
-        y: 312
-        width: 195
-        height: 358
+        x: 89
+        y: 319
+        width: 219
+        height: 337
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: AwalkMorda_17
       rect:
         serializedVersion: 2
-        x: 1831
-        y: 313
-        width: 195
-        height: 357
+        x: 380
+        y: 314
+        width: 200
+        height: 347
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: AwalkMorda_18
       rect:
         serializedVersion: 2
-        x: 1
-        y: 25
-        width: 226
-        height: 332
+        x: 606
+        y: 303
+        width: 202
+        height: 353
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: AwalkMorda_19
       rect:
         serializedVersion: 2
-        x: 230
-        y: 19
-        width: 217
-        height: 335
+        x: 864
+        y: 303
+        width: 200
+        height: 359
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,6 +512,48 @@ TextureImporter:
       bones: []
       spriteID: 05651b2d9a0090d4fafd1a6e4154daec
       internalID: 1299665110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_20
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 303
+        width: 200
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c739ff36e3f676429c29b7dd2425862
+      internalID: -672565452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMorda_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 305
+        width: 198
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8366bc817e64b14aa469532171f0903
+      internalID: -1497491444
       vertices: []
       indices: 
       edges: []
@@ -540,6 +582,8 @@ TextureImporter:
       AwalkMorda_18: 21295193
       AwalkMorda_19: 1299665110
       AwalkMorda_2: 1104980843
+      AwalkMorda_20: -672565452
+      AwalkMorda_21: -1497491444
       AwalkMorda_3: 2065111029
       AwalkMorda_4: 1678308817
       AwalkMorda_5: -1880632194

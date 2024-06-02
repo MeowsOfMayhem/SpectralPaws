@@ -95,18 +95,766 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AidleMorda_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1844
+        width: 197
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8296270206f1f124d97d9a2e3ea78bc2
+      internalID: 451434162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1844
+        width: 197
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffeabaabf7521246bd7a73ea7d5f777
+      internalID: 1600834527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1844
+        width: 196
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11dd93789fa714395378038531f7be
+      internalID: -1407034481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_3
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1844
+        width: 198
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6eb7578be29024fa519d4e3dcc49bc
+      internalID: 361010930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_4
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1844
+        width: 198
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ebf46b5add0454ea89b51f07a49d5b
+      internalID: -2014302998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_5
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1843
+        width: 197
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd38d65ead73b5499307adbce75b8b8
+      internalID: -1965850706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_6
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1846
+        width: 198
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037322c66cba0ef43bc0f732033fee92
+      internalID: -656718439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1400
+        width: 199
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aac757b4761264daf64331a6316697
+      internalID: 438032875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1402
+        width: 199
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a309df52b5f14898e8d2cf9a8d7fa
+      internalID: -1266428554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1401
+        width: 197
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39ef2936f8ac95439cd25e4d35b8a84
+      internalID: -1714779494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_10
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1401
+        width: 196
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f24a394e1bb744aceb7637ea2ac41
+      internalID: -110582072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_11
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1401
+        width: 197
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa5cdf480526b044adbe454a5110bb5
+      internalID: 57246973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_12
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1401
+        width: 197
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41464ffec17ecd348b7c75e8443bcf35
+      internalID: -172183612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_13
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1401
+        width: 197
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bc1a4f6b53965459f9edcd4f64da98
+      internalID: 1700503038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 946
+        width: 197
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95dc48e0102cd74fb4f14260ff10cd1
+      internalID: 1164037116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 946
+        width: 196
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e672c113fa048dd469321e5972b1745d
+      internalID: 208441840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_16
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 946
+        width: 197
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26000a284c5b66147a0366a4777e58d4
+      internalID: 413601146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_17
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 946
+        width: 198
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276eec6addbd3f34bb5d29e0c637cfb8
+      internalID: -1803884868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_18
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 946
+        width: 198
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102fe686e98ddc6418851c944f41421e
+      internalID: -1757655670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_19
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 946
+        width: 197
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a1581ec3c6df4a9acf38df22d04cc
+      internalID: -747335442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_20
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 946
+        width: 199
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eefc00bd20760447ac26ea21bfd6b65
+      internalID: -1431672633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 519
+        width: 199
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f88bb727c9ec044a82d3e08e0d6de8
+      internalID: -262384931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 519
+        width: 198
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba80e3d95c6096644aceda20a84698b8
+      internalID: -698591996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_23
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 519
+        width: 197
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7613d73c51ff3a4cb6712695dcecdff
+      internalID: 2097453098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_24
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 519
+        width: 197
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714d664f9dc8374d8ca1dfbbea96c62
+      internalID: 614753333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_25
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 519
+        width: 197
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec3a22aec8d4a43b312bb14d8512f3
+      internalID: 658280947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_26
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 517
+        width: 197
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0e9512e5748de408a75cf094101a90
+      internalID: 1222589677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_27
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 519
+        width: 198
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f5a6913e60484a81480610bed4d5a
+      internalID: 150240537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 118
+        width: 198
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b014a69f877be53478ea0a55d82a1209
+      internalID: 341113617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 118
+        width: 197
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d197b0b9404ae4685ef3adbc78de64
+      internalID: -1710488186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_30
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 118
+        width: 196
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56204ad636b2f641a434962d7f9587c
+      internalID: -1148671875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_31
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 118
+        width: 197
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc8840f61ac074692aa92f65f9af83
+      internalID: -1684746607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_32
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 118
+        width: 197
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a7d66555f7054f940f94dc4c99378
+      internalID: 1423090893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AidleMorda_33
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 118
+        width: 196
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c565a6f7e8cfd344c8832cf625ba12f0
+      internalID: 412349676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: afe2b80af70572d40ae31513a0bde11b
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AidleMorda_0: 451434162
+      AidleMorda_1: 1600834527
+      AidleMorda_10: -110582072
+      AidleMorda_11: 57246973
+      AidleMorda_12: -172183612
+      AidleMorda_13: 1700503038
+      AidleMorda_14: 1164037116
+      AidleMorda_15: 208441840
+      AidleMorda_16: 413601146
+      AidleMorda_17: -1803884868
+      AidleMorda_18: -1757655670
+      AidleMorda_19: -747335442
+      AidleMorda_2: -1407034481
+      AidleMorda_20: -1431672633
+      AidleMorda_21: -262384931
+      AidleMorda_22: -698591996
+      AidleMorda_23: 2097453098
+      AidleMorda_24: 614753333
+      AidleMorda_25: 658280947
+      AidleMorda_26: 1222589677
+      AidleMorda_27: 150240537
+      AidleMorda_28: 341113617
+      AidleMorda_29: -1710488186
+      AidleMorda_3: 361010930
+      AidleMorda_30: -1148671875
+      AidleMorda_31: -1684746607
+      AidleMorda_32: 1423090893
+      AidleMorda_33: 412349676
+      AidleMorda_4: -2014302998
+      AidleMorda_5: -1965850706
+      AidleMorda_6: -656718439
+      AidleMorda_7: 438032875
+      AidleMorda_8: -1266428554
+      AidleMorda_9: -1714779494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

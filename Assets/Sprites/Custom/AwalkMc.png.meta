@@ -100,10 +100,10 @@ TextureImporter:
       name: AwalkMc_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1671
-        width: 226
-        height: 375
+        x: 160
+        y: 1109
+        width: 227
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,10 +121,10 @@ TextureImporter:
       name: AwalkMc_1
       rect:
         serializedVersion: 2
-        x: 230
-        y: 1673
-        width: 227
-        height: 373
+        x: 470
+        y: 1110
+        width: 228
+        height: 378
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,10 +142,10 @@ TextureImporter:
       name: AwalkMc_2
       rect:
         serializedVersion: 2
-        x: 459
-        y: 1674
-        width: 226
-        height: 372
+        x: 791
+        y: 1108
+        width: 228
+        height: 377
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,10 +163,10 @@ TextureImporter:
       name: AwalkMc_3
       rect:
         serializedVersion: 2
-        x: 688
-        y: 1674
-        width: 225
-        height: 373
+        x: 1112
+        y: 1113
+        width: 229
+        height: 376
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: AwalkMc_4
       rect:
         serializedVersion: 2
-        x: 916
-        y: 1674
-        width: 226
-        height: 372
+        x: 1417
+        y: 1113
+        width: 228
+        height: 377
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +205,10 @@ TextureImporter:
       name: AwalkMc_5
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1293
-        width: 226
-        height: 375
+        x: 1720
+        y: 1113
+        width: 228
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: AwalkMc_6
       rect:
         serializedVersion: 2
-        x: 231
-        y: 1293
-        width: 223
-        height: 377
+        x: 2008
+        y: 1110
+        width: 230
+        height: 381
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: AwalkMc_7
       rect:
         serializedVersion: 2
-        x: 457
-        y: 1296
-        width: 226
-        height: 374
+        x: 2307
+        y: 1113
+        width: 228
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: AwalkMc_8
       rect:
         serializedVersion: 2
-        x: 686
-        y: 1297
-        width: 224
-        height: 375
+        x: 160
+        y: 643
+        width: 228
+        height: 381
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: AwalkMc_9
       rect:
         serializedVersion: 2
-        x: 1
-        y: 914
-        width: 226
-        height: 375
+        x: 485
+        y: 645
+        width: 230
+        height: 381
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: AwalkMc_10
       rect:
         serializedVersion: 2
-        x: 230
-        y: 914
-        width: 225
-        height: 376
+        x: 791
+        y: 645
+        width: 230
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,10 +331,10 @@ TextureImporter:
       name: AwalkMc_11
       rect:
         serializedVersion: 2
-        x: 458
-        y: 923
-        width: 227
-        height: 371
+        x: 1113
+        y: 646
+        width: 229
+        height: 381
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: AwalkMc_12
       rect:
         serializedVersion: 2
-        x: 1
-        y: 537
-        width: 226
-        height: 375
+        x: 1417
+        y: 646
+        width: 228
+        height: 381
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,10 +373,10 @@ TextureImporter:
       name: AwalkMc_13
       rect:
         serializedVersion: 2
-        x: 230
-        y: 535
-        width: 224
-        height: 376
+        x: 1706
+        y: 647
+        width: 229
+        height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: AwalkMc_14
       rect:
         serializedVersion: 2
-        x: 457
-        y: 538
-        width: 225
-        height: 373
+        x: 2009
+        y: 647
+        width: 230
+        height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: AwalkMc_15
       rect:
         serializedVersion: 2
-        x: 685
-        y: 550
-        width: 225
-        height: 370
+        x: 2307
+        y: 642
+        width: 228
+        height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: AwalkMc_16
       rect:
         serializedVersion: 2
-        x: 1
-        y: 160
-        width: 226
-        height: 374
+        x: 143
+        y: 152
+        width: 230
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: AwalkMc_17
       rect:
         serializedVersion: 2
-        x: 230
-        y: 159
-        width: 225
-        height: 374
+        x: 487
+        y: 153
+        width: 228
+        height: 379
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: AwalkMc_18
       rect:
         serializedVersion: 2
-        x: 458
-        y: 164
-        width: 225
-        height: 372
+        x: 791
+        y: 156
+        width: 229
+        height: 376
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,6 +491,27 @@ TextureImporter:
       bones: []
       spriteID: c94687e7bfd6d774e8a30afeab748032
       internalID: -890007077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AwalkMc_19
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 156
+        width: 228
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb66cab808329418f722c386e07e81
+      internalID: -1084080130
       vertices: []
       indices: 
       edges: []
@@ -517,6 +538,7 @@ TextureImporter:
       AwalkMc_16: 471589546
       AwalkMc_17: -321661364
       AwalkMc_18: -890007077
+      AwalkMc_19: -1084080130
       AwalkMc_2: 62267043
       AwalkMc_3: -775158191
       AwalkMc_4: 1432531048

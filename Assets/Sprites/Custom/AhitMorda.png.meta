@@ -100,10 +100,10 @@ TextureImporter:
       name: AhitMorda_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 658
-        width: 195
-        height: 365
+        x: 111
+        y: 1103
+        width: 196
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,10 +121,10 @@ TextureImporter:
       name: AhitMorda_1
       rect:
         serializedVersion: 2
-        x: 198
-        y: 658
-        width: 194
-        height: 365
+        x: 408
+        y: 1103
+        width: 197
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,10 +142,10 @@ TextureImporter:
       name: AhitMorda_2
       rect:
         serializedVersion: 2
-        x: 394
-        y: 658
-        width: 189
-        height: 365
+        x: 664
+        y: 1103
+        width: 190
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,10 +163,10 @@ TextureImporter:
       name: AhitMorda_3
       rect:
         serializedVersion: 2
-        x: 585
-        y: 664
-        width: 189
-        height: 359
+        x: 918
+        y: 1102
+        width: 197
+        height: 324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: AhitMorda_4
       rect:
         serializedVersion: 2
-        x: 776
-        y: 673
-        width: 182
-        height: 350
+        x: 1187
+        y: 1103
+        width: 181
+        height: 338
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +205,10 @@ TextureImporter:
       name: AhitMorda_5
       rect:
         serializedVersion: 2
-        x: 1
-        y: 291
-        width: 195
-        height: 365
+        x: 1437
+        y: 1103
+        width: 185
+        height: 352
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: AhitMorda_6
       rect:
         serializedVersion: 2
-        x: 198
-        y: 291
-        width: 192
-        height: 365
+        x: 1669
+        y: 1103
+        width: 199
+        height: 324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: AhitMorda_7
       rect:
         serializedVersion: 2
-        x: 392
-        y: 291
-        width: 191
-        height: 365
+        x: 1919
+        y: 1103
+        width: 190
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: AhitMorda_8
       rect:
         serializedVersion: 2
-        x: 777
-        y: 350
-        width: 194
-        height: 321
+        x: 107
+        y: 674
+        width: 193
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: AhitMorda_9
       rect:
         serializedVersion: 2
-        x: 586
-        y: 27
+        x: 408
+        y: 674
         width: 194
-        height: 321
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: AhitMorda_10
       rect:
         serializedVersion: 2
-        x: 782
-        y: 12
-        width: 179
-        height: 336
+        x: 676
+        y: 674
+        width: 195
+        height: 367
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

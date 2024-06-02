@@ -426,6 +426,7 @@ MonoBehaviour:
   - {fileID: 9199758970344908075}
   kod_pokoju: 0000
   wrogowie: 0
+  boss: 0
 --- !u!114 &2072124042993551634
 MonoBehaviour:
   m_ObjectHideFlags: 0

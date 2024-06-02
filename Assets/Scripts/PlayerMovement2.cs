@@ -40,6 +40,7 @@ public class PlayerMovement2 : MonoBehaviour
     private bool canMove = true;
     private TextMeshProUGUI textMeshPro;
     public RoomGenerator currentRoom;
+    Animator anim;
 
     RaycastHit hit;
 
@@ -54,6 +55,9 @@ public class PlayerMovement2 : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
         canMove = true;
+        anim = GetComponent<Animator>();
+        anim.SetBool("walk", false);
+        anim.SetBool("attack", false);
     }
 
     void Update()
@@ -67,6 +71,11 @@ public class PlayerMovement2 : MonoBehaviour
         float curSpeedY = canMove ? (isRunning ? runSpeed : walkSpeed) * Input.GetAxis("Horizontal") : 0;
         float movementDirectionY = moveDirection.y;
         moveDirection = (forward * curSpeedX) + (right * curSpeedY);
+
+       /* 
+        if(moveDirection.y ==0 && moveDirection.x ==0 && moveDirection.z ==0)
+            anim.SetBool("walk", false);
+       */
 
         if (Input.GetKeyDown(KeyCode.P))
         {
@@ -103,7 +112,9 @@ public class PlayerMovement2 : MonoBehaviour
         // Attack
         if (Input.GetMouseButtonDown(0))
         {
+            anim.SetBool("attack", true);
             Attack();
+            anim.SetBool("attack", false);
         }
 
         // Dash
@@ -155,6 +166,8 @@ public class PlayerMovement2 : MonoBehaviour
             //transform.rotation *= Quaternion.Euler(0, axisx * lookSpeed, 0);
 
             SFX.instance.PlaySFX(2); // footsteps
+
+            //anim.SetBool("walk", true);
 
             //axisx = 0;
             // Camera rotation
@@ -243,6 +256,7 @@ public class PlayerMovement2 : MonoBehaviour
             textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
             textMeshPro.text = "End Game!";
             Cursor.visible = true;
+            anim.SetBool("die",true);
             Time.timeScale = 1f;
             canMove = false;
             StartCoroutine(Wait());

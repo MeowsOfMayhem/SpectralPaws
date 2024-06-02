@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,18 +95,1536 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AmcAttack_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 914
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a27acc055881f439fb355db53e0a05
+      internalID: 1649087748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 915
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d828524a380ff846aad470698f1f91e
+      internalID: -2098605750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 914
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4afc4d6f380034e8b73e14d2352872
+      internalID: 678612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 915
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6080c5ec6b7f79408bed692eb872af9
+      internalID: 1473209396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 914
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28072a3be70a659419e3760632cc7f9c
+      internalID: -2023148574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 914
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15fa7beb740cd64eb4badf814384aed
+      internalID: -490391489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_6
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 915
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ec82e13c76234da70ba97c9aea20a
+      internalID: 1165867806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 914
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354df00f2721be479e35312ee7b2d82
+      internalID: 1297849114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 914
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a9e30d9fbb2146a4114849a01cc4b
+      internalID: -1703209427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 786
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b20b67b753a242ba68bba3d5f8a36
+      internalID: 654711209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 786
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5819ab5fbd70fe44e8ca722ca01e3765
+      internalID: 109723046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 787
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b683ded901c83149b7d3d39e659e4c1
+      internalID: 583238948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 786
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1b7c964ed2ec447a2088ba3fb4f75d
+      internalID: 59315670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 787
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced27ed1ae35a0f4ba6ed226df85d332
+      internalID: 1886527820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 786
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23694e2c283fb47498ec2e558ceef9bb
+      internalID: 199143461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_15
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 786
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7429efe374dfae945b57faee9480098c
+      internalID: -1844776820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_16
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 787
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ff81c88da561438e7bb7ab6542657
+      internalID: -2144580364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 786
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3422b29b78703a4eb7cd412df072ea6
+      internalID: -44295671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 659
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93def2d74fde91c4e9e28feb43a1ea23
+      internalID: -1224766509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 658
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd06c0bddc1ff20458560879bb165829
+      internalID: 540506652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 658
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e662674130704542a767526099c80bd
+      internalID: 1103525286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 658
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9870c8c0341577468dcfda72f13d1c7
+      internalID: -120947867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 658
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061276c7c02edef4787d696b97e25d7c
+      internalID: 1100442566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_23
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 659
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e350f883da39f24b92d06190030edb5
+      internalID: 136925044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_24
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 658
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2263af031c8ab594eaaa4737b19bbdd6
+      internalID: 1504343366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 658
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c983365397fbf4e843699f1b232e78
+      internalID: 260391844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 658
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db98347d6cfd94da82582c011b890f
+      internalID: 308481418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 530
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710f0f8cd690f24d952bd322bab4fa3
+      internalID: -606792299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 530
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104cb64b9e84d444e8aa627b7811b67a
+      internalID: -41261739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 530
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b435234d77064bad5a9786004a809
+      internalID: 341936152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_30
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 530
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc245656fe6de64b9b1b80a6907c64f
+      internalID: -841293186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 530
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0e46b73ee17f4db6ef079f63f5f18
+      internalID: -374803104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 530
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08635caf9a2bc4db030d0268c26cf8
+      internalID: 703401045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_33
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 530
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4b4663b43e65498633fd17b10a0fa
+      internalID: 806123222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_34
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 531
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25714d9857cb09b42a0c2abc8893ba93
+      internalID: 1905593141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_35
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 531
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec37f019795724247bd38b0cade59d86
+      internalID: -1779298488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 402
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d933d8136be3f8e4fae118e873291c76
+      internalID: 1832770443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 403
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc9bc987751c548929ee2ad0249c08
+      internalID: -522626209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 402
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99642229c9c0598428de0de3af02c195
+      internalID: -1277761503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 402
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6351dc3a65130814fa0394c319e5cc91
+      internalID: 1602541866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_40
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 403
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbf275e9098ed14da4e2af1b80c3b9c
+      internalID: -212919331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_41
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 402
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043348c4ac847cb4e8b01b2a8f3ef752
+      internalID: -1006490652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_42
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 402
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8e08696dca6f14fa7e7d44fcf03166
+      internalID: 181322532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_43
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 402
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c766c860ca9c140a80d940df88f9c4
+      internalID: -1145819645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_44
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 402
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fbbba43a0a74b4ba7bc6ba5b090103
+      internalID: 1709127715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 274
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c3a92121fc2e4d84a5b1514a460b1
+      internalID: -487601180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 274
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29af215e7d9ccbe4390e1bfff5ed3cef
+      internalID: 854237789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 275
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18993f714ef414aaf301f487b497df
+      internalID: -230937201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 274
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b6a9469d196140b17bab822d45683
+      internalID: -1143537996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_49
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 274
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1706a014612d6ea4e869aa8577c0b76a
+      internalID: 718385242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 274
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e333396758b7442838bb77d105e431
+      internalID: 811284135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_51
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 274
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e94750da634974789052cbba875ebb
+      internalID: -1325407959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_52
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 275
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0dee0bd9f3404495ea3c84214aafd
+      internalID: 1119625257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 146
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910390cc81dc1ea40869d2a2afe5d740
+      internalID: 704119199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 147
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa83cac4ce61541bf5d8b19dedcd3c
+      internalID: -1122135414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 147
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733aff59cf9bb9e43833388b5f2ac8cd
+      internalID: 129093725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_56
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 147
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edce23de25a1944dadb56932873ad3d
+      internalID: -1404319640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_57
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 147
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add102aab36bc7e48bd79df43a943d52
+      internalID: -413061270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_58
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 147
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5d9d605630cf469fb1298fb49a5e9
+      internalID: 1382088504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_59
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 147
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d1922cf673834ca6a5267104e43a9
+      internalID: -317477015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_60
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 146
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7510c3dd6b0784aa07ecb94ec41525
+      internalID: 1214462579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 18
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfcebaa71d471146beafef16b47e566
+      internalID: -942748664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 18
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb89dcdc4daffe43a69091ee954568e
+      internalID: -80498259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_63
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642c45de4008d6642bfb73860c504ad3
+      internalID: -290313680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_64
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 18
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d775f96e8d934c8953b3ecb3461f4
+      internalID: -832417458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_65
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 18
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68981e175e601ef46b2f17018fb5db76
+      internalID: -412358851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_66
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 19
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75792a955761544439ea11726660c2da
+      internalID: 1691593591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_67
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 19
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226638d0a8b2d834097e5fbce7c3b946
+      internalID: -93180130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmcAttack_68
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 18
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770bd0a77ca31f34a932011fd128f06e
+      internalID: -415516013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a0df8d20ac3281c40abffe575ee23727
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AmcAttack_0: 1649087748
+      AmcAttack_1: -2098605750
+      AmcAttack_10: 109723046
+      AmcAttack_11: 583238948
+      AmcAttack_12: 59315670
+      AmcAttack_13: 1886527820
+      AmcAttack_14: 199143461
+      AmcAttack_15: -1844776820
+      AmcAttack_16: -2144580364
+      AmcAttack_17: -44295671
+      AmcAttack_18: -1224766509
+      AmcAttack_19: 540506652
+      AmcAttack_2: 678612855
+      AmcAttack_20: 1103525286
+      AmcAttack_21: -120947867
+      AmcAttack_22: 1100442566
+      AmcAttack_23: 136925044
+      AmcAttack_24: 1504343366
+      AmcAttack_25: 260391844
+      AmcAttack_26: 308481418
+      AmcAttack_27: -606792299
+      AmcAttack_28: -41261739
+      AmcAttack_29: 341936152
+      AmcAttack_3: 1473209396
+      AmcAttack_30: -841293186
+      AmcAttack_31: -374803104
+      AmcAttack_32: 703401045
+      AmcAttack_33: 806123222
+      AmcAttack_34: 1905593141
+      AmcAttack_35: -1779298488
+      AmcAttack_36: 1832770443
+      AmcAttack_37: -522626209
+      AmcAttack_38: -1277761503
+      AmcAttack_39: 1602541866
+      AmcAttack_4: -2023148574
+      AmcAttack_40: -212919331
+      AmcAttack_41: -1006490652
+      AmcAttack_42: 181322532
+      AmcAttack_43: -1145819645
+      AmcAttack_44: 1709127715
+      AmcAttack_45: -487601180
+      AmcAttack_46: 854237789
+      AmcAttack_47: -230937201
+      AmcAttack_48: -1143537996
+      AmcAttack_49: 718385242
+      AmcAttack_5: -490391489
+      AmcAttack_50: 811284135
+      AmcAttack_51: -1325407959
+      AmcAttack_52: 1119625257
+      AmcAttack_53: 704119199
+      AmcAttack_54: -1122135414
+      AmcAttack_55: 129093725
+      AmcAttack_56: -1404319640
+      AmcAttack_57: -413061270
+      AmcAttack_58: 1382088504
+      AmcAttack_59: -317477015
+      AmcAttack_6: 1165867806
+      AmcAttack_60: 1214462579
+      AmcAttack_61: -942748664
+      AmcAttack_62: -80498259
+      AmcAttack_63: -290313680
+      AmcAttack_64: -832417458
+      AmcAttack_65: -412358851
+      AmcAttack_66: 1691593591
+      AmcAttack_67: -93180130
+      AmcAttack_68: -415516013
+      AmcAttack_7: 1297849114
+      AmcAttack_8: -1703209427
+      AmcAttack_9: 654711209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

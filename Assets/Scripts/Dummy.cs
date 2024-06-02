@@ -7,9 +7,12 @@ public class Dummy : MonoBehaviour
     private int currentHealth;
     private bool isDead = false;
 
+    Animator anim;
+
     void Start()
     {
         currentHealth = maxHealth;
+        //anim = GetComponent<Animator>();
     }
 
     public void TakeDamage(int damage)

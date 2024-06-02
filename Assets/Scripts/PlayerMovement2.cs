@@ -72,10 +72,16 @@ public class PlayerMovement2 : MonoBehaviour
         float movementDirectionY = moveDirection.y;
         moveDirection = (forward * curSpeedX) + (right * curSpeedY);
 
-       /* 
-        if(moveDirection.y ==0 && moveDirection.x ==0 && moveDirection.z ==0)
+        if(Input.GetAxisRaw("Horizontal")!=0 || Input.GetAxisRaw("Vertical")!=0)
+            anim.SetBool("walk", true);
+
+        if (Input.GetAxisRaw("Horizontal") == 0 && Input.GetAxisRaw("Vertical") == 0)
             anim.SetBool("walk", false);
-       */
+
+        /* 
+         if(moveDirection.y ==0 && moveDirection.x ==0 && moveDirection.z ==0)
+             anim.SetBool("walk", false);
+        */
 
         if (Input.GetKeyDown(KeyCode.P))
         {
@@ -270,7 +276,7 @@ public class PlayerMovement2 : MonoBehaviour
     {
         UI.SetActive(true);
         textMeshPro = UI.GetComponentInChildren<TextMeshProUGUI>();
-        textMeshPro.text = "Won Game!";
+        textMeshPro.text = "Game won!";
         Cursor.visible = true;
         Time.timeScale = 1f;
         canMove = false;

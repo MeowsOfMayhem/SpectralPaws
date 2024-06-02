@@ -29,6 +29,7 @@ public class EnemyControler1 : MonoBehaviour
     public bool canShoot;
     public GameObject projectile;
     private float nextFireTime;
+    Animator anim;
 
     // Start is called before the first frame update
     void Start()
@@ -42,6 +43,10 @@ public class EnemyControler1 : MonoBehaviour
             currentPatrolPoint = 0;
         }
         nextFireTime = Time.time;
+        anim = GetComponent<Animator>();
+
+        //anim.Play("kot1");
+
         //cooldownTime = 3.0f;
     }
 
@@ -122,6 +127,11 @@ public class EnemyControler1 : MonoBehaviour
 
         theRB.velocity = moveDirecton * moveSpeed;
 
+        if (theRB.velocity == Vector3.zero)
+            anim.SetBool("walk", false);
+        else
+            anim.SetBool("walk", true);
+
         //Debug.DrawRay(theRB.transform.position, theRB.transform.forward * 10, Color.red);
     }
 
@@ -129,11 +139,11 @@ public class EnemyControler1 : MonoBehaviour
     {
         // Implement your attack logic here
         Debug.Log("Enemy attacks!");
+        anim.Play("KotAttack");
 
         GameObject impactDO = Instantiate(projectile, transform.position, Quaternion.identity);
         SFX.instance.PlaySFX(1);
         //impactDO.transform.LookAt(PlayerMovement2.instance.transform.position);
         Destroy(impactDO, 3f);
-
     }
 }

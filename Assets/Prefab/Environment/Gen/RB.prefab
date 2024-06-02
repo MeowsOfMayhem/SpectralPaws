@@ -335,12 +335,12 @@ MonoBehaviour:
   - {fileID: 5915636329352117629}
   sprawner:
   - {fileID: 7083466281501152954}
-  - {fileID: 7083466281501152954}
   - {fileID: 5871056096550635308}
   lockeddoor:
   - {fileID: 5566500120903488548}
   kod_pokoju: 1111
   wrogowie: 0
+  boss: 0
 --- !u!114 &2072124042993551634
 MonoBehaviour:
   m_ObjectHideFlags: 0

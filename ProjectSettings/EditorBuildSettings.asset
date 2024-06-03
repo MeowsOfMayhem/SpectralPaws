@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelGenDemo.unity
     guid: 2e71df1f1a55c4c40a1a9b1072345534
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Dungeon1.unity
     guid: 62dd77a137380ae4badbac8550dee92d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Dungeon2.unity
     guid: 8e5c386cd5b912548872b53303a9ed6e
   m_configObjects: {}

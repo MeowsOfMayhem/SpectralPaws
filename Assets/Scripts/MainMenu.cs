@@ -2,10 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
     public string firstLevelName;
+    public GameObject options;
 
     private void Start()
     {
@@ -35,6 +37,12 @@ public void QuitGame()
     public void Credits()
     {
         Debug.Log("Credits button...");
+        options.SetActive(true);
+    }
+
+    public void HidePanel()
+    {
+        options.SetActive(false);
     }
 }
 
